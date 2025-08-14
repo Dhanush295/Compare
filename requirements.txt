@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+unstructured[pdf]
+llmsherpa
+# Env/config
+python-dotenv==1.0.1
+
+# Network
+requests>=2.32.3
