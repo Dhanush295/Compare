@@ -1,0 +1,3847 @@
+{
+  "filename": "Document3.pdf",
+  "library": "unstructured",
+  "data": [
+    {
+      "type": "UncategorizedText",
+      "element_id": "8c9d4bb0f2ef94e55fbd3b0eccad182b",
+      "text": "A1404013",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              342.7092,
+              155.52520000000004
+            ],
+            [
+              342.7092,
+              165.52520000000004
+            ],
+            [
+              387.60357500000003,
+              165.52520000000004
+            ],
+            [
+              387.60357500000003,
+              155.52520000000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 1,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "85bc9fccd8fbe322885e61b8d21e8b2c",
+      "text": "Exhibit E",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              271.74120000000005,
+              178.12820000000022
+            ],
+            [
+              271.74120000000005,
+              196.12820000000022
+            ],
+            [
+              344.72220000000004,
+              196.12820000000022
+            ],
+            [
+              344.72220000000004,
+              178.12820000000022
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 1,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "11cf7c63cf69910d565e5b9e1709d783",
+      "text": "Agreement and Plan of Merger",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              194.04060000000004,
+              219.52840000000003
+            ],
+            [
+              194.04060000000004,
+              237.52840000000003
+            ],
+            [
+              422.49300000000017,
+              237.52840000000003
+            ],
+            [
+              422.49300000000017,
+              219.52840000000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 1,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "378ad79b93a9b1cc0558ab02d386674d",
+      "text": "FILED 4-11-14 04:59 PM",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              490.11048,
+              90.10048000000006
+            ],
+            [
+              490.11048,
+              128.67488000000003
+            ],
+            [
+              538.22976,
+              128.67488000000003
+            ],
+            [
+              538.22976,
+              90.10048000000006
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 1,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "11cf7c63cf69910d565e5b9e1709d783"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "9584757a31f1ca57beaebe3cac341fb5",
+      "text": "AGREEMENT AND PLAN OF MERGER",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              214.3204,
+              74.39146000000005
+            ],
+            [
+              214.3204,
+              84.35145999999997
+            ],
+            [
+              397.566472,
+              84.35145999999997
+            ],
+            [
+              397.566472,
+              74.39146000000005
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "fc47bf3736630faac7474e3d89da112f",
+      "text": "dated as of",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              284.280436,
+              129.83166000000006
+            ],
+            [
+              284.280436,
+              139.79180799999995
+            ],
+            [
+              327.67658,
+              139.79180799999995
+            ],
+            [
+              327.67658,
+              129.83166000000006
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "9584757a31f1ca57beaebe3cac341fb5"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "a36cf012dc49034db29e2aac4453fa67",
+      "text": "February 12, 2014",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              269.1605,
+              174.11166000000003
+            ],
+            [
+              269.1605,
+              184.07165999999995
+            ],
+            [
+              342.77984000000004,
+              184.07165999999995
+            ],
+            [
+              342.77984000000004,
+              174.11166000000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "6eaf1f35f477ab3bfad71cc6d93fe3af",
+      "text": "among",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              292.44000800000003,
+              218.39182800000003
+            ],
+            [
+              292.44000800000003,
+              228.35182799999995
+            ],
+            [
+              319.7423600000001,
+              228.35182799999995
+            ],
+            [
+              319.7423600000001,
+              218.39182800000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "f6df725f344bef19d76616e9332c13a3",
+      "text": "TIME WARNER CABLE INC.,",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              237.23969600000004,
+              262.67199600000004
+            ],
+            [
+              237.23969600000004,
+              272.63199599999996
+            ],
+            [
+              374.236508,
+              272.63199599999996
+            ],
+            [
+              374.236508,
+              262.67199600000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "6eaf1f35f477ab3bfad71cc6d93fe3af"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "4fd3c6e928b458f595a38f1880d076ec",
+      "text": "COMCAST CORPORATION",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              241.19979200000003,
+              295.79198399999996
+            ],
+            [
+              241.19979200000003,
+              305.751984
+            ],
+            [
+              371.296316,
+              305.751984
+            ],
+            [
+              371.296316,
+              295.79198399999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "a7605811c4373516b87d2a5f0aeef69c",
+      "text": "and",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              298.79946800000005,
+              340.07215199999996
+            ],
+            [
+              298.79946800000005,
+              350.032152
+            ],
+            [
+              313.14087200000006,
+              350.032152
+            ],
+            [
+              313.14087200000006,
+              340.07215199999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "ed436580f2656e7af3a0567bd2a2025c",
+      "text": "TANGO ACQUISITION SUB, INC.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              228.35936000000004,
+              384.35231999999996
+            ],
+            [
+              228.35936000000004,
+              394.31232
+            ],
+            [
+              383.50129999999996,
+              394.31232
+            ],
+            [
+              383.50129999999996,
+              384.35231999999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a7605811c4373516b87d2a5f0aeef69c"
+      }
+    },
+    {
+      "type": "Header",
+      "element_id": "604001171677519f5162d52eb2c26a47",
+      "text": "TABLE OF CONTENTS",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              254.8805,
+              50.15176000000008
+            ],
+            [
+              254.8805,
+              60.111760000000004
+            ],
+            [
+              362.07214640000007,
+              60.111760000000004
+            ],
+            [
+              362.07214640000007,
+              50.15176000000008
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "fa68c1d2675171e97c4d9bed5da71244",
+      "text": "ARTICLE 1 Definitions",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              20.28,
+              96.59156000000007
+            ],
+            [
+              20.28,
+              106.55156
+            ],
+            [
+              122.54697408000001,
+              106.55156
+            ],
+            [
+              122.54697408000001,
+              96.59156000000007
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "5e2c8f9fb849310cb2c66d6b070ce680",
+      "text": "Section 1.01.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              112.1939000000001
+            ],
+            [
+              26.999980800000003,
+              122.15390000000002
+            ],
+            [
+              84.43494095999999,
+              122.15390000000002
+            ],
+            [
+              84.43494095999999,
+              112.1939000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "0ef620c9488fbbe0e40c0ae5bf105a19",
+      "text": "Definitions",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.66952831999998,
+              112.1939000000001
+            ],
+            [
+              106.66952831999998,
+              122.15390000000002
+            ],
+            [
+              156.48884159999992,
+              122.15390000000002
+            ],
+            [
+              156.48884159999992,
+              112.1939000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "3006da944d8bba96c9848bc33cc0afde",
+      "text": "Section 1.02.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              127.79424800000015
+            ],
+            [
+              26.999980800000003,
+              137.75424800000008
+            ],
+            [
+              84.39020735999999,
+              137.75424800000008
+            ],
+            [
+              84.39020735999999,
+              127.79424800000015
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "ec01ca2a9dbfb3eaba9d2311184ab7f7",
+      "text": "Other Definitional and Interpretative Provisions",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.62479471999998,
+              127.79424800000015
+            ],
+            [
+              106.62479471999998,
+              137.75424800000008
+            ],
+            [
+              303.28264704000037,
+              137.75424800000008
+            ],
+            [
+              303.28264704000037,
+              127.79424800000015
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "e4eafda3f5975793ac843b766b10d5e1",
+      "text": "ARTICLE 2 The Merger",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              20.28,
+              143.3945960000002
+            ],
+            [
+              20.28,
+              153.35459600000013
+            ],
+            [
+              124.88604431999998,
+              153.35459600000013
+            ],
+            [
+              124.88604431999998,
+              143.3945960000002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "9a5fed179727bcab7c5801d0ec40c753",
+      "text": "Section 2.01.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              158.8744280000002
+            ],
+            [
+              26.999980800000003,
+              168.83442800000012
+            ],
+            [
+              84.48464496000003,
+              168.83442800000012
+            ],
+            [
+              84.48464496000003,
+              158.8744280000002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "36becba1e488c974c46c624453424956",
+      "text": "The Merger",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.71923232,
+              158.8744280000002
+            ],
+            [
+              106.71923232,
+              168.83442800000012
+            ],
+            [
+              159.12215951999994,
+              168.83442800000012
+            ],
+            [
+              159.12215951999994,
+              158.8744280000002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "ba140e9f8faa134a9dbe715e9a3e438b",
+      "text": "Section 2.02.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              174.47477600000025
+            ],
+            [
+              26.999980800000003,
+              184.43477600000017
+            ],
+            [
+              84.47967455999999,
+              184.43477600000017
+            ],
+            [
+              84.47967455999999,
+              174.47477600000025
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "a1bf1db6fe5f608be4432fd62ccee50a",
+      "text": "Conversion of Shares",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.71426191999998,
+              174.47477600000025
+            ],
+            [
+              106.71426191999998,
+              184.43477600000017
+            ],
+            [
+              197.73023855999992,
+              184.43477600000017
+            ],
+            [
+              197.73023855999992,
+              174.47477600000025
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "486f4b18ebe8f5cd113dc212b3c2478d",
+      "text": "Section 2.03.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              190.07711600000027
+            ],
+            [
+              26.999980800000003,
+              200.0371160000002
+            ],
+            [
+              84.4180416,
+              200.0371160000002
+            ],
+            [
+              84.4180416,
+              190.07711600000027
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "34646b98a76038f905f069730a5f23e1",
+      "text": "Surrender and Payment",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.65262895999999,
+              190.07711600000027
+            ],
+            [
+              106.65262895999999,
+              200.0371160000002
+            ],
+            [
+              205.56358896000012,
+              200.0371160000002
+            ],
+            [
+              205.56358896000012,
+              190.07711600000027
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "c1e4e1697ea46ed2f944c446e02168b4",
+      "text": "Section 2.04.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              205.67746400000033
+            ],
+            [
+              26.999980800000003,
+              215.63746400000025
+            ],
+            [
+              84.48265680000003,
+              215.63746400000025
+            ],
+            [
+              84.48265680000003,
+              205.67746400000033
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "46418690eec671cdc28f3a929e615dc6",
+      "text": "Equity-Based Awards",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.71724416,
+              205.67746400000033
+            ],
+            [
+              106.71724416,
+              215.63746400000025
+            ],
+            [
+              199.66770047999992,
+              215.63746400000025
+            ],
+            [
+              199.66770047999992,
+              205.67746400000033
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "cee75fdfe6cab8f8edc9cd96045db38c",
+      "text": "Section 2.05.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              221.15729600000031
+            ],
+            [
+              26.999980800000003,
+              231.11729600000024
+            ],
+            [
+              84.4180416,
+              231.11729600000024
+            ],
+            [
+              84.4180416,
+              221.15729600000031
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "9a5e82815bc829fb2e7fb9df9cdbf223",
+      "text": "Adjustments",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.65262895999999,
+              221.15729600000031
+            ],
+            [
+              106.65262895999999,
+              231.11729600000024
+            ],
+            [
+              162.20380752000005,
+              231.11729600000024
+            ],
+            [
+              162.20380752000005,
+              221.15729600000031
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "2b0b236d6210de40e5bb222844c6d090",
+      "text": "Section 2.06.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              236.75764400000037
+            ],
+            [
+              26.999980800000003,
+              246.7176440000003
+            ],
+            [
+              84.45681072000001,
+              246.7176440000003
+            ],
+            [
+              84.45681072000001,
+              236.75764400000037
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "3d291b90700040374e68fcd0d20254aa",
+      "text": "Fractional Shares",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.69139808,
+              236.75764400000037
+            ],
+            [
+              106.69139808,
+              246.7176440000003
+            ],
+            [
+              181.40346864000009,
+              246.7176440000003
+            ],
+            [
+              181.40346864000009,
+              236.75764400000037
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "914a74ba433ffc8d9c94f41a29813f71",
+      "text": "Section 2.07.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              252.3599840000004
+            ],
+            [
+              26.999980800000003,
+              262.3199840000003
+            ],
+            [
+              84.4180416,
+              262.3199840000003
+            ],
+            [
+              84.4180416,
+              252.3599840000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "8bf371f49f5c4d5008be26deaf4a1852",
+      "text": "Withholding",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.65262895999999,
+              252.3599840000004
+            ],
+            [
+              106.65262895999999,
+              262.3199840000003
+            ],
+            [
+              162.1719969600001,
+              262.3199840000003
+            ],
+            [
+              162.1719969600001,
+              252.3599840000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "e234bce536b9e6a64e46cddfdfe2f048",
+      "text": "Section 2.08.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              267.96033200000045
+            ],
+            [
+              26.999980800000003,
+              277.92033200000037
+            ],
+            [
+              84.44090544,
+              277.92033200000037
+            ],
+            [
+              84.44090544,
+              267.96033200000045
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "4d88ece23c6d995727747d79aa427bb5",
+      "text": "Lost Certificates",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.67549279999999,
+              267.96033200000045
+            ],
+            [
+              106.67549279999999,
+              277.92033200000037
+            ],
+            [
+              178.17867312000016,
+              277.92033200000037
+            ],
+            [
+              178.17867312000016,
+              267.96033200000045
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "db5c7bda880dabf2b5e1b2b490d7c4c5",
+      "text": "ARTICLE 3 The Surviving Corporation",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              20.279999999999973,
+              283.4401640000004
+            ],
+            [
+              20.279999999999973,
+              293.4001640000004
+            ],
+            [
+              185.72374031999985,
+              293.4001640000004
+            ],
+            [
+              185.72374031999985,
+              283.4401640000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "6e1bfe48e80e84bd0cdb1d61770f3e00",
+      "text": "Section 3.01.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              299.0405120000004
+            ],
+            [
+              26.999980800000003,
+              309.0005120000004
+            ],
+            [
+              84.48265680000003,
+              309.0005120000004
+            ],
+            [
+              84.48265680000003,
+              299.0405120000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "362cf8da04a9d90154f135136c412e35",
+      "text": "Certificate of Incorporation",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.71724416,
+              299.0405120000004
+            ],
+            [
+              106.71724416,
+              309.0005120000004
+            ],
+            [
+              221.73727055999998,
+              309.0005120000004
+            ],
+            [
+              221.73727055999998,
+              299.0405120000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "566c46c2f109b213a03df38fd0bcd476",
+      "text": "Section 3.02.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              314.64185600000036
+            ],
+            [
+              26.999980800000003,
+              324.6018560000004
+            ],
+            [
+              84.4180416,
+              324.6018560000004
+            ],
+            [
+              84.4180416,
+              314.64185600000036
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "d9ab2d29d5b7fd159414c46697750107",
+      "text": "Bylaws",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.65262895999999,
+              314.64185600000036
+            ],
+            [
+              106.65262895999999,
+              324.6018560000004
+            ],
+            [
+              141.54980736000002,
+              324.6018560000004
+            ],
+            [
+              141.54980736000002,
+              314.64185600000036
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "b96da269a41b739852dde6bb3abece3f",
+      "text": "Section 3.03.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              330.24320000000034
+            ],
+            [
+              26.999980800000003,
+              340.2032000000004
+            ],
+            [
+              84.48862127999999,
+              340.2032000000004
+            ],
+            [
+              84.48862127999999,
+              330.24320000000034
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "0f7ef5b8274b4ee54d471f07d4b52db0",
+      "text": "Directors and Officers",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.72320864,
+              330.24320000000034
+            ],
+            [
+              106.72320864,
+              340.2032000000004
+            ],
+            [
+              201.20951856000022,
+              340.2032000000004
+            ],
+            [
+              201.20951856000022,
+              330.24320000000034
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "f9c69a5d1afc3479ef4378bc0743b4cd",
+      "text": "ARTICLE 4 Representations and Warranties of the Company",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              20.279999999999973,
+              345.72303200000033
+            ],
+            [
+              20.279999999999973,
+              355.68303200000037
+            ],
+            [
+              271.56950688,
+              355.68303200000037
+            ],
+            [
+              271.56950688,
+              345.72303200000033
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "30a32d7a9a5de322c9b50dc8627df811",
+      "text": "Section 4.01.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980799999975,
+              361.3233800000003
+            ],
+            [
+              26.999980799999975,
+              371.28338000000036
+            ],
+            [
+              84.4826568,
+              371.28338000000036
+            ],
+            [
+              84.4826568,
+              361.3233800000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "ddf8e046f6188532ffd24acd979e8135",
+      "text": "Corporate Existence and Power",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.71724415999998,
+              361.3233800000003
+            ],
+            [
+              106.71724415999998,
+              371.28338000000036
+            ],
+            [
+              238.06901088000006,
+              371.28338000000036
+            ],
+            [
+              238.06901088000006,
+              361.3233800000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "be4e2110e6e0dc7e5be519c03b404cb1",
+      "text": "Section 4.02.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              376.9237280000003
+            ],
+            [
+              26.999980800000003,
+              386.88372800000036
+            ],
+            [
+              84.37629024000003,
+              386.88372800000036
+            ],
+            [
+              84.37629024000003,
+              376.9237280000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "1a94cecedeab3e16fca8808ef7900e2b",
+      "text": "Corporate Authorization",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.61087760000004,
+              376.9237280000003
+            ],
+            [
+              106.61087760000004,
+              386.88372800000036
+            ],
+            [
+              209.61545904,
+              386.88372800000036
+            ],
+            [
+              209.61545904,
+              376.9237280000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "b809ca917b4f78c37aeda04ebf81f904",
+      "text": "Section 4.03.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              392.52606800000035
+            ],
+            [
+              26.999980800000003,
+              402.4860680000004
+            ],
+            [
+              84.41207711999999,
+              402.4860680000004
+            ],
+            [
+              84.41207711999999,
+              392.52606800000035
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "8dbe44d550c21e7c777062f315c0f672",
+      "text": "Governmental Authorization",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.64666448,
+              392.52606800000035
+            ],
+            [
+              106.64666448,
+              402.4860680000004
+            ],
+            [
+              226.89455760000013,
+              402.4860680000004
+            ],
+            [
+              226.89455760000013,
+              392.52606800000035
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "c1752a4bbde947d2deba37cc615ef5bf",
+      "text": "Section 4.04.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              408.00490400000035
+            ],
+            [
+              26.999980800000003,
+              417.9649040000004
+            ],
+            [
+              84.40611263999999,
+              417.9649040000004
+            ],
+            [
+              84.40611263999999,
+              408.00490400000035
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "ede89f4eabc95a9dbe46bf8aca18d1e4",
+      "text": "Non-contravention",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.64069999999998,
+              408.00490400000035
+            ],
+            [
+              106.64069999999998,
+              417.9649040000004
+            ],
+            [
+              187.1900083199999,
+              417.9649040000004
+            ],
+            [
+              187.1900083199999,
+              408.00490400000035
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "52ce5e9e03555eeb4a70ed2614b8028e",
+      "text": "Section 4.05.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              423.60624800000033
+            ],
+            [
+              26.999980800000003,
+              433.56624800000037
+            ],
+            [
+              84.49557983999999,
+              433.56624800000037
+            ],
+            [
+              84.49557983999999,
+              423.60624800000033
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "39c202f542bd158e4d5a769f9f9a5ca8",
+      "text": "Capitalization",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.73016719999998,
+              423.60624800000033
+            ],
+            [
+              106.73016719999998,
+              433.56624800000037
+            ],
+            [
+              167.90585040000016,
+              433.56624800000037
+            ],
+            [
+              167.90585040000016,
+              423.60624800000033
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "ce72ff8e63163977a7afa8f2be1e61a7",
+      "text": "Section 4.06.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              439.20659600000033
+            ],
+            [
+              26.999980800000003,
+              449.16659600000037
+            ],
+            [
+              84.38026656000004,
+              449.16659600000037
+            ],
+            [
+              84.38026656000004,
+              439.20659600000033
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "201f3b4e7fd560b8bcf77b80134aaa7a",
+      "text": "Subsidiaries",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.61485392000002,
+              439.20659600000033
+            ],
+            [
+              106.61485392000002,
+              449.16659600000037
+            ],
+            [
+              160.49200176000002,
+              449.16659600000037
+            ],
+            [
+              160.49200176000002,
+              439.20659600000033
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "24f7cc3994fd79e8635420a3c88d3cf0",
+      "text": "Section 4.07.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              454.80893600000036
+            ],
+            [
+              26.999980800000003,
+              464.7689360000004
+            ],
+            [
+              84.53136672000001,
+              464.7689360000004
+            ],
+            [
+              84.53136672000001,
+              454.80893600000036
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "e7e1bf04aab1eb91d55d5a3b756d24d8",
+      "text": "SEC Filings and the Sarbanes-Oxley Act",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.76595408,
+              454.80893600000036
+            ],
+            [
+              106.76595408,
+              464.7689360000004
+            ],
+            [
+              275.5030814399997,
+              464.7689360000004
+            ],
+            [
+              275.5030814399997,
+              454.80893600000036
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "32436da0cae2abafdd5eba5f65c787dd",
+      "text": "Section 4.08.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              470.2867760000004
+            ],
+            [
+              26.999980800000003,
+              480.2467760000004
+            ],
+            [
+              84.37629024000003,
+              480.2467760000004
+            ],
+            [
+              84.37629024000003,
+              470.2867760000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "2be7590fc138cb4a3586555dbd4cf2e6",
+      "text": "Financial Statements",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.61087760000004,
+              470.2867760000004
+            ],
+            [
+              106.61087760000004,
+              480.2467760000004
+            ],
+            [
+              195.21720432000004,
+              480.2467760000004
+            ],
+            [
+              195.21720432000004,
+              470.2867760000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "d33bd952e27943c757ad83a396794468",
+      "text": "Section 4.09.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              485.8891160000004
+            ],
+            [
+              26.999980800000003,
+              495.84911600000044
+            ],
+            [
+              84.40014816,
+              495.84911600000044
+            ],
+            [
+              84.40014816,
+              485.8891160000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "885714c4d5804c0c66e5e2e86f5770b0",
+      "text": "Disclosure Documents",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.63473551999999,
+              485.8891160000004
+            ],
+            [
+              106.63473551999999,
+              495.84911600000044
+            ],
+            [
+              202.38750335999993,
+              495.84911600000044
+            ],
+            [
+              202.38750335999993,
+              485.8891160000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "e74a9443c2b06168bc7c0541b98c6785",
+      "text": "Section 4.10.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              501.4894640000004
+            ],
+            [
+              26.999980800000003,
+              511.44946400000043
+            ],
+            [
+              84.40014816,
+              511.44946400000043
+            ],
+            [
+              84.40014816,
+              501.4894640000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "1802249c604c23c2e27ce4935dad1af8",
+      "text": "Absence of Certain Changes",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.63473551999999,
+              501.4894640000004
+            ],
+            [
+              106.63473551999999,
+              511.44946400000043
+            ],
+            [
+              225.8358624,
+              511.44946400000043
+            ],
+            [
+              225.8358624,
+              501.4894640000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "7d240fb3ed706e256be77f2ae457b125",
+      "text": "Section 4.11.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              26.999980800000003,
+              517.0898120000004
+            ],
+            [
+              26.999980800000003,
+              527.0498120000004
+            ],
+            [
+              84.49557983999999,
+              527.0498120000004
+            ],
+            [
+              84.49557983999999,
+              517.0898120000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "2841273dfe0bd7193eaedff8c0d857cb",
+      "text": "No Undisclosed Material Liabilities",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              106.73016719999998,
+              517.0898120000004
+            ],
+            [
+              106.73016719999998,
+              527.0498120000004
+            ],
+            [
+              252.78537120000013,
+              527.0498120000004
+            ],
+            [
+              252.78537120000013,
+              517.0898120000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "604001171677519f5162d52eb2c26a47"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "59a0666fb75a1e94ec01d5817df123ae",
+      "text": "provided in Section 7.07, shall inure to the benefit of the parties hereto and their respective successors and assigns. This Agreement is not intended to confer upon any Person other than the parties any rights or remedies, other than (a) as specifically provided in Section 7.07 and Section 10.02 and (b) the right of the Company, on behalf of its stockholders, to pursue damages and other relief, including equitable relief, in the event of Parent’s or Merger Subsidiary’s (i) intentional and willful failure to fulfill a condition to the performance of the obligations of any other party hereunder, (ii) failure to perform a covenant hereof or (iii) willful and material breach of any representation or warranty herein, which right is hereby acknowledged and agreed by Parent and Merger Subsidiary; provided, however, that the rights granted pursuant to clause (b) above shall be enforceable on behalf of holders of Company Stock only by the Company in its sole and absolute discretion.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              17.999999999999773,
+              116.51004
+            ],
+            [
+              17.999999999999773,
+              192.94706400000007
+            ],
+            [
+              593.7214319999998,
+              192.94706400000007
+            ],
+            [
+              593.7214319999998,
+              116.51004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 92,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "c7d3901e8bd6fc4c843faaecd659565d"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "a647357d5168f593a3a3174a067ce467",
+      "text": "(b)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              90.00022031999988,
+              205.06639200000018
+            ],
+            [
+              90.00022031999988,
+              215.0263920000001
+            ],
+            [
+              106.56954575999988,
+              215.0263920000001
+            ],
+            [
+              106.56954575999988,
+              205.06639200000018
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 92,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "c7d3901e8bd6fc4c843faaecd659565d"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "aada8745ee85c5e680be68622515794e",
+      "text": "No party may assign, delegate or otherwise transfer any of its rights or obligations under this Agreement without the",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              115.60473887999989,
+              205.06639200000018
+            ],
+            [
+              115.60473887999989,
+              215.0263920000001
+            ],
+            [
+              586.787723999999,
+              215.0263920000001
+            ],
+            [
+              586.787723999999,
+              205.06639200000018
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 92,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "c7d3901e8bd6fc4c843faaecd659565d"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "dee8aeb660338c861afc1ceb4a05ac8a",
+      "text": "consent of each other party hereto, except that Parent or Merger Subsidiary may transfer or assign its rights and obligations under this Agreement, in whole or from time to time in part, to (i) one or more of their Affiliates at any time and (ii) after the Effective Time, to any Person; provided that such transfer or assignment shall not relieve Parent or Merger Subsidiary of its obligations hereunder or enlarge, alter or change any obligation of any other party hereto or due to Parent or Merger Subsidiary.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              17.999999999999886,
+              216.1060560000002
+            ],
+            [
+              17.999999999999886,
+              259.30357200000014
+            ],
+            [
+              589.3246161599998,
+              259.30357200000014
+            ],
+            [
+              589.3246161599998,
+              216.1060560000002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 92,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "c7d3901e8bd6fc4c843faaecd659565d"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "b88a01b6f2c084f9e779b3b4896a9a2c",
+      "text": "Section 11.07.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              53.999613119999886,
+              271.5434160000002
+            ],
+            [
+              53.999613119999886,
+              281.5034160000002
+            ],
+            [
+              116.4864878399999,
+              281.5034160000002
+            ],
+            [
+              116.4864878399999,
+              271.5434160000002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 92,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "080be72960c801cc61bc53231bdcf52f"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "b24f61df8da50771f2a71d94442e4729",
+      "text": "Governing Law . This Agreement shall be governed by and construed in accordance with the laws of the State of",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              125.52168095999988,
+              271.5434160000002
+            ],
+            [
+              125.52168095999988,
+              281.5034160000002
+            ],
+            [
+              584.0679211199987,
+              281.5034160000002
+            ],
+            [
+              584.0679211199987,
+              271.5434160000002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 92,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "b88a01b6f2c084f9e779b3b4896a9a2c"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "ebcd5fb9ca313d5545b39fab18c19b11",
+      "text": "Delaware, without regard to the conflicts of law rules of such state.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              17.999999999999886,
+              282.58308000000017
+            ],
+            [
+              17.999999999999886,
+              292.5430800000002
+            ],
+            [
+              291.76167935999956,
+              292.5430800000002
+            ],
+            [
+              291.76167935999956,
+              282.58308000000017
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 92,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "080be72960c801cc61bc53231bdcf52f"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "1980cbe362ba3866e46fd85fda9f2d30",
+      "text": "Section 11.08.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              53.999613119999886,
+              304.6624080000002
+            ],
+            [
+              53.999613119999886,
+              314.62240800000023
+            ],
+            [
+              116.4864878399999,
+              314.62240800000023
+            ],
+            [
+              116.4864878399999,
+              304.6624080000002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 92,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "080be72960c801cc61bc53231bdcf52f"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "5b4c202119b3f171302b27a8d561d02e",
+      "text": "Jurisdiction . The parties hereto agree that any suit, action or proceeding seeking to enforce any provision of, or",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              125.52168095999988,
+              304.6624080000002
+            ],
+            [
+              125.52168095999988,
+              314.62240800000023
+            ],
+            [
+              580.3868428800002,
+              314.62240800000023
+            ],
+            [
+              580.3868428800002,
+              304.6624080000002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 92,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "1980cbe362ba3866e46fd85fda9f2d30"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "9290e38ffc504ae7e4f388e4bbced264",
+      "text": "based on any matter arising out of or in connection with, this Agreement or the transactions contemplated hereby (whether brought by any party or any of its Affiliates or against any party or any of its Affiliates) shall be brought in the Delaware Chancery Court or, if such court shall not have jurisdiction, any federal court located in the State of Delaware or other Delaware state court, and each of the parties hereby irrevocably consents to the jurisdiction of such courts (and of the appropriate appellate courts therefrom) in any such suit, action or proceeding and irrevocably waives, to the",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              17.99701775999972,
+              315.8225880000002
+            ],
+            [
+              17.99701775999972,
+              370.0597680000003
+            ],
+            [
+              593.6886273599996,
+              370.0597680000003
+            ],
+            [
+              593.6886273599996,
+              315.8225880000002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 92,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "1980cbe362ba3866e46fd85fda9f2d30"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "268e4f90dcdd25510fdd4549a3449283",
+      "text": "86",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              300.95990159999957,
+              391.06640400000026
+            ],
+            [
+              300.95990159999957,
+              401.0264040000003
+            ],
+            [
+              310.9702871999996,
+              401.0264040000003
+            ],
+            [
+              310.9702871999996,
+              391.06640400000026
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 92,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "1980cbe362ba3866e46fd85fda9f2d30"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "c237f7952f6dfa499fb6d0b3e88fecbb",
+      "text": "fullest extent permitted by law, any objection that it may now or hereafter have to the laying of the venue of any such suit, action or proceeding in any such court or that any such suit, action or proceeding brought in any such court has been brought in an inconvenient forum. Process in any such suit, action or proceeding may be served on any party anywhere in the world, whether within or without the jurisdiction of any such court. Without limiting the foregoing, each party agrees that service of process on such party as provided in Section 11.01 shall be deemed effective service of process on such party.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              18.0005,
+              38.991359999999986
+            ],
+            [
+              18.0005,
+              93.23053199999993
+            ],
+            [
+              594.24780032,
+              93.23053199999993
+            ],
+            [
+              594.24780032,
+              38.991359999999986
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "1980cbe362ba3866e46fd85fda9f2d30"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "b99cf63a5a1f8cf79bb2c0bcd00fcda5",
+      "text": "Section 11.09.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              54.00210127999993,
+              105.47037599999999
+            ],
+            [
+              54.00210127999993,
+              115.43037599999991
+            ],
+            [
+              116.48897599999994,
+              115.43037599999991
+            ],
+            [
+              116.48897599999994,
+              105.47037599999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "080be72960c801cc61bc53231bdcf52f"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "2ba2dfeeb1bc6bf7240a7ac723075292",
+      "text": "WAIVER OF JURY TRIAL . EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES ANY",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              125.52416911999993,
+              105.47037599999999
+            ],
+            [
+              125.52416911999993,
+              115.43037599999991
+            ],
+            [
+              578.53835408,
+              115.43037599999991
+            ],
+            [
+              578.53835408,
+              105.47037599999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "b99cf63a5a1f8cf79bb2c0bcd00fcda5"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "931d8ce7cbc0c7b721d18f54186c06d2",
+      "text": "AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              18.0014940799999,
+              116.51004
+            ],
+            [
+              18.0014940799999,
+              137.50970399999994
+            ],
+            [
+              593.8173636800011,
+              137.50970399999994
+            ],
+            [
+              593.8173636800011,
+              116.51004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "b99cf63a5a1f8cf79bb2c0bcd00fcda5"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "8fd8b55f1e1293064e09266fdf8e6fe3",
+      "text": "Counterparts; Effectiveness . This Agreement may be signed in any number of counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. This Agreement shall become effective when each party hereto shall have received a counterpart hereof signed by all of the other parties hereto. Until and unless each party has received a counterpart hereof signed by the other party hereto, this Agreement shall have no effect and no party shall have any right or obligation hereunder (whether by virtue of any other oral or written agreement or other communication). Electronic or facsimile signatures shall be deemed to be original signatures.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              18.001494079999986,
+              149.749548
+            ],
+            [
+              18.001494079999986,
+              215.026392
+            ],
+            [
+              594.2815990400001,
+              215.026392
+            ],
+            [
+              594.2815990400001,
+              149.749548
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "b99cf63a5a1f8cf79bb2c0bcd00fcda5"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "0917aaafdbef44c640d6f5bbf996ba36",
+      "text": "Section 11.10.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              54.0011071999999,
+              149.749548
+            ],
+            [
+              54.0011071999999,
+              159.70954799999993
+            ],
+            [
+              116.48798191999991,
+              159.70954799999993
+            ],
+            [
+              116.48798191999991,
+              149.749548
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "080be72960c801cc61bc53231bdcf52f"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "3fc9de94bfe31f9f43897b64473005ac",
+      "text": "Section 11.11.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              54.002101279999984,
+              227.26623600000005
+            ],
+            [
+              54.002101279999984,
+              237.22623599999997
+            ],
+            [
+              116.488976,
+              237.22623599999997
+            ],
+            [
+              116.488976,
+              227.26623600000005
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "080be72960c801cc61bc53231bdcf52f"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "381fee67ea7ce92d73bb13622fbad009",
+      "text": "Entire Agreement . This Agreement, the Confidentiality Agreement, the Voting Agreement and the exhibits,",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              125.52416911999998,
+              227.26623600000005
+            ],
+            [
+              125.52416911999998,
+              237.22623599999997
+            ],
+            [
+              566.2415844799997,
+              237.22623599999997
+            ],
+            [
+              566.2415844799997,
+              227.26623600000005
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3fc9de94bfe31f9f43897b64473005ac"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "1b6757b39b7ec936053ad97aea285124",
+      "text": "schedules and annexes hereto constitute the entire agreement between the parties with respect to their subject matter and supersedes all prior agreements and understandings, both oral and written, between the parties with respect to that subject matter.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              18.003482239999954,
+              238.30590000000007
+            ],
+            [
+              18.003482239999954,
+              259.30357200000003
+            ],
+            [
+              581.95997744,
+              259.30357200000003
+            ],
+            [
+              581.95997744,
+              238.30590000000007
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3fc9de94bfe31f9f43897b64473005ac"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "b183a71f5540d47ee18e70536773e7c4",
+      "text": "Section 11.12.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              54.00408944000004,
+              271.5434160000001
+            ],
+            [
+              54.00408944000004,
+              281.5034160000001
+            ],
+            [
+              116.49096416000005,
+              281.5034160000001
+            ],
+            [
+              116.49096416000005,
+              271.5434160000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "080be72960c801cc61bc53231bdcf52f"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "dfcbc3184e5c6448686153a0c2333154",
+      "text": "Severability . If any term, provision, covenant or restriction of this Agreement is held by a court of competent",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              125.52615728000004,
+              271.5434160000001
+            ],
+            [
+              125.52615728000004,
+              281.5034160000001
+            ],
+            [
+              571.5032499199996,
+              281.5034160000001
+            ],
+            [
+              571.5032499199996,
+              271.5434160000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "b183a71f5540d47ee18e70536773e7c4"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "4b62623f5772f75cc18c51cb8d56bf01",
+      "text": "jurisdiction or other Governmental Authority to be invalid, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions of this Agreement shall remain in full force and effect and shall in no way be affected, impaired or invalidated so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any party. Upon such a determination, the parties shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby be consummated as originally contemplated to the fullest extent possible.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              18,
+              282.59385999999995
+            ],
+            [
+              18,
+              347.868712
+            ],
+            [
+              591.06767232,
+              347.868712
+            ],
+            [
+              591.06767232,
+              282.59385999999995
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "b183a71f5540d47ee18e70536773e7c4"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "376d4f8aeaf47656c629cfdfbf4f532c",
+      "text": "Section 11.13.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              54.00104112000003,
+              360.10855599999996
+            ],
+            [
+              54.00104112000003,
+              370.068556
+            ],
+            [
+              116.48791584000004,
+              370.068556
+            ],
+            [
+              116.48791584000004,
+              360.10855599999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "080be72960c801cc61bc53231bdcf52f"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "a26dc9455991b9383180bf562c413edc",
+      "text": "Specific Performance . The parties hereto acknowledge and agree that irreparable damage would occur if any",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              125.52310896000003,
+              360.10855599999996
+            ],
+            [
+              125.52310896000003,
+              370.068556
+            ],
+            [
+              572.5797724800003,
+              370.068556
+            ],
+            [
+              572.5797724800003,
+              360.10855599999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "376d4f8aeaf47656c629cfdfbf4f532c"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "65178bbe6de831da0ce0a8170c8ac7dd",
+      "text": "provision of this Agreement were not performed in accordance with its specific terms or were otherwise",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              18.001428000000004,
+              371.14822
+            ],
+            [
+              18.001428000000004,
+              381.10822
+            ],
+            [
+              439.3710643199998,
+              381.10822
+            ],
+            [
+              439.3710643199998,
+              371.14822
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "376d4f8aeaf47656c629cfdfbf4f532c"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "1e356f9d0f6c915088c103b9206d73a2",
+      "text": "87",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              300.9613296,
+              402.109876
+            ],
+            [
+              300.9613296,
+              412.069876
+            ],
+            [
+              310.9717152,
+              412.069876
+            ],
+            [
+              310.9717152,
+              402.109876
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 93,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "376d4f8aeaf47656c629cfdfbf4f532c"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "8f2446a29af15f6eca5e84b15da84cf4",
+      "text": "breached, and that monetary damages, even if available, would not be an adequate remedy therefor. It is accordingly agreed that the parties shall be entitled to an injunction or injunctions to prevent breaches of this Agreement or to enforce specifically the performance of the terms and provisions hereof in any federal court located in the State of Delaware or any Delaware state court, without proof of actual damages (and each party hereby waives any requirement for the security or posting of any bond in connection with such remedy), this being in addition to any other remedy to which they are entitled at law or in equity. The parties further agree not to assert that a remedy of specific enforcement is unenforceable, invalid, contrary to Applicable Law or inequitable for any reason, nor to assert that a remedy of monetary damages would provide an adequate remedy for any such breach.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              17.99950591999999,
+              38.991359999999986
+            ],
+            [
+              17.99950591999999,
+              115.43037599999991
+            ],
+            [
+              596.23993664,
+              115.43037599999991
+            ],
+            [
+              596.23993664,
+              38.991359999999986
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 94,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "376d4f8aeaf47656c629cfdfbf4f532c"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "f995eeb27f888353ea133c2ea1603d0c",
+      "text": "[The remainder of this page has been intentionally left blank; the next page is the signature page.]",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              164.75851856000008,
+              127.54970400000002
+            ],
+            [
+              164.75851856000008,
+              148.671876
+            ],
+            [
+              447.68362735999943,
+              148.671876
+            ],
+            [
+              447.68362735999943,
+              127.54970400000002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 94,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "376d4f8aeaf47656c629cfdfbf4f532c"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "afa54ecbaee12bb8a9a8fea06b6e63f6",
+      "text": "88",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              300.96040160000007,
+              180.71319600000004
+            ],
+            [
+              300.96040160000007,
+              190.67319599999996
+            ],
+            [
+              310.9707872000001,
+              190.67319599999996
+            ],
+            [
+              310.9707872000001,
+              180.71319600000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 94,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "376d4f8aeaf47656c629cfdfbf4f532c"
+      }
+    },
+    {
+      "type": "Header",
+      "element_id": "ef99e440addee548b7b53dae35002aa4",
+      "text": "IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized officers",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              53.9998,
+              38.991359999999986
+            ],
+            [
+              53.9998,
+              48.95135999999991
+            ],
+            [
+              587.2938975999989,
+              48.95135999999991
+            ],
+            [
+              587.2938975999989,
+              38.991359999999986
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 95,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "Header",
+      "element_id": "19cb34decc9844d4cbff73518bc8f434",
+      "text": "as of the date set forth on the cover page of this Agreement.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              18.00018688,
+              50.151539999999954
+            ],
+            [
+              18.00018688,
+              60.11153999999988
+            ],
+            [
+              262.03589200000016,
+              60.11153999999988
+            ],
+            [
+              262.03589200000016,
+              50.151539999999954
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 95,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "dc66b1ef2464839d29bc0920994f461d",
+      "text": "TIME WARNER CABLE INC.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              306.00106816,
+              83.27152799999999
+            ],
+            [
+              306.00106816,
+              93.23152799999991
+            ],
+            [
+              443.4286518399999,
+              93.23152799999991
+            ],
+            [
+              443.4286518399999,
+              83.27152799999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 95,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "19cb34decc9844d4cbff73518bc8f434"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "ee1e5ea88a358b55aa3eade4c4954bd2",
+      "text": "By:",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              306.0026,
+              116.51156000000003
+            ],
+            [
+              306.0026,
+              126.47155999999995
+            ],
+            [
+              322.89301328,
+              126.47155999999995
+            ],
+            [
+              322.89301328,
+              116.51156000000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 95,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "19cb34decc9844d4cbff73518bc8f434"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "5a80194dd8f7a942c728705a992ebe5b",
+      "text": "/s/ Arthur T. Minson, Jr. Name Arthur T. Minson, Jr. Title Executive Vice President and Chief",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              329.04247855999995,
+              116.51156000000003
+            ],
+            [
+              329.04247855999995,
+              151.6717399999999
+            ],
+            [
+              509.0256329599999,
+              151.6717399999999
+            ],
+            [
+              509.0256329599999,
+              116.51156000000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 95,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "ee1e5ea88a358b55aa3eade4c4954bd2"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "7e5e19cbb2d2755ef2a57e8f08c75654",
+      "text": "Financial Officer",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              363.60266383999993,
+              152.75140399999998
+            ],
+            [
+              363.60266383999993,
+              162.7114039999999
+            ],
+            [
+              434.63862656,
+              162.7114039999999
+            ],
+            [
+              434.63862656,
+              152.75140399999998
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 95,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "19cb34decc9844d4cbff73518bc8f434"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "f4ef2f33acc6f3b34d0dd31a6a9502f8",
+      "text": "COMCAST CORPORATION",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              306.0016923199999,
+              185.99190799999997
+            ],
+            [
+              306.0016923199999,
+              195.9519079999999
+            ],
+            [
+              438.15468752,
+              195.9519079999999
+            ],
+            [
+              438.15468752,
+              185.99190799999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 95,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "19cb34decc9844d4cbff73518bc8f434"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "ee8dfc1116a62d7de1b0185532ffa781",
+      "text": "By:",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              306.0026,
+              219.11176
+            ],
+            [
+              306.0026,
+              229.07175999999993
+            ],
+            [
+              322.89301328,
+              229.07175999999993
+            ],
+            [
+              322.89301328,
+              219.11176
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 95,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "19cb34decc9844d4cbff73518bc8f434"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "152cccd1fde6576f9716aad4a85e8a5e",
+      "text": "/s/ Robert S. Pick Name Robert S. Pick Title Senior Vice President",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              329.04247855999995,
+              219.11176
+            ],
+            [
+              329.04247855999995,
+              254.27393200000006
+            ],
+            [
+              453.51521168000033,
+              254.27393200000006
+            ],
+            [
+              453.51521168000033,
+              219.11176
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 95,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "19cb34decc9844d4cbff73518bc8f434"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "1c6f4bf366e3f37aabcf85be4ddbaf98",
+      "text": "TANGO ACQUISITION SUB, INC.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              306.00268639999996,
+              277.43392000000017
+            ],
+            [
+              306.00268639999996,
+              287.39392000000015
+            ],
+            [
+              463.73833040000005,
+              287.39392000000015
+            ],
+            [
+              463.73833040000005,
+              277.43392000000017
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 95,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "152cccd1fde6576f9716aad4a85e8a5e"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "44156d2bda4caeecb5473d60596f8982",
+      "text": "By:",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              306.0026,
+              310.67395999999997
+            ],
+            [
+              306.0026,
+              320.63396
+            ],
+            [
+              322.89301328,
+              320.63396
+            ],
+            [
+              322.89301328,
+              310.67395999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 95,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "19cb34decc9844d4cbff73518bc8f434"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "c0bf91779da19d4009c0d82184c85cf1",
+      "text": "/s/ Robert S. Pick Name Robert S. Pick Title Senior Vice President",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              329.04247855999995,
+              310.67395999999997
+            ],
+            [
+              329.04247855999995,
+              345.83414000000005
+            ],
+            [
+              453.51521168000033,
+              345.83414000000005
+            ],
+            [
+              453.51521168000033,
+              310.67395999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 95,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "19cb34decc9844d4cbff73518bc8f434"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5464 @@
+{
+  "filename": "1-Model-Merger-Agreement.pdf",
+  "library": "unstructured",
+  "data": [
+    {
+      "type": "Title",
+      "element_id": "41b3f212949aa922ccda5b7b8432e932",
+      "text": "AGREEMENT AND PLAN OF MERGER",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              173.03,
+              177.39415999999994
+            ],
+            [
+              173.03,
+              191.90415999999993
+            ],
+            [
+              442.58081899999996,
+              191.90415999999993
+            ],
+            [
+              442.58081899999996,
+              177.39415999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 1,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "8f123d17defc38a20457497ee9f1a037",
+      "text": "by and among",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              272.03,
+              217.40199999999993
+            ],
+            [
+              272.03,
+              229.40199999999993
+            ],
+            [
+              340.07,
+              229.40199999999993
+            ],
+            [
+              340.07,
+              217.40199999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 1,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "e624da5e90f29b0284e0c163cdb3e892",
+      "text": "[ACQUIROR], INC., a Delaware corporation,",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              248.16,
+              292.99199999999996
+            ],
+            [
+              248.16,
+              318.792
+            ],
+            [
+              366.7212,
+              318.792
+            ],
+            [
+              366.7212,
+              292.99199999999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 1,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "8f123d17defc38a20457497ee9f1a037"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "2f0d475a0ee9fb2c2407ffed0bae233b",
+      "text": "[ACQUISITION SUB], INC., a Delaware corporation,",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              242.64,
+              344.592
+            ],
+            [
+              242.64,
+              370.402
+            ],
+            [
+              372.35,
+              370.402
+            ],
+            [
+              372.35,
+              344.592
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 1,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "8f123d17defc38a20457497ee9f1a037"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "8f46956bebc9bb506454a926e493743c",
+      "text": "and",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              297.35,
+              396.202
+            ],
+            [
+              297.35,
+              408.202
+            ],
+            [
+              317.6408,
+              408.202
+            ],
+            [
+              317.6408,
+              396.202
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 1,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "79c5451c328f0a4546e0340e7cf9ca07",
+      "text": "[TARGET], INC., a Delaware corporation",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              249.71,
+              433.99199999999996
+            ],
+            [
+              249.71,
+              459.792
+            ],
+            [
+              365.2796,
+              459.792
+            ],
+            [
+              365.2796,
+              433.99199999999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 1,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "67ab4e87dc8626ab5652ef367d52a59d",
+      "text": "Dated as of ____________, 20___",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              223.19,
+              547.402
+            ],
+            [
+              223.19,
+              559.402
+            ],
+            [
+              391.832,
+              559.402
+            ],
+            [
+              391.832,
+              547.402
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 1,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "79c5451c328f0a4546e0340e7cf9ca07"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "f79f067928e4831d590de9f8dcbca5ef",
+      "text": "TABLE OF CONTENTS",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              241.32,
+              73.76199999999994
+            ],
+            [
+              241.32,
+              85.76199999999994
+            ],
+            [
+              373.66920000000005,
+              85.76199999999994
+            ],
+            [
+              373.66920000000005,
+              73.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "c719af801718423d92f8afd62d5b8f4d",
+      "text": "ARTICLE 1 DESCRIPTION OF TRANSACTION ...............................................................................4 1.1 MERGER OF MERGER SUB INTO THE COMPANY ........................................................4 EFFECT OF THE MERGER ...........................................................................................4 1.2 CLOSING; EFFECTIVE TIME .......................................................................................4 1.3 CERTIFICATE OF INCORPORATION AND BYLAWS; DIRECTORS AND OFFICERS ...........5 1.4 CONVERSION OF SHARES ..........................................................................................5 1.5 CLOSING OF THE COMPANY’S TRANSFER BOOKS ......................................................6 1.6 EXCHANGE OF CERTIFICATES ...................................................................................6 1.7 TAX CONSEQUENCES ................................................................................................8 1.8 FURTHER ACTION .....................................................................................................8 1.9",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              99.56200000000001
+            ],
+            [
+              72,
+              235.52199999999993
+            ],
+            [
+              543.0008,
+              235.52199999999993
+            ],
+            [
+              543.0008,
+              99.56200000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "f79f067928e4831d590de9f8dcbca5ef"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "68c4a8174afec587fff8d278dcf59c5b",
+      "text": "ARTICLE 2 REPRESENTATIONS AND WARRANTIES OF THE COMPANY ......................................9 ORGANIZATION AND GOOD STANDING .....................................................................9 2.1 AUTHORITY; NO CONFLICT .......................................................................................9 2.2 AUTHORIZED CAPITAL ............................................................................................11 2.3 SEC REPORTS .........................................................................................................13 2.4 FINANCIAL STATEMENTS ........................................................................................15 2.5 NO UNDISCLOSED LIABILITIES. ...............................................................................16 2.6 ABSENCE OF CERTAIN CHANGES AND EVENTS .......................................................16 2.7 INTELLECTUAL PROPERTY; PRIVACY. .....................................................................16 2.8 PROPERTY; SUFFICIENCY OF ASSETS ......................................................................17 2.9 2.10 TAXES .....................................................................................................................18 2.11 EMPLOYEE BENEFITS. .............................................................................................22 2.12 COMPLIANCE WITH LEGAL REQUIREMENTS; GOVERNMENTAL",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              249.562
+            ],
+            [
+              72,
+              426.92199999999997
+            ],
+            [
+              543.0011999999999,
+              426.92199999999997
+            ],
+            [
+              543.0011999999999,
+              249.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "f79f067928e4831d590de9f8dcbca5ef"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "24759974a1dc9bd1b2c7e988b78f8dcd",
+      "text": "AUTHORIZATIONS ...................................................................................................26 2.13 ENVIRONMENTAL MATTERS ...................................................................................26 2.14 LEGAL PROCEEDINGS ..............................................................................................28 2.15 CONTRACTS; NO DEFAULTS ...................................................................................29 2.16 INSURANCE .............................................................................................................31 2.17 LABOR AND EMPLOYMENT MATTERS .....................................................................32 2.18 INTERESTS OF OFFICERS AND DIRECTORS ...............................................................33 2.19 COMPLIANCE WITH U.S. FOREIGN CORRUPT PRACTICES ACT AND OTHER",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              428.722
+            ],
+            [
+              108,
+              537.312
+            ],
+            [
+              543.0012,
+              537.312
+            ],
+            [
+              543.0012,
+              428.722
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "f79f067928e4831d590de9f8dcbca5ef"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "e1396dee358c65c2e619ab97bfb8f0ee",
+      "text": "APPLICABLE ANTICORRUPTION LAWS. ...................................................................33 2.20 RIGHTS PLAN; STATE ANTITAKEOVER STATUTES. ..................................................33 2.21 OPINION OF FINANCIAL ADVISOR ...........................................................................34 2.22 BROKERS ................................................................................................................34 2.23 FULL DISCLOSURE ..................................................................................................34",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              539.1120000000001
+            ],
+            [
+              108,
+              606.312
+            ],
+            [
+              543.0012,
+              606.312
+            ],
+            [
+              543.0012,
+              539.1120000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "f79f067928e4831d590de9f8dcbca5ef"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "285f25d7c2577a7afc773b43792dc6bf",
+      "text": "ARTICLE 3 REPRESENTATIONS AND WARRANTIES OF PARENT AND MERGER SUB ................35 ORGANIZATION AND GOOD STANDING ...................................................................35 AUTHORITY; NO CONFLICT .....................................................................................35 CAPITALIZATION .....................................................................................................37 PARENT SEC REPORTS ...........................................................................................37 FINANCIAL STATEMENTS ........................................................................................38",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              620.3620000000001
+            ],
+            [
+              72,
+              701.112
+            ],
+            [
+              543.0012,
+              701.112
+            ],
+            [
+              543.0012,
+              620.3620000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "f79f067928e4831d590de9f8dcbca5ef"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "7c519303921bf522c3fb4f4c3947598c",
+      "text": "3.1 3.2 3.3 3.4 3.5",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              633.922
+            ],
+            [
+              108,
+              701.112
+            ],
+            [
+              126,
+              701.112
+            ],
+            [
+              126,
+              633.922
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 2,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "f79f067928e4831d590de9f8dcbca5ef"
+      }
+    },
+    {
+      "type": "Header",
+      "element_id": "a7af652e6573df9bcbf2ef906b587b7a",
+      "text": "- 2 -",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              295.92,
+              37.521999999999935
+            ],
+            [
+              295.92,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              37.521999999999935
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "74982f753bce4b1478146a5ea6327eeb",
+      "text": "ARTICLE 4 CERTAIN COVENANTS .............................................................................................39 OPERATION OF THE COMPANY’S BUSINESS .............................................................39 4.1 ACCESS AND INVESTIGATION ..................................................................................42 4.2 NOTIFICATION .........................................................................................................43 4.3 NO SOLICITATION ...................................................................................................43 4.4 REGISTRATION STATEMENT; PROXY STATEMENT ...................................................45 4.5 COMPANY STOCKHOLDERS MEETING .....................................................................46 4.6 COOPERATION; REGULATORY APPROVALS .............................................................48 4.7 DISCLOSURE ...........................................................................................................50 4.8 4.9 TAX MATTERS ........................................................................................................50 4.10 RESIGNATION OF DIRECTORS ..................................................................................50 4.11 LISTING ...................................................................................................................50 4.12 PARENT BOARD ......................................................................................................50 4.13 COMPANY RIGHTS AGREEMENT .............................................................................50 4.14 RULE 16B-3. ...........................................................................................................50 4.15 STOCK PLANS .........................................................................................................51 4.16 EMPLOYEE BENEFITS ..............................................................................................53 INDEMNIFICATION OF OFFICERS AND DIRECTORS ...................................................54 4.17",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              73.76199999999994
+            ],
+            [
+              72,
+              320.11199999999997
+            ],
+            [
+              543.0008,
+              320.11199999999997
+            ],
+            [
+              543.0008,
+              73.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a7af652e6573df9bcbf2ef906b587b7a"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "456336bbe041d0144e6ea68d52086098",
+      "text": "ARTICLE 5 CONDITIONS PRECEDENT TO OBLIGATIONS OF PARENT AND MERGER SUB ........55 ACCURACY OF REPRESENTATIONS ..........................................................................55 5.1 PERFORMANCE OF COVENANTS ..............................................................................55 5.2 CERTIFICATE ...........................................................................................................55 5.3 EFFECTIVENESS OF FORM S-4 REGISTRATION STATEMENT .....................................55 5.4 STOCKHOLDER APPROVAL ......................................................................................55 5.5 LISTING ...................................................................................................................55 5.6 NO MATERIAL ADVERSE EFFECT ............................................................................55 5.7 COMPETITION LAWS ...............................................................................................56 5.8 5.9 CONSENTS ...............................................................................................................56 5.10 NO RESTRAINTS ......................................................................................................56 5.11 NO LITIGATION .......................................................................................................56 5.12 TAX OPINION ..........................................................................................................56",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              334.152
+            ],
+            [
+              72,
+              511.522
+            ],
+            [
+              543.0011999999999,
+              511.522
+            ],
+            [
+              543.0011999999999,
+              334.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a7af652e6573df9bcbf2ef906b587b7a"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "ad5636b28ac4710d758a78ad6ff0fce9",
+      "text": "ARTICLE 6 CONDITIONS PRECEDENT TO OBLIGATIONS OF THE COMPANY ............................57 ACCURACY OF REPRESENTATIONS ..........................................................................57 PERFORMANCE OF COVENANTS ..............................................................................57 CERTIFICATE ...........................................................................................................57 EFFECTIVENESS OF FORM S-4 REGISTRATION STATEMENT .....................................57 STOCKHOLDER APPROVAL ......................................................................................57 LISTING ...................................................................................................................57 COMPETITION LAWS ...............................................................................................57 NO RESTRAINTS ......................................................................................................57 TAX OPINION ..........................................................................................................58",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              525.562
+            ],
+            [
+              72,
+              661.522
+            ],
+            [
+              543.0008,
+              661.522
+            ],
+            [
+              543.0008,
+              525.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a7af652e6573df9bcbf2ef906b587b7a"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "8caecbd20acf87b6dec39c2a4d4fcada",
+      "text": "6.1 6.2 6.3 6.4 6.5 6.6 6.7 6.8 6.9",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              539.1120000000001
+            ],
+            [
+              108,
+              661.522
+            ],
+            [
+              126,
+              661.522
+            ],
+            [
+              126,
+              539.1120000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a7af652e6573df9bcbf2ef906b587b7a"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "3a7f31f690977f5222114451ff97ac92",
+      "text": "ARTICLE 7 TERMINATION ..........................................................................................................59 TERMINATION .........................................................................................................59 EFFECT OF TERMINATION .......................................................................................60",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              675.562
+            ],
+            [
+              72,
+              714.922
+            ],
+            [
+              543.0008,
+              714.922
+            ],
+            [
+              543.0008,
+              675.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a7af652e6573df9bcbf2ef906b587b7a"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "acfb8f1000e517f0105141b9c8d7a166",
+      "text": "7.1 7.2",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              689.112
+            ],
+            [
+              108,
+              714.922
+            ],
+            [
+              126,
+              714.922
+            ],
+            [
+              126,
+              689.112
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 3,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a7af652e6573df9bcbf2ef906b587b7a"
+      }
+    },
+    {
+      "type": "Header",
+      "element_id": "2f594f24eb5704b776cd2534cc870784",
+      "text": "- 3 -",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              295.92,
+              37.521999999999935
+            ],
+            [
+              295.92,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              37.521999999999935
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 4,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "785d18cd5af5ff31595b34ae4018a053",
+      "text": "7.3",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              73.52199999999993
+            ],
+            [
+              108,
+              85.52199999999993
+            ],
+            [
+              126,
+              85.52199999999993
+            ],
+            [
+              126,
+              73.52199999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 4,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2f594f24eb5704b776cd2534cc870784"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "50557be03fb894e4e17bfcf1217c77c9",
+      "text": "EXPENSES; TERMINATION FEES ..............................................................................60",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              73.52199999999993
+            ],
+            [
+              144,
+              85.52199999999993
+            ],
+            [
+              543,
+              85.52199999999993
+            ],
+            [
+              543,
+              73.52199999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 4,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2f594f24eb5704b776cd2534cc870784"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "07c05c4f674975c3d48b435dfb4d658f",
+      "text": "ARTICLE 8 MISCELLANEOUS PROVISIONS ................................................................................63 AMENDMENT ..........................................................................................................63 8.1 REMEDIES CUMULATIVE; WAIVER..........................................................................63 8.2 NO SURVIVAL .........................................................................................................63 8.3 ENTIRE AGREEMENT ...............................................................................................63 8.4 EXECUTION OF AGREEMENT; COUNTERPARTS; ELECTRONIC SIGNATURES .............64 8.5 GOVERNING LAW ....................................................................................................64 8.6 8.7 EXCLUSIVE JURISDICTION; VENUE ..........................................................................64 8.8 WAIVER OF JURY TRIAL ..........................................................................................65 DISCLOSURE SCHEDULES ........................................................................................65 8.9 8.10 ASSIGNMENTS AND SUCCESSORS ............................................................................65 8.11 NO THIRD-PARTY RIGHTS ......................................................................................65 8.12 NOTICES ..................................................................................................................65 8.13 CONSTRUCTION; USAGE .........................................................................................66 8.14 ENFORCEMENT OF AGREEMENT ..............................................................................67 8.15 SEVERABILITY ........................................................................................................67 8.16 CERTAIN DEFINITIONS ............................................................................................68",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              99.56200000000001
+            ],
+            [
+              72,
+              332.11199999999997
+            ],
+            [
+              543.0012,
+              332.11199999999997
+            ],
+            [
+              543.0012,
+              99.56200000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 4,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2f594f24eb5704b776cd2534cc870784"
+      }
+    },
+    {
+      "type": "Header",
+      "element_id": "737bf752a2e551da7d3a370f1bc792dd",
+      "text": "- 4 -",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              295.92,
+              37.521999999999935
+            ],
+            [
+              295.92,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              37.521999999999935
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "6d374e22f40571990e77e2cc23527477",
+      "text": "AGREEMENT AND PLAN OF MERGER",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              196.07,
+              87.56200000000001
+            ],
+            [
+              196.07,
+              99.56200000000001
+            ],
+            [
+              422.018,
+              99.56200000000001
+            ],
+            [
+              422.018,
+              87.56200000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "737bf752a2e551da7d3a370f1bc792dd"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "0162486fa3d3f5b518f125c01a3ed5fd",
+      "text": "THIS AGREEMENT AND PLAN OF MERGER (“Agreement”) is made and entered into as of _______ __, 20___, by and among: [ACQUIROR], INC., a Delaware corporation (“Parent”); [ACQUISITION SUB], INC., a Delaware corporation and a wholly owned subsidiary of Parent (“Merger Sub”); and [TARGET], INC., a Delaware corporation (the “Company”). Certain capitalized terms used in this Agreement are defined in Section 8.16.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              113.36199999999997
+            ],
+            [
+              72,
+              180.562
+            ],
+            [
+              537.6247999999999,
+              180.562
+            ],
+            [
+              537.6247999999999,
+              113.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "6d374e22f40571990e77e2cc23527477"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "a9714938836bfaacff752aa8da17dfc5",
+      "text": "RECITALS",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              280.8,
+              188.36199999999997
+            ],
+            [
+              280.8,
+              200.36199999999997
+            ],
+            [
+              331.18423199999995,
+              200.36199999999997
+            ],
+            [
+              331.18423199999995,
+              188.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "737bf752a2e551da7d3a370f1bc792dd"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "97b92f4a46c21ede1e1ca021e409aa1e",
+      "text": "A. Parent, Merger Sub, and the Company intend to effect a merger of Merger Sub with",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              82.55,
+              214.15199999999993
+            ],
+            [
+              82.55,
+              226.15199999999993
+            ],
+            [
+              542.9995999999995,
+              226.15199999999993
+            ],
+            [
+              542.9995999999995,
+              214.15199999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a9714938836bfaacff752aa8da17dfc5"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "dbefd90e6d94eef969e6cde98f2df9f4",
+      "text": "and into the Company (the “Merger”) in accordance with this Agreement and the Delaware General Corporation Law (“DGCL”). Upon consummation of the Merger, Merger Sub will cease to exist and the Company will become a wholly owned subsidiary of Parent.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              227.952
+            ],
+            [
+              72,
+              281.36199999999997
+            ],
+            [
+              536.9040000000002,
+              281.36199999999997
+            ],
+            [
+              536.9040000000002,
+              227.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a9714938836bfaacff752aa8da17dfc5"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "970d75a6309682b9fb64e1c6c9cf75c5",
+      "text": "It is intended that the Merger qualify as a tax-free reorganization within the meaning of Section 368(a) of the Internal Revenue Code of 1986, as amended (the “Code”).",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              289.152
+            ],
+            [
+              72,
+              314.952
+            ],
+            [
+              538.9691999999999,
+              314.952
+            ],
+            [
+              538.9691999999999,
+              289.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a9714938836bfaacff752aa8da17dfc5"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "49d26fcc9b88e5ff6ce9c9888f369a5f",
+      "text": "B.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              82.55,
+              289.152
+            ],
+            [
+              82.55,
+              301.152
+            ],
+            [
+              96.5996,
+              301.152
+            ],
+            [
+              96.5996,
+              289.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a9714938836bfaacff752aa8da17dfc5"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "83b68074eee9a4fc4151bfcdeabff55f",
+      "text": "C. The respective boards of directors of Parent, Merger Sub and the Company have",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              82.55,
+              322.762
+            ],
+            [
+              82.55,
+              334.762
+            ],
+            [
+              525.5468000000001,
+              334.762
+            ],
+            [
+              525.5468000000001,
+              322.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a9714938836bfaacff752aa8da17dfc5"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "c9b9308b3e6557fcc46eebbdeb20b68d",
+      "text": "approved this Agreement and approved the Merger.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              336.562
+            ],
+            [
+              72,
+              348.562
+            ],
+            [
+              342.7092,
+              348.562
+            ],
+            [
+              342.7092,
+              336.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a9714938836bfaacff752aa8da17dfc5"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "4cd634273a85d10cd1e7d5c65e6dfa39",
+      "text": "D. As an inducement to Parent to enter into this Agreement, certain stockholders of the",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              82.55,
+              356.36199999999997
+            ],
+            [
+              82.55,
+              368.36199999999997
+            ],
+            [
+              542.4716,
+              368.36199999999997
+            ],
+            [
+              542.4716,
+              356.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a9714938836bfaacff752aa8da17dfc5"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "8298ccdec8aad6b0e34b051f16fec949",
+      "text": "Company have entered voting agreements dated as of the date hereof.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              370.152
+            ],
+            [
+              72,
+              382.152
+            ],
+            [
+              431.4132,
+              382.152
+            ],
+            [
+              431.4132,
+              370.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "a9714938836bfaacff752aa8da17dfc5"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "b723224e28fc2974c64919171292a9f7",
+      "text": "AGREEMENT",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              273.96,
+              389.952
+            ],
+            [
+              273.96,
+              401.952
+            ],
+            [
+              337.992588,
+              401.952
+            ],
+            [
+              337.992588,
+              389.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "737bf752a2e551da7d3a370f1bc792dd"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "7a9d01cb2ba2e46a4527d1609cbb0c87",
+      "text": "The parties to this Agreement, intending to be legally bound, agree as follows:",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              82.55,
+              415.762
+            ],
+            [
+              82.55,
+              427.762
+            ],
+            [
+              483.6452000000001,
+              427.762
+            ],
+            [
+              483.6452000000001,
+              415.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "b723224e28fc2974c64919171292a9f7"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "340f224067450e7bc9591a8dbe604019",
+      "text": "ARTICLE 1",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              276.12,
+              455.36199999999997
+            ],
+            [
+              276.12,
+              467.36199999999997
+            ],
+            [
+              335.6292,
+              467.36199999999997
+            ],
+            [
+              335.6292,
+              455.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "737bf752a2e551da7d3a370f1bc792dd"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "3684650c36987a8264811f71254cd8ab",
+      "text": "DESCRIPTION OF TRANSACTION",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              227.16,
+              482.952
+            ],
+            [
+              227.16,
+              494.952
+            ],
+            [
+              384.690308,
+              494.952
+            ],
+            [
+              384.690308,
+              482.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "737bf752a2e551da7d3a370f1bc792dd"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "327407a083616d11705630b6499032c1",
+      "text": "1.1 MERGER OF MERGER SUB INTO THE COMPANY. Upon the terms and subject",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              508.762
+            ],
+            [
+              108,
+              520.762
+            ],
+            [
+              530.5584000000001,
+              520.762
+            ],
+            [
+              530.5584000000001,
+              508.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3684650c36987a8264811f71254cd8ab"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "7091fc1e4b59eb508db22944f7bd29c8",
+      "text": "to the conditions set forth in this Agreement, at the Effective Time, Merger Sub shall be merged with and into the Company and the separate existence of Merger Sub shall cease. Following the Effective Time, the Company shall continue as the surviving corporation of the Merger (the “Surviving Corporation”).",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              522.562
+            ],
+            [
+              72,
+              575.952
+            ],
+            [
+              533.6651999999998,
+              575.952
+            ],
+            [
+              533.6651999999998,
+              522.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3684650c36987a8264811f71254cd8ab"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "7c389282668be460ef209247986dab09",
+      "text": "1.2",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              589.762
+            ],
+            [
+              108,
+              601.762
+            ],
+            [
+              123,
+              601.762
+            ],
+            [
+              123,
+              589.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3684650c36987a8264811f71254cd8ab"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "b43b2bd1e7f21d8e84666565be64c4ff",
+      "text": "EFFECT OF THE MERGER. The Merger shall have the effects set forth in this",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              589.762
+            ],
+            [
+              144,
+              601.762
+            ],
+            [
+              531.8492000000001,
+              601.762
+            ],
+            [
+              531.8492000000001,
+              589.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3684650c36987a8264811f71254cd8ab"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "20070d7d56b28e175adaffddd1e58f96",
+      "text": "Agreement and in the applicable provisions of the DGCL.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              603.562
+            ],
+            [
+              72,
+              615.562
+            ],
+            [
+              370.0680000000001,
+              615.562
+            ],
+            [
+              370.0680000000001,
+              603.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "737bf752a2e551da7d3a370f1bc792dd"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "4c92ad1c8b824a1daa1c92ce99f27545",
+      "text": "1.3",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              629.3620000000001
+            ],
+            [
+              108,
+              641.3620000000001
+            ],
+            [
+              123,
+              641.3620000000001
+            ],
+            [
+              123,
+              629.3620000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "20070d7d56b28e175adaffddd1e58f96"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "c7a81c65f447853f704597f078aec407",
+      "text": "CLOSING; EFFECTIVE TIME. The closing of the transactions contemplated by",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              629.3620000000001
+            ],
+            [
+              144,
+              641.3620000000001
+            ],
+            [
+              537.6596000000001,
+              641.3620000000001
+            ],
+            [
+              537.6596000000001,
+              629.3620000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "20070d7d56b28e175adaffddd1e58f96"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "9e95ff463af653541917dbb1c4de8eeb",
+      "text": "this Agreement (the “Closing”) shall take place at the offices of [PARENT’S COUNSEL, ADDRESS], at 10:00 a.m. local time on a date to be designated by Parent (the “Closing Date”), which shall be no later than the fifth Business Day after the satisfaction or waiver of the last to be satisfied or waived of the conditions set forth in Articles 5 and 6 (other than those conditions that by their nature cannot be satisfied prior to the Closing, but subject to",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              643.152
+            ],
+            [
+              72,
+              710.362
+            ],
+            [
+              542.0099999999999,
+              710.362
+            ],
+            [
+              542.0099999999999,
+              643.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 5,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "20070d7d56b28e175adaffddd1e58f96"
+      }
+    },
+    {
+      "type": "Header",
+      "element_id": "3b688ae9ae230d9eafc0ebe461061fbd",
+      "text": "- 5 -",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              295.92,
+              37.521999999999935
+            ],
+            [
+              295.92,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              37.521999999999935
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "b1afe117142dddf12e27a54c784b906e",
+      "text": "the satisfaction or waiver of those conditions at the Closing) or at such other time and date as may be mutually agreed by Parent and the Company. Subject to the provisions of this Agreement, a certificate of merger satisfying the applicable requirements of the DGCL (the “Certificate of Merger”) shall be duly executed by the Company and, as soon as practicable following the Closing, filed with the Secretary of State of the State of Delaware (the “Secretary of State”). The Merger shall become effective upon the later of: (a) the date and time of the filing of the Certificate of Merger with the Secretary of State, or (b) such later date and time as may be specified in the Certificate of Merger as agreed to by the Parties. The date and time the Merger becomes effective is referred to in this Agreement as the “Effective Time.”",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              73.76199999999994
+            ],
+            [
+              72,
+              209.952
+            ],
+            [
+              542.8308,
+              209.952
+            ],
+            [
+              542.8308,
+              73.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3b688ae9ae230d9eafc0ebe461061fbd"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "529a6ed91dab87fbd3ac782f132a9c18",
+      "text": "1.4",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              223.76199999999994
+            ],
+            [
+              108,
+              235.76199999999994
+            ],
+            [
+              123,
+              235.76199999999994
+            ],
+            [
+              123,
+              223.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3b688ae9ae230d9eafc0ebe461061fbd"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "e7d378fcec65875bd768589fce8e9410",
+      "text": "CERTIFICATE OF INCORPORATION AND BYLAWS; DIRECTORS AND OFFICERS.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              223.76199999999994
+            ],
+            [
+              144,
+              235.76199999999994
+            ],
+            [
+              530.87,
+              235.76199999999994
+            ],
+            [
+              530.87,
+              223.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3b688ae9ae230d9eafc0ebe461061fbd"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "989588ff5b9058bc17ca142e98eae5f0",
+      "text": "At the Effective Time:",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              237.562
+            ],
+            [
+              72,
+              249.562
+            ],
+            [
+              188.6388,
+              249.562
+            ],
+            [
+              188.6388,
+              237.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3b688ae9ae230d9eafc0ebe461061fbd"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "cc4ee85f7f3be389952763f9ed717afa",
+      "text": "(a)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              263.36199999999997
+            ],
+            [
+              144,
+              275.36199999999997
+            ],
+            [
+              157.9572,
+              275.36199999999997
+            ],
+            [
+              157.9572,
+              263.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "989588ff5b9058bc17ca142e98eae5f0"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "c11e506e875676ce6e1f2ff36fbef22c",
+      "text": "the certificate of incorporation of the Company shall be amended to",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              189,
+              263.36199999999997
+            ],
+            [
+              189,
+              275.36199999999997
+            ],
+            [
+              538.6824,
+              275.36199999999997
+            ],
+            [
+              538.6824,
+              263.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "989588ff5b9058bc17ca142e98eae5f0"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "9133b91e4e6ff17b7395fe2508e5a5c2",
+      "text": "read in its entirety as set forth in Exhibit A;",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              277.15200000000004
+            ],
+            [
+              72,
+              289.152
+            ],
+            [
+              298.7256,
+              289.152
+            ],
+            [
+              298.7256,
+              277.15200000000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "989588ff5b9058bc17ca142e98eae5f0"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "c14b7ec6eaad270b88a1906ea403b9aa",
+      "text": "(b)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              302.952
+            ],
+            [
+              144,
+              314.952
+            ],
+            [
+              158.6652,
+              314.952
+            ],
+            [
+              158.6652,
+              302.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "989588ff5b9058bc17ca142e98eae5f0"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "cd8f1f67fa62b8ea6b31dda3a6e8d610",
+      "text": "the bylaws of the Company shall be amended and restated to",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              189,
+              302.952
+            ],
+            [
+              189,
+              314.952
+            ],
+            [
+              502.7147999999999,
+              314.952
+            ],
+            [
+              502.7147999999999,
+              302.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "989588ff5b9058bc17ca142e98eae5f0"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "bb807ae859d4dd3b5b759d5832a95e27",
+      "text": "conform to the bylaws of Merger Sub as in effect immediately prior to the Effective Time; and",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              316.762
+            ],
+            [
+              72,
+              342.562
+            ],
+            [
+              533.7828,
+              342.562
+            ],
+            [
+              533.7828,
+              316.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "989588ff5b9058bc17ca142e98eae5f0"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "2a47eba680f24ce4947d62908661104b",
+      "text": "the directors and officers of the Surviving Corporation immediately after the Effective Time shall be the respective individuals who are directors and officers of Merger Sub immediately prior to the Effective Time.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              356.36199999999997
+            ],
+            [
+              72,
+              395.952
+            ],
+            [
+              541.1568000000001,
+              395.952
+            ],
+            [
+              541.1568000000001,
+              356.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "989588ff5b9058bc17ca142e98eae5f0"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "c4992b62cb2d04594994ba13c7988ad8",
+      "text": "(c)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              356.36199999999997
+            ],
+            [
+              144,
+              368.36199999999997
+            ],
+            [
+              157.2264,
+              368.36199999999997
+            ],
+            [
+              157.2264,
+              356.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "989588ff5b9058bc17ca142e98eae5f0"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "bc5d7d4a394932fcb4df11d4a41d896d",
+      "text": "1.5",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              409.762
+            ],
+            [
+              108,
+              421.762
+            ],
+            [
+              123,
+              421.762
+            ],
+            [
+              123,
+              409.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "989588ff5b9058bc17ca142e98eae5f0"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "a0466847346a6dfeeab6b79f58f0ae3e",
+      "text": "CONVERSION OF SHARES.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              409.762
+            ],
+            [
+              144,
+              421.762
+            ],
+            [
+              273.6,
+              421.762
+            ],
+            [
+              273.6,
+              409.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "989588ff5b9058bc17ca142e98eae5f0"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "8966d330224cd73e7bfa76a6094eabb9",
+      "text": "(a)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              435.562
+            ],
+            [
+              144,
+              447.562
+            ],
+            [
+              157.9572,
+              447.562
+            ],
+            [
+              157.9572,
+              435.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "989588ff5b9058bc17ca142e98eae5f0"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "b89264bf14f1a4485750eff3a4f1f2f1",
+      "text": "At the Effective Time, by virtue of the Merger and without any",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              189,
+              435.562
+            ],
+            [
+              189,
+              447.562
+            ],
+            [
+              514.0692000000001,
+              447.562
+            ],
+            [
+              514.0692000000001,
+              435.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3b688ae9ae230d9eafc0ebe461061fbd"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "171f5d2904fb17bd18daf358588778f4",
+      "text": "further action on the part of Parent, Merger Sub, the Company, or any stockholder of the Company:",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              449.36199999999997
+            ],
+            [
+              72,
+              475.152
+            ],
+            [
+              533.7732000000001,
+              475.152
+            ],
+            [
+              533.7732000000001,
+              449.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "b89264bf14f1a4485750eff3a4f1f2f1"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "855ed27d2a071087d11a57559e4040bb",
+      "text": "any shares of Company Common Stock then owned by the Company or any wholly owned Subsidiary of the Company (or held in the Company’s treasury) shall be canceled and retired and shall cease to exist, and no consideration shall be delivered in exchange therefor;",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              488.952
+            ],
+            [
+              72,
+              542.3620000000001
+            ],
+            [
+              530.9388000000001,
+              542.3620000000001
+            ],
+            [
+              530.9388000000001,
+              488.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "b89264bf14f1a4485750eff3a4f1f2f1"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "39b614d74ff5571c30aad78f20969b1c",
+      "text": "(i)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              180,
+              488.952
+            ],
+            [
+              180,
+              500.952
+            ],
+            [
+              191.316,
+              500.952
+            ],
+            [
+              191.316,
+              488.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "b89264bf14f1a4485750eff3a4f1f2f1"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "ae632eeb6b8b155948eae347d0752d45",
+      "text": "any shares of Company Common Stock then owned by Parent, Merger Sub, or any other wholly owned Subsidiary of Parent shall be canceled and retired and shall cease to exist, and no consideration shall be delivered in exchange therefor;",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              556.152
+            ],
+            [
+              72,
+              595.762
+            ],
+            [
+              539.5427999999999,
+              595.762
+            ],
+            [
+              539.5427999999999,
+              556.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "b89264bf14f1a4485750eff3a4f1f2f1"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "7d400cadee5acf465562bea9aaff9944",
+      "text": "(ii)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              180,
+              556.152
+            ],
+            [
+              180,
+              568.152
+            ],
+            [
+              194.6652,
+              568.152
+            ],
+            [
+              194.6652,
+              556.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3b688ae9ae230d9eafc0ebe461061fbd"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "5c57a379eb13efe2a1d9ae5dffdee9fa",
+      "text": "(iii)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              180,
+              609.562
+            ],
+            [
+              180,
+              621.562
+            ],
+            [
+              198.0252,
+              621.562
+            ],
+            [
+              198.0252,
+              609.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3b688ae9ae230d9eafc0ebe461061fbd"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "dfaac35d4c40bc9ba590f66d45ede418",
+      "text": "except as provided in clauses (i) and (ii) of this Section 1.5(a)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              216,
+              609.562
+            ],
+            [
+              216,
+              621.562
+            ],
+            [
+              527.6844000000001,
+              621.562
+            ],
+            [
+              527.6844000000001,
+              609.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "5c57a379eb13efe2a1d9ae5dffdee9fa"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "3fa9d8a9f8f2db385227b650dd7f0664",
+      "text": "and subject to Sections 1.5(b) and 1.5(c), each share of Company Common Stock then outstanding shall be converted into the right to receive _______ of a share of Parent Common Stock; and",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              623.3620000000001
+            ],
+            [
+              72,
+              662.952
+            ],
+            [
+              512.3519999999999,
+              662.952
+            ],
+            [
+              512.3519999999999,
+              623.3620000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "5c57a379eb13efe2a1d9ae5dffdee9fa"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "14e6ed5daaec46730395a3a7943cb543",
+      "text": "(iv)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              180,
+              676.762
+            ],
+            [
+              180,
+              688.762
+            ],
+            [
+              197.316,
+              688.762
+            ],
+            [
+              197.316,
+              676.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3b688ae9ae230d9eafc0ebe461061fbd"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "dc306df27d2747c73107db095d638735",
+      "text": "each share of the common stock, $0.001 par value per share, of",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              216,
+              676.762
+            ],
+            [
+              216,
+              688.762
+            ],
+            [
+              539.6627999999998,
+              688.762
+            ],
+            [
+              539.6627999999998,
+              676.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "3b688ae9ae230d9eafc0ebe461061fbd"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "c3ddcfc3b443eef80221548778ba8025",
+      "text": "Merger Sub then outstanding shall be converted into one share of common stock of the Surviving Corporation.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              690.562
+            ],
+            [
+              72,
+              716.362
+            ],
+            [
+              518.4251999999999,
+              716.362
+            ],
+            [
+              518.4251999999999,
+              690.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 6,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "dc306df27d2747c73107db095d638735"
+      }
+    },
+    {
+      "type": "Header",
+      "element_id": "12f7ec1213e61bda663c3a9f041240b2",
+      "text": "- 6 -",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              295.92,
+              37.521999999999935
+            ],
+            [
+              295.92,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              37.521999999999935
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "95ab728b9c7b2d92215d4934e1bf97ba",
+      "text": "The fraction of a share of Parent Common Stock specified in Section 1.5(a)(iii) (as such fraction may be adjusted in accordance with Section 1.5(b)) is referred to as the “Exchange Ratio.”",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              73.76199999999994
+            ],
+            [
+              72,
+              113.36199999999997
+            ],
+            [
+              540.6599999999999,
+              113.36199999999997
+            ],
+            [
+              540.6599999999999,
+              73.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "12f7ec1213e61bda663c3a9f041240b2"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "48e05d0a79aea026bc3b08d70c1b546c",
+      "text": "(b)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              127.15199999999993
+            ],
+            [
+              144,
+              139.15199999999993
+            ],
+            [
+              158.6652,
+              139.15199999999993
+            ],
+            [
+              158.6652,
+              127.15199999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "12f7ec1213e61bda663c3a9f041240b2"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c",
+      "text": "If, between the date of this Agreement and the Effective Time, the",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              189,
+              127.15199999999993
+            ],
+            [
+              189,
+              139.15199999999993
+            ],
+            [
+              528.1464,
+              139.15199999999993
+            ],
+            [
+              528.1464,
+              127.15199999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "12f7ec1213e61bda663c3a9f041240b2"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "b3af4aa72d74cb7369e23071d75e11b8",
+      "text": "outstanding shares of Company Common Stock or Parent Common Stock are changed into a different number or class of shares by reason of any stock split, stock dividend, reverse stock split, reclassification, recapitalization, or other similar transaction or event, or there occurs a record date with respect to any of the foregoing, then the Exchange Ratio shall be appropriately adjusted.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              140.952
+            ],
+            [
+              72,
+              208.15199999999993
+            ],
+            [
+              541.7004,
+              208.15199999999993
+            ],
+            [
+              541.7004,
+              140.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "134ee43c3ee175043c87ef7d228dc68b",
+      "text": "(c)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              221.952
+            ],
+            [
+              144,
+              233.952
+            ],
+            [
+              157.2264,
+              233.952
+            ],
+            [
+              157.2264,
+              221.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "c8a3ddca6c5526d1d5021c1954df4f02",
+      "text": "No fractional shares of Parent Common Stock shall be issued in",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              189,
+              221.952
+            ],
+            [
+              189,
+              233.952
+            ],
+            [
+              517.5072000000002,
+              233.952
+            ],
+            [
+              517.5072000000002,
+              221.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "ddb82a5bc17697eec6aac4324d9fd2bd",
+      "text": "connection with the Merger, and no certificates or scrip for any such fractional shares shall be issued. Any holder of Company Common Stock who would otherwise be entitled to receive a fraction of a share of Parent Common Stock (after aggregating all fractional shares of Parent Common Stock issuable to such holder), in lieu of such fraction of a share and, upon surrender of such holder’s Company Stock Certificate or Book Entry Shares, shall be paid in cash the dollar amount (rounded to the nearest whole cent), without interest, determined by multiplying such fraction by the closing price of a share of Parent Common Stock on the New York Stock Exchange (“NYSE”) on the day that includes the Effective Time (or if such day is not a day on which the NYSE is open, the immediately preceding day on which the NYSE is open).",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              235.76199999999994
+            ],
+            [
+              72,
+              371.952
+            ],
+            [
+              541.3956000000001,
+              371.952
+            ],
+            [
+              541.3956000000001,
+              235.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "e42a4afa7e5263aafb57c4720134960e",
+      "text": "1.6",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              385.762
+            ],
+            [
+              108,
+              397.762
+            ],
+            [
+              123,
+              397.762
+            ],
+            [
+              123,
+              385.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "5f1a19b3d54fef7251971847243dcac1",
+      "text": "CLOSING OF THE COMPANY’S TRANSFER BOOKS. At the Effective Time: (a) all",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              385.762
+            ],
+            [
+              144,
+              397.762
+            ],
+            [
+              542.042,
+              397.762
+            ],
+            [
+              542.042,
+              385.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "621e898cbb095009f667b4f4632a89d0",
+      "text": "holders of shares of Company Common Stock that were outstanding immediately prior to the Effective Time shall cease to have any rights as stockholders of the Company other than the right to receive shares of Parent Common Stock (and cash in lieu of any fractional share of Parent Common Stock) as contemplated by Section 1.5 and any dividends or other distributions payable pursuant to Section 1.7(c); and (b) the stock transfer books of the Company shall be closed with respect to all shares of Company Common Stock outstanding immediately prior to the Effective Time. No further transfer of any such shares of Company Common Stock shall be made on such stock transfer books after the Effective Time. If, after the Effective Time, any shares of Company Common Stock are presented to the Exchange Agent or to the Surviving Corporation or Parent, such shares of Company Common Stock shall be cancelled and shall be exchanged as provided in Section 1.7.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              399.562
+            ],
+            [
+              72,
+              549.562
+            ],
+            [
+              542.8188,
+              549.562
+            ],
+            [
+              542.8188,
+              399.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "089001b57298d1b2e44d6ddc6eeb7644",
+      "text": "1.7",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              563.3620000000001
+            ],
+            [
+              108,
+              575.3620000000001
+            ],
+            [
+              123,
+              575.3620000000001
+            ],
+            [
+              123,
+              563.3620000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "16faabda7dab8146daede5140c9d05f6",
+      "text": "EXCHANGE OF CERTIFICATES.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              563.3620000000001
+            ],
+            [
+              144,
+              575.3620000000001
+            ],
+            [
+              297.6,
+              575.3620000000001
+            ],
+            [
+              297.6,
+              563.3620000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "f62cd7bb1a08a88640e3c0f401e8c6e8",
+      "text": "(a)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              589.152
+            ],
+            [
+              144,
+              601.152
+            ],
+            [
+              157.9572,
+              601.152
+            ],
+            [
+              157.9572,
+              589.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "59ca63068c4ee2ef7e360c5c5eb86bda",
+      "text": "On or prior to the Closing Date, Parent shall select a bank or",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              216,
+              589.152
+            ],
+            [
+              216,
+              601.152
+            ],
+            [
+              530.6400000000001,
+              601.152
+            ],
+            [
+              530.6400000000001,
+              589.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "c8a800dac87c7e2c2bbe109da92c0175",
+      "text": "trust company to act as exchange agent in the Merger (the “Exchange Agent”). Parent shall make available to the Exchange Agent (by instruction to Parent’s transfer agent) (i) promptly after the Effective Time, certificates representing the shares of Parent Common Stock issuable pursuant to Section 1.5 (or make appropriate alternative arrangements if uncertificated shares of Parent Common Stock represented by a book entry will be issued) and (ii) as needed, cash sufficient to make payments in lieu of fractional shares in accordance with Section 1.5(c). The shares of Parent Common Stock",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              602.952
+            ],
+            [
+              72,
+              697.762
+            ],
+            [
+              529.2467999999999,
+              697.762
+            ],
+            [
+              529.2467999999999,
+              602.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 7,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "026d3e98b5ebe8a9c191f3f1f6b4ec4c"
+      }
+    },
+    {
+      "type": "Header",
+      "element_id": "5dd0383dc8e5d9cf0040db2edfbff7ea",
+      "text": "- 7 -",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              295.92,
+              37.521999999999935
+            ],
+            [
+              295.92,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              37.521999999999935
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 8,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "6879881a2df04687966e4798f2966489",
+      "text": "and cash amounts so deposited with the Exchange Agent are referred to collectively as the “Exchange Fund.”",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              73.76199999999994
+            ],
+            [
+              72,
+              99.56200000000001
+            ],
+            [
+              534.4187999999997,
+              99.56200000000001
+            ],
+            [
+              534.4187999999997,
+              73.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 8,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "5dd0383dc8e5d9cf0040db2edfbff7ea"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "65bcb21bcf53098e3ebd8950754c36a1",
+      "text": "As soon as reasonably practicable after the Effective Time, the Exchange Agent shall mail to the record holders of Company Common Stock (i) a letter of transmittal in customary form and containing such provisions as Parent may reasonably specify (including a provision confirming that delivery shall be effected, and risk of loss and title shall pass, only upon proper delivery of the Company Stock Certificates to the Exchange Agent or, in the case of Book Entry Shares, upon adherence to the procedures set forth in the letter of transmittal), and (ii) instructions for use in effecting the surrender of such holder’s Company Stock Certificates and Book Entry Shares in exchange for certificates representing Parent Common Stock (or appropriate alternative arrangements if uncertificated shares of Parent Common Stock represented by a book entry will be issued). Exchange of any Book Entry Shares shall be effected in accordance with the Exchange Agent’s customary procedures with respect to securities represented by book entry. Upon surrender of a Company Stock Certificate or Book Entry Share to the Exchange Agent for exchange, together with a duly executed letter of transmittal and such other documents as may be reasonably required by the Exchange Agent or Parent, the holder of such Company Stock Certificate or Book Entry Share shall be entitled to receive in exchange therefor a certificate representing the number of whole shares of Parent Common Stock (or uncertificated shares of Parent Common Stock represented by a book entry) that such holder has the right to receive pursuant to the provisions of Section 1.5 (and cash in lieu of any fractional share of Parent Common Stock). The Company Stock Certificate or Book Entry Share so surrendered shall be canceled. Until surrendered as contemplated by this Section 1.7, each Company Stock Certificate or Book Entry Share shall be deemed, from and after the Effective Time, to represent only the right to receive shares of Parent Common Stock (and cash in lieu of any fractional share of Parent Common Stock) as contemplated by Section 1.5. If any Company Stock Certificate shall have been lost, stolen, or destroyed, Parent or the Exchange Agent may, in its discretion and as a condition precedent to the issuance of any certificate representing Parent Common Stock, require the owner of such lost, stolen, or destroyed Company Stock Certificate to provide an appropriate affidavit and to deliver a bond (in such sum as Parent or the Exchange Agent may reasonably direct) as indemnity against any claim that may be made against the Exchange Agent, Parent, or the Surviving Corporation with respect to such Company Stock Certificate.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              113.36199999999997
+            ],
+            [
+              72,
+              553.152
+            ],
+            [
+              542.5619999999999,
+              553.152
+            ],
+            [
+              542.5619999999999,
+              113.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 8,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "5dd0383dc8e5d9cf0040db2edfbff7ea"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "3f725e5c6f5837ed5149369bf30f302c",
+      "text": "(b)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              113.36199999999997
+            ],
+            [
+              144,
+              125.36199999999997
+            ],
+            [
+              158.6652,
+              125.36199999999997
+            ],
+            [
+              158.6652,
+              113.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 8,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "5dd0383dc8e5d9cf0040db2edfbff7ea"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "04b4faa5597be3484af19a167209aada",
+      "text": "(c)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              566.952
+            ],
+            [
+              144,
+              578.952
+            ],
+            [
+              157.2264,
+              578.952
+            ],
+            [
+              157.2264,
+              566.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 8,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "5dd0383dc8e5d9cf0040db2edfbff7ea"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "a0d5190d3dfb596b372693909ff7e75b",
+      "text": "No dividends or other distributions declared or made with",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              216,
+              566.952
+            ],
+            [
+              216,
+              578.952
+            ],
+            [
+              517.0308,
+              578.952
+            ],
+            [
+              517.0308,
+              566.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 8,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "5dd0383dc8e5d9cf0040db2edfbff7ea"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "033d79db4ab402b88e8a104dd6118fb1",
+      "text": "respect to Parent Common Stock with a record date after the Effective Time shall be paid to the holder of any unsurrendered Company Stock Certificate or Book Entry Share with respect to the shares of Parent Common Stock that such holder has the right to receive in the Merger until such holder surrenders such Company Stock Certificate or Book Entry Shares in accordance with this Section 1.7 (at which time such holder shall be entitled, subject to the effect of applicable escheat law or similar Legal Requirement, to receive all such dividends and distributions, without interest).",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              580.762
+            ],
+            [
+              72,
+              675.562
+            ],
+            [
+              533.4095999999998,
+              675.562
+            ],
+            [
+              533.4095999999998,
+              580.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 8,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "5dd0383dc8e5d9cf0040db2edfbff7ea"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "6c101a4d27d5046e197bb68e14c94d4d",
+      "text": "(d)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              689.362
+            ],
+            [
+              144,
+              701.362
+            ],
+            [
+              158.6652,
+              701.362
+            ],
+            [
+              158.6652,
+              689.362
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 8,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "5dd0383dc8e5d9cf0040db2edfbff7ea"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "4732ca94503a3e49ed62aec0c6d491d3",
+      "text": "Any portion of the Exchange Fund that remains undistributed",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              216,
+              689.362
+            ],
+            [
+              216,
+              701.362
+            ],
+            [
+              537.8544000000002,
+              701.362
+            ],
+            [
+              537.8544000000002,
+              689.362
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 8,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "5dd0383dc8e5d9cf0040db2edfbff7ea"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "8983ef9b15a91d373042c086a2571f8e",
+      "text": "to holders of Company Stock Certificates or Book Entry Shares as of the date 180 days",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              703.152
+            ],
+            [
+              72,
+              715.152
+            ],
+            [
+              518.6844000000002,
+              715.152
+            ],
+            [
+              518.6844000000002,
+              703.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 8,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "5dd0383dc8e5d9cf0040db2edfbff7ea"
+      }
+    },
+    {
+      "type": "Header",
+      "element_id": "328f3391479607a41c2a726042292eb7",
+      "text": "- 8 -",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              295.92,
+              37.521999999999935
+            ],
+            [
+              295.92,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              37.521999999999935
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "ca579043fbd79caeefa943cc6691a973",
+      "text": "after the Effective Time shall be delivered to Parent upon demand, and any holders of Company Stock Certificates or Book Entry Shares who have not theretofore surrendered their Company Stock Certificates or Book Entry Shares in accordance with this Section 1.7 shall thereafter look only to Parent for satisfaction of their claims for Parent Common Stock, cash in lieu of fractional shares of Parent Common Stock, and any dividends or distributions with respect to Parent Common Stock, in each case without interest thereon.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              73.76199999999994
+            ],
+            [
+              72,
+              154.76199999999994
+            ],
+            [
+              541.1748,
+              154.76199999999994
+            ],
+            [
+              541.1748,
+              73.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "328f3391479607a41c2a726042292eb7"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "ed12baa268be70eb4312295cb37016f7",
+      "text": "(e)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              168.562
+            ],
+            [
+              144,
+              180.562
+            ],
+            [
+              157.2264,
+              180.562
+            ],
+            [
+              157.2264,
+              168.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "328f3391479607a41c2a726042292eb7"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "d649bbdcc9f787253b46a6d243bde9a4",
+      "text": "Each of the Exchange Agent, Parent, and the Surviving",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              216,
+              168.562
+            ],
+            [
+              216,
+              180.562
+            ],
+            [
+              501.7092,
+              180.562
+            ],
+            [
+              501.7092,
+              168.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "328f3391479607a41c2a726042292eb7"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "c2ea34f9aa4fc8f6acd7ff6735a7ff11",
+      "text": "Corporation shall be entitled to deduct and withhold from any consideration payable or otherwise deliverable pursuant to this Agreement to any holder or former holder of Company Common Stock such amounts as may be required to be deducted or withheld therefrom under the Code or any provision of state, local, or foreign Tax law or under any other applicable Legal Requirement. To the extent such amounts are so deducted or withheld, such amounts shall be treated for all purposes under this Agreement as having been paid to the Person to whom such amounts would otherwise have been paid.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              182.36199999999997
+            ],
+            [
+              72,
+              277.15199999999993
+            ],
+            [
+              537.0108000000001,
+              277.15199999999993
+            ],
+            [
+              537.0108000000001,
+              182.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "d649bbdcc9f787253b46a6d243bde9a4"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "acccea0e5505fca09aa171f50fa49e3c",
+      "text": "(f)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              290.952
+            ],
+            [
+              144,
+              302.952
+            ],
+            [
+              156.0252,
+              302.952
+            ],
+            [
+              156.0252,
+              290.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "d649bbdcc9f787253b46a6d243bde9a4"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "84b238c9adceb5e6ee49557ccb237213",
+      "text": "Neither Parent nor the Surviving Corporation shall be liable to",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              216,
+              290.952
+            ],
+            [
+              216,
+              302.952
+            ],
+            [
+              541.3788000000001,
+              302.952
+            ],
+            [
+              541.3788000000001,
+              290.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "d649bbdcc9f787253b46a6d243bde9a4"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "d509e998554342cd7414b562f602bee9",
+      "text": "any holder or former holder of Company Common Stock or to any other Person with respect to any shares of Parent Common Stock (or dividends or distributions with respect thereto), or for any cash amounts, properly delivered to any public official pursuant to any applicable abandoned property law, escheat law, or similar Legal Requirement.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              304.762
+            ],
+            [
+              72,
+              358.152
+            ],
+            [
+              539.2056000000003,
+              358.152
+            ],
+            [
+              539.2056000000003,
+              304.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "d649bbdcc9f787253b46a6d243bde9a4"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "6bd66d851b71c89064f6a5b5176dc01f",
+      "text": "1.8",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              371.952
+            ],
+            [
+              108,
+              383.952
+            ],
+            [
+              123,
+              383.952
+            ],
+            [
+              123,
+              371.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "d649bbdcc9f787253b46a6d243bde9a4"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "046bc5a28ea7e8541913094af6e2dc11",
+      "text": "TAX CONSEQUENCES. For federal income tax purposes, the Merger is",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              371.952
+            ],
+            [
+              144,
+              383.952
+            ],
+            [
+              500.54240000000004,
+              383.952
+            ],
+            [
+              500.54240000000004,
+              371.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "d649bbdcc9f787253b46a6d243bde9a4"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "9b12a9500e00e2991f373b593cbf55f4",
+      "text": "intended to constitute a reorganization within the meaning of Section 368(a) of the Code. The parties to this Agreement hereby adopt this Agreement as a “plan of reorganization” within the meaning of Sections 1.368-2(g) and 1.368-3(a) of the United States Treasury Regulations.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              385.762
+            ],
+            [
+              72,
+              439.152
+            ],
+            [
+              531.4404,
+              439.152
+            ],
+            [
+              531.4404,
+              385.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "d649bbdcc9f787253b46a6d243bde9a4"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "c3e1cac1a724287f235ba85957ee3db3",
+      "text": "1.9",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              452.952
+            ],
+            [
+              108,
+              464.952
+            ],
+            [
+              123,
+              464.952
+            ],
+            [
+              123,
+              452.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "d649bbdcc9f787253b46a6d243bde9a4"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "05c96e9000428dc241b9ec8ccef32670",
+      "text": "FURTHER ACTION. If, at any time after the Effective Time, any further action",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              452.952
+            ],
+            [
+              144,
+              464.952
+            ],
+            [
+              542.1612,
+              464.952
+            ],
+            [
+              542.1612,
+              452.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "d649bbdcc9f787253b46a6d243bde9a4"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "a54dfc952e4315c3c6c1e3e7ae581f47",
+      "text": "is determined by Parent to be necessary or desirable to carry out the purposes of this Agreement or to vest the Surviving Corporation with full right, title, and possession of and to all rights and property of Merger Sub and the Company, the officers and directors of the Surviving Corporation and Parent shall be fully authorized (in the name of Merger Sub, in the name of the Company, and otherwise) to take such action.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              466.762
+            ],
+            [
+              72,
+              533.952
+            ],
+            [
+              542.7071999999998,
+              533.952
+            ],
+            [
+              542.7071999999998,
+              466.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 9,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "d649bbdcc9f787253b46a6d243bde9a4"
+      }
+    },
+    {
+      "type": "Header",
+      "element_id": "61d3ee93d30c2d662d6843028f2fe8ca",
+      "text": "- 9 -",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              295.92,
+              37.521999999999935
+            ],
+            [
+              295.92,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              49.521999999999935
+            ],
+            [
+              318.9588,
+              37.521999999999935
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "64b025652b4869c6befa95dff6d7da4a",
+      "text": "ARTICLE 2",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              276.12,
+              73.76199999999994
+            ],
+            [
+              276.12,
+              85.76199999999994
+            ],
+            [
+              335.6292,
+              85.76199999999994
+            ],
+            [
+              335.6292,
+              73.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "61d3ee93d30c2d662d6843028f2fe8ca"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "2be411bd8043c2084070097de95dae4f",
+      "text": "REPRESENTATIONS AND WARRANTIES OF THE COMPANY",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              165.83,
+              101.36199999999997
+            ],
+            [
+              165.83,
+              113.36199999999997
+            ],
+            [
+              446.029848,
+              113.36199999999997
+            ],
+            [
+              446.029848,
+              101.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "61d3ee93d30c2d662d6843028f2fe8ca"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "7ef21936dfce0aa6eb13fef630b5db41",
+      "text": "The Company represents and warrants to Parent and Merger Sub as follows:",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              127.15199999999993
+            ],
+            [
+              108,
+              139.15199999999993
+            ],
+            [
+              506.72160000000014,
+              139.15199999999993
+            ],
+            [
+              506.72160000000014,
+              127.15199999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2be411bd8043c2084070097de95dae4f"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "22f558726c786b5595008e917888c560",
+      "text": "2.1",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              152.952
+            ],
+            [
+              108,
+              164.952
+            ],
+            [
+              123,
+              164.952
+            ],
+            [
+              123,
+              152.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2be411bd8043c2084070097de95dae4f"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "0fe10fc92f2e3a7495c09758975e2a62",
+      "text": "ORGANIZATION AND GOOD STANDING.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              152.952
+            ],
+            [
+              144,
+              164.952
+            ],
+            [
+              338.7588,
+              164.952
+            ],
+            [
+              338.7588,
+              152.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2be411bd8043c2084070097de95dae4f"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "830a635352cc3d2797bc559df810e2b9",
+      "text": "The Company and each of its Subsidiaries are corporations or other entities duly organized, validly existing, and in good standing under the laws of their respective jurisdictions of incorporation or organization, with full corporate or other entity power and authority to conduct their respective businesses as now being conducted, to own or use the respective properties and assets that they purport to own or use, and to perform all their respective obligations under each of the Company Contracts. The Company and each of its Subsidiaries are duly qualified to do business as foreign corporations or other entities and are in good standing under the laws of each state or other jurisdiction in which either the ownership or use of the properties owned or used by them, or the nature of the activities conducted by it, requires such qualification, except where the failure to be so qualified, individually or in the aggregate, has not had and could not reasonably be expected to have a Company Material Adverse Effect.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              178.76199999999994
+            ],
+            [
+              72,
+              342.562
+            ],
+            [
+              540.8652,
+              342.562
+            ],
+            [
+              540.8652,
+              178.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2be411bd8043c2084070097de95dae4f"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "5a34e47fbee8b1901602213d448a9c3f",
+      "text": "(a)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              178.76199999999994
+            ],
+            [
+              144,
+              190.76199999999994
+            ],
+            [
+              157.9572,
+              190.76199999999994
+            ],
+            [
+              157.9572,
+              178.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2be411bd8043c2084070097de95dae4f"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "8a269c53862fa33a569b0d94bd38b0a7",
+      "text": "Part 2.1(b) of the Company Disclosure Schedule lists the Company and each of its Subsidiaries and sets forth as to each the type of entity, its jurisdiction of organization and, except in the case of the Company, its stockholders or other equity holders. The Company has delivered to Parent copies of the certificate or articles of incorporation, by-laws, and other organizational documents (collectively, “Organizational Documents”) of the Company and each of its Subsidiaries, as currently in effect.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              356.36199999999997
+            ],
+            [
+              72,
+              451.152
+            ],
+            [
+              536.7612,
+              451.152
+            ],
+            [
+              536.7612,
+              356.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2be411bd8043c2084070097de95dae4f"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "5f98e087909704e72162416f8e3e0d18",
+      "text": "(b)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              356.36199999999997
+            ],
+            [
+              144,
+              368.36199999999997
+            ],
+            [
+              158.6652,
+              368.36199999999997
+            ],
+            [
+              158.6652,
+              356.36199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2be411bd8043c2084070097de95dae4f"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "ffb87ff00247f3a9cb8bd0df5e6f9e45",
+      "text": "2.2",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              108,
+              464.952
+            ],
+            [
+              108,
+              476.952
+            ],
+            [
+              123,
+              476.952
+            ],
+            [
+              123,
+              464.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2be411bd8043c2084070097de95dae4f"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "6b1c49d5a20c2c807db5d7aa14ed6ae9",
+      "text": "AUTHORITY; NO CONFLICT.",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              464.952
+            ],
+            [
+              144,
+              476.952
+            ],
+            [
+              287.16,
+              476.952
+            ],
+            [
+              287.16,
+              464.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2be411bd8043c2084070097de95dae4f"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "25bf86c22c661eadaa3710d08ad6950e",
+      "text": "(a)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              490.762
+            ],
+            [
+              144,
+              502.762
+            ],
+            [
+              157.9572,
+              502.762
+            ],
+            [
+              157.9572,
+              490.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2be411bd8043c2084070097de95dae4f"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "4fed3e5184f8c23e7e0b49032595774d",
+      "text": "The Company has all necessary corporate power and authority",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              216,
+              490.762
+            ],
+            [
+              216,
+              502.762
+            ],
+            [
+              541.7172,
+              502.762
+            ],
+            [
+              541.7172,
+              490.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2be411bd8043c2084070097de95dae4f"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "d40dfcdcf763fe40cc172b81c7d68046",
+      "text": "to execute and deliver this Agreement and the other agreements referred to in this Agreement to which it is or will be a party, and to perform its obligations hereunder and thereunder. The execution and delivery of this Agreement by the Company and the consummation by the Company of the Merger and the other transactions contemplated hereby and thereby (collectively, and including the execution, delivery, and performance by certain of the Company’s stockholders of the Stockholder Voting Agreements, the “Contemplated Transactions”) have been duly and validly authorized by all necessary corporate action and no other corporate proceedings on the part of the Company are necessary to authorize this Agreement or to consummate the Contemplated Transactions (other than, with respect to the Merger, the adoption of this Agreement by the holders of a majority of the then outstanding shares of Company Common Stock (the “Required Stockholder Vote”)). The Company Board has unanimously approved this Agreement, declared it to be advisable, and resolved to recommend to the stockholders of the Company that they vote in favor of the adoption of this Agreement in accordance with the DGCL. This Agreement has been duly and validly executed and delivered by the Company and",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              504.562
+            ],
+            [
+              72,
+              709.762
+            ],
+            [
+              542.8727999999999,
+              709.762
+            ],
+            [
+              542.8727999999999,
+              504.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 10,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "2be411bd8043c2084070097de95dae4f"
+      }
+    },
+    {
+      "type": "Header",
+      "element_id": "7b3238c223fa084fb575cc28b2a252fe",
+      "text": "- 10 -",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              292.92,
+              37.521999999999935
+            ],
+            [
+              292.92,
+              49.521999999999935
+            ],
+            [
+              321.9588,
+              49.521999999999935
+            ],
+            [
+              321.9588,
+              37.521999999999935
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "787451d799e6e5565d06686106b7e525",
+      "text": "constitutes the legal, valid, and binding obligation of the Company, enforceable against the Company in accordance with its terms, except as such enforcement may be limited by applicable bankruptcy, insolvency, moratorium, or other similar Legal Requirement affecting the enforcement of creditors’ rights generally, and subject to general principles of equity (whether considered in a proceeding whether in equity or at law).",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              73.76199999999994
+            ],
+            [
+              72,
+              140.952
+            ],
+            [
+              540.7872000000001,
+              140.952
+            ],
+            [
+              540.7872000000001,
+              73.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "7b3238c223fa084fb575cc28b2a252fe"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "2a1d0b5a30f265aa0b1a94fe594f6e73",
+      "text": "Except as set forth in Part 2.2(b) of the Company Disclosure Schedule, neither the execution and delivery of this Agreement nor the consummation of any of the Contemplated Transactions do or will, directly or indirectly (with or without notice or lapse of time or both):",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              154.76199999999994
+            ],
+            [
+              72,
+              208.15199999999993
+            ],
+            [
+              526.6944000000001,
+              208.15199999999993
+            ],
+            [
+              526.6944000000001,
+              154.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "7b3238c223fa084fb575cc28b2a252fe"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "78c03882b4b23985eba4376230aa285d",
+      "text": "(b)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              144,
+              154.76199999999994
+            ],
+            [
+              144,
+              166.76199999999994
+            ],
+            [
+              158.6652,
+              166.76199999999994
+            ],
+            [
+              158.6652,
+              154.76199999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "7b3238c223fa084fb575cc28b2a252fe"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "7fd40de21afafb3b0694ad172a6d5221",
+      "text": "contravene, conflict with, or result in a violation of (A) any provision of the Organizational Documents of the Company or any of its Subsidiaries or (B) any resolution adopted by the board of directors or the stockholders of the Company or any of its Subsidiaries;",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              221.952
+            ],
+            [
+              72,
+              275.36199999999997
+            ],
+            [
+              541.9715999999999,
+              275.36199999999997
+            ],
+            [
+              541.9715999999999,
+              221.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "7b3238c223fa084fb575cc28b2a252fe"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "65fa5fe55428e97571ad89e2805c7f1e",
+      "text": "(i)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              180,
+              221.952
+            ],
+            [
+              180,
+              233.952
+            ],
+            [
+              191.316,
+              233.952
+            ],
+            [
+              191.316,
+              221.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "7b3238c223fa084fb575cc28b2a252fe"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "065e0fd062e68c36985adf5c14255116",
+      "text": "(ii)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              180,
+              289.152
+            ],
+            [
+              180,
+              301.152
+            ],
+            [
+              194.6652,
+              301.152
+            ],
+            [
+              194.6652,
+              289.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "7b3238c223fa084fb575cc28b2a252fe"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "4df2a5191b3bba1189f74064ae6a2378",
+      "text": "contravene, conflict with, or result in a violation of, or give any",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              216,
+              289.152
+            ],
+            [
+              216,
+              301.152
+            ],
+            [
+              540.4908,
+              301.152
+            ],
+            [
+              540.4908,
+              289.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "065e0fd062e68c36985adf5c14255116"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "c4696b7db23f89bcc193ba722d0c036e",
+      "text": "Governmental Body or other Person the right to challenge any of the Contemplated Transactions or to exercise any remedy or obtain any relief under, any Legal Requirement or any Order to which the Company or any of its Subsidiaries, or any of the assets owned or used by any of the Company or any of its Subsidiaries, is or may be subject;",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              302.952
+            ],
+            [
+              72,
+              356.36199999999997
+            ],
+            [
+              537.6719999999998,
+              356.36199999999997
+            ],
+            [
+              537.6719999999998,
+              302.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "065e0fd062e68c36985adf5c14255116"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "a77f0c67e27b5ec22c65470bdc4f51f1",
+      "text": "contravene, conflict with, or result in a violation of any of the terms or requirements of, or give any Governmental Body the right to revoke, withdraw, suspend, cancel, terminate, or modify, any Governmental Authorization that is held by the Company or any of its Subsidiaries, or that otherwise relates to the business of, or any of the assets owned or used by, the Company or any of its Subsidiaries;",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              370.152
+            ],
+            [
+              72,
+              437.36199999999997
+            ],
+            [
+              537.8676000000002,
+              437.36199999999997
+            ],
+            [
+              537.8676000000002,
+              370.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "065e0fd062e68c36985adf5c14255116"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "74678c0196fd3b911b3f4fce4e7cd377",
+      "text": "(iii)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              180,
+              370.152
+            ],
+            [
+              180,
+              382.152
+            ],
+            [
+              198.0252,
+              382.152
+            ],
+            [
+              198.0252,
+              370.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "7b3238c223fa084fb575cc28b2a252fe"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "30fdcb3b873944220c9fb617b0d7de72",
+      "text": "(iv)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              180,
+              451.152
+            ],
+            [
+              180,
+              463.152
+            ],
+            [
+              197.316,
+              463.152
+            ],
+            [
+              197.316,
+              451.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "7b3238c223fa084fb575cc28b2a252fe"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "0fff1dcdcb00e27acb27c3781dbace2c",
+      "text": "cause the Company or any of its Subsidiaries to become subject",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              216,
+              451.152
+            ],
+            [
+              216,
+              463.152
+            ],
+            [
+              543.0767999999999,
+              463.152
+            ],
+            [
+              543.0767999999999,
+              451.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "30fdcb3b873944220c9fb617b0d7de72"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "29f742777bff10c822a76bce3db89fce",
+      "text": "to, or to become liable for the payment of, any Tax;",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              464.952
+            ],
+            [
+              72,
+              476.952
+            ],
+            [
+              340.6704,
+              476.952
+            ],
+            [
+              340.6704,
+              464.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "30fdcb3b873944220c9fb617b0d7de72"
+      }
+    },
+    {
+      "type": "UncategorizedText",
+      "element_id": "72a8d8c0573465a3fa378f1953a102b0",
+      "text": "(v)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              180,
+              490.762
+            ],
+            [
+              180,
+              502.762
+            ],
+            [
+              193.9572,
+              502.762
+            ],
+            [
+              193.9572,
+              490.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "30fdcb3b873944220c9fb617b0d7de72"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "6202ae35b02263a816eee0b9fc839471",
+      "text": "cause any of the assets owned by the Company or any of its",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              216,
+              490.762
+            ],
+            [
+              216,
+              502.762
+            ],
+            [
+              521.1888000000001,
+              502.762
+            ],
+            [
+              521.1888000000001,
+              490.762
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "30fdcb3b873944220c9fb617b0d7de72"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "69ff433fb4050060fb76183d9557ea6c",
+      "text": "Subsidiaries to be reassessed or revalued by any Taxing Authority or other Governmental Body;",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              504.562
+            ],
+            [
+              72,
+              530.362
+            ],
+            [
+              534.984,
+              530.362
+            ],
+            [
+              534.984,
+              504.562
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "30fdcb3b873944220c9fb617b0d7de72"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "7dcc11aac9f664b13a311087a4540be7",
+      "text": "(vi)",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              180,
+              544.152
+            ],
+            [
+              180,
+              556.152
+            ],
+            [
+              197.316,
+              556.152
+            ],
+            [
+              197.316,
+              544.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "7b3238c223fa084fb575cc28b2a252fe"
+      }
+    },
+    {
+      "type": "Title",
+      "element_id": "58227d386ef6d079b5d5aec29331734b",
+      "text": "contravene, conflict with, or result in a violation or breach of",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              216,
+              544.152
+            ],
+            [
+              216,
+              556.152
+            ],
+            [
+              530.4000000000001,
+              556.152
+            ],
+            [
+              530.4000000000001,
+              544.152
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "7b3238c223fa084fb575cc28b2a252fe"
+      }
+    },
+    {
+      "type": "NarrativeText",
+      "element_id": "dce6f2f6d836beefdc91b80f5d3e2740",
+      "text": "any provision of, result in the loss of any benefit or the imposition of any additional payment or other liability under, give any Person the right to declare a default or exercise any remedy under, to accelerate the maturity or performance of, or to cancel, terminate, redeem, or modify any Company Contract, exercise any change in control or similar put rights with respect to, or to require a greater rate of interest on, any debt obligations of the Company; or",
+      "metadata": {
+        "coordinates": {
+          "points": [
+            [
+              72,
+              557.952
+            ],
+            [
+              72,
+              638.952
+            ],
+            [
+              539.4552000000003,
+              638.952
+            ],
+            [
+              539.4552000000003,
+              557.952
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612,
+          "layout_height": 792
+        },
+        "page_number": 11,
+        "languages": [
+          "eng"
+        ],
+        "filetype": "application/pdf",
+        "parent_id": "58227d386ef6d079b5d5aec29331734b"
+      }
+    }
+  ]
+}

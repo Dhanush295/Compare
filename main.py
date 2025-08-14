@@ -4,11 +4,15 @@ from app.routers import extraction
 
 app = FastAPI(
     title="PDF Extraction Comparison API",
-    description="A professional structure for comparing PDF data extraction libraries.",
+    description="data extraction libraries.",
     version="2.0.0",
 )
 
 app.include_router(extraction.router)
+
+@app.get("/health")
+def health():
+    return {"status": "ok"}
 
 @app.get("/", tags=["Root"])
 async def read_root():
