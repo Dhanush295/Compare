@@ -1,0 +1,5765 @@
+{
+  "status": 200,
+  "return_dict": {
+    "page_dim": [
+      612.0,
+      792.0
+    ],
+    "num_pages": 78,
+    "result": {
+      "styles": [
+        {
+          "class_name": "cls_0",
+          "style": {
+            "font-family": "TimesNewRomanPS-BoldMT",
+            "font-style": "normal",
+            "font-size": 20.88,
+            "font-weight": 600,
+            "text-transform": "none",
+            "text-align": "left"
+          }
+        },
+        {
+          "class_name": "cls_1",
+          "style": {
+            "font-family": "TimesNewRomanPSMT",
+            "font-style": "normal",
+            "font-size": 17.28,
+            "font-weight": 400,
+            "text-transform": "none",
+            "text-align": "left"
+          }
+        },
+        {
+          "class_name": "cls_2",
+          "style": {
+            "font-family": "TimesNewRomanPS-BoldMT",
+            "font-style": "normal",
+            "font-size": 17.28,
+            "font-weight": 600,
+            "text-transform": "none",
+            "text-align": "left"
+          }
+        },
+        {
+          "class_name": "cls_3",
+          "style": {
+            "font-family": "TimesNewRomanPS-BoldMT",
+            "font-style": "normal",
+            "font-size": 13.68,
+            "font-weight": 600,
+            "text-transform": "none",
+            "text-align": "left"
+          }
+        },
+        {
+          "class_name": "cls_4",
+          "style": {
+            "font-family": "TimesNewRomanPSMT",
+            "font-style": "normal",
+            "font-size": 13.68,
+            "font-weight": 400,
+            "text-transform": "none",
+            "text-align": "left"
+          }
+        },
+        {
+          "class_name": "cls_5",
+          "style": {
+            "font-family": "TimesNewRomanPS-BoldItalicMT",
+            "font-style": "italic",
+            "font-size": 17.28,
+            "font-weight": 600,
+            "text-transform": "none",
+            "text-align": "left"
+          }
+        }
+      ],
+      "blocks": [
+        {
+          "tag": "para",
+          "page_idx": 0,
+          "block_class": "cls_0",
+          "sentences": [
+            "AGREEMENT AND PLAN OF MERGER by and among [ACQUIROR], INC., a Delaware corporation, [ACQUISITION SUB], INC., a Delaware corporation, and [TARGET], INC., a Delaware corporation"
+          ],
+          "block_idx": 0,
+          "bbox": [
+            173.03,
+            174.26,
+            438.98,
+            457.2
+          ],
+          "level": 0
+        },
+        {
+          "tag": "para",
+          "page_idx": 0,
+          "block_class": "cls_1",
+          "sentences": [
+            "Dated as of"
+          ],
+          "block_idx": 1,
+          "bbox": [
+            223.19,
+            544.81,
+            277.72,
+            556.81
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 1,
+          "block_class": "cls_2",
+          "sentences": [
+            "TABLE OF CONTENTS"
+          ],
+          "bbox": [
+            241.32,
+            71.17,
+            370.63,
+            83.17
+          ],
+          "block_idx": 2,
+          "level": 0
+        },
+        {
+          "tag": "table",
+          "page_idx": 1,
+          "block_class": "cls_2",
+          "top": 96.97,
+          "left": 72.0,
+          "name": "TABLE OF CONTENTS",
+          "block_idx": 3,
+          "level": 1,
+          "table_rows": [
+            {
+              "type": "table_header",
+              "cells": [
+                {
+                  "cell_value": "ARTICLE 1 DESCRIPTION OF TRANSACTION"
+                },
+                {
+                  "cell_value": "4"
+                }
+              ],
+              "block_idx": 3
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "1.1 MERGER OF MERGER SUB INTO THE COMPANY"
+                },
+                {
+                  "cell_value": "4"
+                }
+              ],
+              "block_idx": 4
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "1.2 EFFECT OF THE MERGER"
+                },
+                {
+                  "cell_value": "4"
+                }
+              ],
+              "block_idx": 5
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "1.3 CLOSING; EFFECTIVE TIME"
+                },
+                {
+                  "cell_value": "4"
+                }
+              ],
+              "block_idx": 6
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "1.4 CERTIFICATE OF INCORPORATION AND BYLAWS; DIRECTORS AND OFFICERS"
+                },
+                {
+                  "cell_value": "5"
+                }
+              ],
+              "block_idx": 7
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "1.5 CONVERSION OF SHARES"
+                },
+                {
+                  "cell_value": "5"
+                }
+              ],
+              "block_idx": 8
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "1.6 CLOSING OF THE COMPANYâ\\x80\\x99S TRANSFER BOOKS"
+                },
+                {
+                  "cell_value": "6"
+                }
+              ],
+              "block_idx": 9
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "1.7 EXCHANGE OF CERTIFICATES"
+                },
+                {
+                  "cell_value": "6"
+                }
+              ],
+              "block_idx": 10
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "1.8 TAX CONSEQUENCES"
+                },
+                {
+                  "cell_value": "8"
+                }
+              ],
+              "block_idx": 11
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "1.9 FURTHER ACTION"
+                },
+                {
+                  "cell_value": "8"
+                }
+              ],
+              "block_idx": 12
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "ARTICLE 2 REPRESENTATIONS AND WARRANTIES OF THE COMPANY"
+                },
+                {
+                  "cell_value": "9"
+                }
+              ],
+              "block_idx": 13
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.1 ORGANIZATION AND GOOD STANDING"
+                },
+                {
+                  "cell_value": "9"
+                }
+              ],
+              "block_idx": 14
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.2 AUTHORITY; NO CONFLICT"
+                },
+                {
+                  "cell_value": "9"
+                }
+              ],
+              "block_idx": 15
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.3 AUTHORIZED CAPITAL"
+                },
+                {
+                  "cell_value": "11"
+                }
+              ],
+              "block_idx": 16
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.4 SEC REPORTS"
+                },
+                {
+                  "cell_value": "13"
+                }
+              ],
+              "block_idx": 17
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.5 FINANCIAL STATEMENTS"
+                },
+                {
+                  "cell_value": "15"
+                }
+              ],
+              "block_idx": 18
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.6 NO UNDISCLOSED LIABILITIES."
+                },
+                {
+                  "cell_value": "16"
+                }
+              ],
+              "block_idx": 19
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.7 ABSENCE OF CERTAIN CHANGES AND EVENTS"
+                },
+                {
+                  "cell_value": "16"
+                }
+              ],
+              "block_idx": 20
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.8 INTELLECTUAL PROPERTY; PRIVACY."
+                },
+                {
+                  "cell_value": "16"
+                }
+              ],
+              "block_idx": 21
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.9 PROPERTY; SUFFICIENCY OF ASSETS"
+                },
+                {
+                  "cell_value": "17"
+                }
+              ],
+              "block_idx": 22
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.10 TAXES"
+                },
+                {
+                  "cell_value": "18"
+                }
+              ],
+              "block_idx": 23
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.11 EMPLOYEE BENEFITS."
+                },
+                {
+                  "cell_value": "22"
+                }
+              ],
+              "block_idx": 24
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.12 COMPLIANCE WITH LEGAL REQUIREMENTS; GOVERNMENTAL AUTHORIZATIONS"
+                },
+                {
+                  "cell_value": "26"
+                }
+              ],
+              "block_idx": 25
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.13 ENVIRONMENTAL MATTERS"
+                },
+                {
+                  "cell_value": "26"
+                }
+              ],
+              "block_idx": 26
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.14 LEGAL PROCEEDINGS"
+                },
+                {
+                  "cell_value": "28"
+                }
+              ],
+              "block_idx": 27
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.15 CONTRACTS; NO DEFAULTS"
+                },
+                {
+                  "cell_value": "29"
+                }
+              ],
+              "block_idx": 28
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.16 INSURANCE"
+                },
+                {
+                  "cell_value": "31"
+                }
+              ],
+              "block_idx": 29
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.17 LABOR AND EMPLOYMENT MATTERS"
+                },
+                {
+                  "cell_value": "32"
+                }
+              ],
+              "block_idx": 30
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.18 INTERESTS OF OFFICERS AND DIRECTORS"
+                },
+                {
+                  "cell_value": "33"
+                }
+              ],
+              "block_idx": 31
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.19 COMPLIANCE WITH U.S. FOREIGN CORRUPT PRACTICES ACT AND OTHER APPLICABLE ANTICORRUPTION LAWS."
+                },
+                {
+                  "cell_value": "33"
+                }
+              ],
+              "block_idx": 32
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.20 RIGHTS PLAN; STATE ANTITAKEOVER STATUTES."
+                },
+                {
+                  "cell_value": "33"
+                }
+              ],
+              "block_idx": 33
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.21 OPINION OF FINANCIAL ADVISOR"
+                },
+                {
+                  "cell_value": "34"
+                }
+              ],
+              "block_idx": 34
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.22 BROKERS"
+                },
+                {
+                  "cell_value": "34"
+                }
+              ],
+              "block_idx": 35
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "2.23 FULL DISCLOSURE"
+                },
+                {
+                  "cell_value": "34"
+                }
+              ],
+              "block_idx": 36
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "ARTICLE 3 REPRESENTATIONS AND WARRANTIES OF PARENT AND MERGER SUB"
+                },
+                {
+                  "cell_value": "35"
+                }
+              ],
+              "block_idx": 37
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "3.1 ORGANIZATION AND GOOD STANDING"
+                },
+                {
+                  "cell_value": "35"
+                }
+              ],
+              "block_idx": 38
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "3.2 AUTHORITY; NO CONFLICT"
+                },
+                {
+                  "cell_value": "35"
+                }
+              ],
+              "block_idx": 39
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "3.3 CAPITALIZATION"
+                },
+                {
+                  "cell_value": "37"
+                }
+              ],
+              "block_idx": 40
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "3.4 PARENT SEC REPORTS"
+                },
+                {
+                  "cell_value": "37"
+                }
+              ],
+              "block_idx": 41
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "3.5"
+                },
+                {
+                  "cell_value": "FINANCIAL STATEMENTS"
+                }
+              ],
+              "block_idx": 42
+            }
+          ],
+          "bbox": [
+            72.0,
+            96.97,
+            225.94,
+            108.97
+          ]
+        },
+        {
+          "tag": "table",
+          "page_idx": 2,
+          "block_class": "cls_2",
+          "top": 71.17,
+          "left": 72.0,
+          "name": "TABLE OF CONTENTS",
+          "block_idx": 43,
+          "level": 1,
+          "table_rows": [
+            {
+              "type": "table_header",
+              "cells": [
+                {
+                  "cell_value": "ARTICLE 4 CERTAIN COVENANTS"
+                },
+                {
+                  "cell_value": "39"
+                }
+              ],
+              "block_idx": 43
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.1 OPERATION OF THE COMPANYâ\\x80\\x99S BUSINESS"
+                },
+                {
+                  "cell_value": "39"
+                }
+              ],
+              "block_idx": 44
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.2 ACCESS AND INVESTIGATION"
+                },
+                {
+                  "cell_value": "42"
+                }
+              ],
+              "block_idx": 45
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.3 NOTIFICATION"
+                },
+                {
+                  "cell_value": "43"
+                }
+              ],
+              "block_idx": 46
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.4 NO SOLICITATION"
+                },
+                {
+                  "cell_value": "43"
+                }
+              ],
+              "block_idx": 47
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.5 REGISTRATION STATEMENT; PROXY STATEMENT"
+                },
+                {
+                  "cell_value": "45"
+                }
+              ],
+              "block_idx": 48
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.6 COMPANY STOCKHOLDERS MEETING"
+                },
+                {
+                  "cell_value": "46"
+                }
+              ],
+              "block_idx": 49
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.7 COOPERATION; REGULATORY APPROVALS"
+                },
+                {
+                  "cell_value": "48"
+                }
+              ],
+              "block_idx": 50
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.8 DISCLOSURE"
+                },
+                {
+                  "cell_value": "50"
+                }
+              ],
+              "block_idx": 51
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.9 TAX MATTERS"
+                },
+                {
+                  "cell_value": "50"
+                }
+              ],
+              "block_idx": 52
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.10 RESIGNATION OF DIRECTORS"
+                },
+                {
+                  "cell_value": "50"
+                }
+              ],
+              "block_idx": 53
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.11 LISTING"
+                },
+                {
+                  "cell_value": "50"
+                }
+              ],
+              "block_idx": 54
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.12 PARENT BOARD"
+                },
+                {
+                  "cell_value": "50"
+                }
+              ],
+              "block_idx": 55
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.13 COMPANY RIGHTS AGREEMENT"
+                },
+                {
+                  "cell_value": "50"
+                }
+              ],
+              "block_idx": 56
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.14 RULE 16B-3."
+                },
+                {
+                  "cell_value": "50"
+                }
+              ],
+              "block_idx": 57
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.15 STOCK PLANS"
+                },
+                {
+                  "cell_value": "51"
+                }
+              ],
+              "block_idx": 58
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.16 EMPLOYEE BENEFITS"
+                },
+                {
+                  "cell_value": "53"
+                }
+              ],
+              "block_idx": 59
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "4.17 INDEMNIFICATION OF OFFICERS AND DIRECTORS"
+                },
+                {
+                  "cell_value": "54"
+                }
+              ],
+              "block_idx": 60
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "ARTICLE 5 CONDITIONS PRECEDENT TO OBLIGATIONS OF PARENT AND MERGER SUB"
+                },
+                {
+                  "cell_value": "55"
+                }
+              ],
+              "block_idx": 61
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "5.1 ACCURACY OF REPRESENTATIONS"
+                },
+                {
+                  "cell_value": "55"
+                }
+              ],
+              "block_idx": 62
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "5.2 PERFORMANCE OF COVENANTS"
+                },
+                {
+                  "cell_value": "55"
+                }
+              ],
+              "block_idx": 63
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "5.3 CERTIFICATE"
+                },
+                {
+                  "cell_value": "55"
+                }
+              ],
+              "block_idx": 64
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "5.4 EFFECTIVENESS OF FORM S-4 REGISTRATION STATEMENT"
+                },
+                {
+                  "cell_value": "55"
+                }
+              ],
+              "block_idx": 65
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "5.5 STOCKHOLDER APPROVAL"
+                },
+                {
+                  "cell_value": "55"
+                }
+              ],
+              "block_idx": 66
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "5.6 LISTING"
+                },
+                {
+                  "cell_value": "55"
+                }
+              ],
+              "block_idx": 67
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "5.7 NO MATERIAL ADVERSE EFFECT"
+                },
+                {
+                  "cell_value": "55"
+                }
+              ],
+              "block_idx": 68
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "5.8 COMPETITION LAWS"
+                },
+                {
+                  "cell_value": "56"
+                }
+              ],
+              "block_idx": 69
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "5.9 CONSENTS"
+                },
+                {
+                  "cell_value": "56"
+                }
+              ],
+              "block_idx": 70
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "5.10 NO RESTRAINTS"
+                },
+                {
+                  "cell_value": "56"
+                }
+              ],
+              "block_idx": 71
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "5.11 NO LITIGATION"
+                },
+                {
+                  "cell_value": "56"
+                }
+              ],
+              "block_idx": 72
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "5.12 TAX OPINION"
+                },
+                {
+                  "cell_value": "56"
+                }
+              ],
+              "block_idx": 73
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "ARTICLE 6 CONDITIONS PRECEDENT TO OBLIGATIONS OF THE COMPANY"
+                },
+                {
+                  "cell_value": "57"
+                }
+              ],
+              "block_idx": 74
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "6.1 ACCURACY OF REPRESENTATIONS"
+                },
+                {
+                  "cell_value": "57"
+                }
+              ],
+              "block_idx": 75
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "6.2 PERFORMANCE OF COVENANTS"
+                },
+                {
+                  "cell_value": "57"
+                }
+              ],
+              "block_idx": 76
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "6.3 CERTIFICATE"
+                },
+                {
+                  "cell_value": "57"
+                }
+              ],
+              "block_idx": 77
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "6.4 EFFECTIVENESS OF FORM S-4 REGISTRATION STATEMENT"
+                },
+                {
+                  "cell_value": "57"
+                }
+              ],
+              "block_idx": 78
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "6.5 STOCKHOLDER APPROVAL"
+                },
+                {
+                  "cell_value": "57"
+                }
+              ],
+              "block_idx": 79
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "6.6 LISTING"
+                },
+                {
+                  "cell_value": "57"
+                }
+              ],
+              "block_idx": 80
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "6.7 COMPETITION LAWS"
+                },
+                {
+                  "cell_value": "57"
+                }
+              ],
+              "block_idx": 81
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "6.8 NO RESTRAINTS"
+                },
+                {
+                  "cell_value": "57"
+                }
+              ],
+              "block_idx": 82
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "6.9 TAX OPINION"
+                },
+                {
+                  "cell_value": "58"
+                }
+              ],
+              "block_idx": 83
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "ARTICLE 7 TERMINATION"
+                },
+                {
+                  "cell_value": "59"
+                }
+              ],
+              "block_idx": 84
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "7.1 TERMINATION"
+                },
+                {
+                  "cell_value": "59"
+                }
+              ],
+              "block_idx": 85
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "7.2"
+                },
+                {
+                  "cell_value": "EFFECT OF TERMINATION"
+                }
+              ],
+              "block_idx": 86
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "7.3 EXPENSES; TERMINATION FEES"
+                },
+                {
+                  "cell_value": "60"
+                }
+              ],
+              "block_idx": 87
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "ARTICLE 8 MISCELLANEOUS PROVISIONS"
+                },
+                {
+                  "cell_value": "63"
+                }
+              ],
+              "block_idx": 88
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.1 AMENDMENT"
+                },
+                {
+                  "cell_value": "63"
+                }
+              ],
+              "block_idx": 89
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.2"
+                },
+                {
+                  "cell_value": "REMEDIES CUMULATIVE; WAIVER63"
+                }
+              ],
+              "block_idx": 90
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.3 NO SURVIVAL"
+                },
+                {
+                  "cell_value": "63"
+                }
+              ],
+              "block_idx": 91
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.4 ENTIRE AGREEMENT"
+                },
+                {
+                  "cell_value": "63"
+                }
+              ],
+              "block_idx": 92
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.5 EXECUTION OF AGREEMENT; COUNTERPARTS; ELECTRONIC SIGNATURES"
+                },
+                {
+                  "cell_value": "64"
+                }
+              ],
+              "block_idx": 93
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.6 GOVERNING LAW"
+                },
+                {
+                  "cell_value": "64"
+                }
+              ],
+              "block_idx": 94
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.7 EXCLUSIVE JURISDICTION; VENUE"
+                },
+                {
+                  "cell_value": "64"
+                }
+              ],
+              "block_idx": 95
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.8 WAIVER OF JURY TRIAL"
+                },
+                {
+                  "cell_value": "65"
+                }
+              ],
+              "block_idx": 96
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.9 DISCLOSURE SCHEDULES"
+                },
+                {
+                  "cell_value": "65"
+                }
+              ],
+              "block_idx": 97
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.10 ASSIGNMENTS AND SUCCESSORS"
+                },
+                {
+                  "cell_value": "65"
+                }
+              ],
+              "block_idx": 98
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.11 NO THIRD-PARTY RIGHTS"
+                },
+                {
+                  "cell_value": "65"
+                }
+              ],
+              "block_idx": 99
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.12 NOTICES"
+                },
+                {
+                  "cell_value": "65"
+                }
+              ],
+              "block_idx": 100
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.13 CONSTRUCTION; USAGE"
+                },
+                {
+                  "cell_value": "66"
+                }
+              ],
+              "block_idx": 101
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.14 ENFORCEMENT OF AGREEMENT"
+                },
+                {
+                  "cell_value": "67"
+                }
+              ],
+              "block_idx": 102
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "8.15 SEVERABILITY"
+                },
+                {
+                  "cell_value": "67"
+                }
+              ],
+              "block_idx": 103
+            }
+          ],
+          "bbox": [
+            72.0,
+            71.17,
+            504.0,
+            83.17
+          ]
+        },
+        {
+          "tag": "header",
+          "page_idx": 3,
+          "block_class": "cls_1",
+          "sentences": [
+            "8.16 CERTAIN DEFINITIONS"
+          ],
+          "bbox": [
+            108.0,
+            317.52,
+            249.95,
+            329.52
+          ],
+          "block_idx": 104,
+          "level": 0
+        },
+        {
+          "tag": "header",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "AGREEMENT AND PLAN OF MERGER"
+          ],
+          "bbox": [
+            196.07,
+            84.97,
+            415.93,
+            96.97
+          ],
+          "block_idx": 105,
+          "level": 0
+        },
+        {
+          "tag": "para",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "THIS AGREEMENT AND PLAN OF MERGER (â\\x80\\x9cAgreementâ\\x80\\x9d) is made and entered into as of, 20, by and among: [ACQUIROR], INC., a Delaware corporation (â\\x80\\x9cParentâ\\x80\\x9d); [ACQUISITION SUB], INC., a Delaware corporation and a wholly owned subsidiary of Parent (â\\x80\\x9cMerger Subâ\\x80\\x9d); and [TARGET], INC., a Delaware corporation (the â\\x80\\x9cCompanyâ\\x80\\x9d).",
+            "Certain capitalized terms used in this Agreement are defined in Section 8.16."
+          ],
+          "block_idx": 106,
+          "bbox": [
+            72.0,
+            110.77,
+            534.66,
+            177.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "RECITALS"
+          ],
+          "bbox": [
+            280.8,
+            185.77,
+            331.18,
+            197.77
+          ],
+          "block_idx": 107,
+          "level": 0
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "A. Parent, Merger Sub, and the Company intend to effect a merger of Merger Sub with and into the Company (the â\\x80\\x9cMergerâ\\x80\\x9d) in accordance with this Agreement and the Delaware General Corporation Law (â\\x80\\x9cDGCLâ\\x80\\x9d).",
+            "Upon consummation of the Merger, Merger Sub will cease to exist and the Company will become a wholly owned subsidiary of Parent."
+          ],
+          "block_idx": 108,
+          "bbox": [
+            72.0,
+            211.56,
+            539.95,
+            278.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "B. It is intended that the Merger qualify as a tax-free reorganization within the meaning of Section 368(a) of the Internal Revenue Code of 1986, as amended (the â\\x80\\x9cCodeâ\\x80\\x9d)."
+          ],
+          "block_idx": 109,
+          "bbox": [
+            72.0,
+            286.56,
+            535.97,
+            312.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "C. The respective boards of directors of Parent, Merger Sub and the Company have approved this Agreement and approved the Merger."
+          ],
+          "block_idx": 110,
+          "bbox": [
+            72.0,
+            320.17,
+            522.58,
+            345.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "D. As an inducement to Parent to enter into this Agreement, certain stockholders of the Company have entered voting agreements dated as of the date hereof."
+          ],
+          "block_idx": 111,
+          "bbox": [
+            72.0,
+            353.77,
+            539.53,
+            379.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "AGREEMENT"
+          ],
+          "bbox": [
+            273.96,
+            387.36,
+            337.99,
+            399.36
+          ],
+          "block_idx": 112,
+          "level": 0
+        },
+        {
+          "tag": "para",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "The parties to this Agreement, intending to be legally bound, agree as follows: ARTICLE 1"
+          ],
+          "block_idx": 113,
+          "bbox": [
+            82.55,
+            413.17,
+            480.8,
+            464.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "DESCRIPTION OF TRANSACTION"
+          ],
+          "bbox": [
+            227.16,
+            480.36,
+            384.69,
+            492.36
+          ],
+          "block_idx": 114,
+          "level": 0
+        },
+        {
+          "tag": "header",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "1.1 MERGER OF MERGER SUB INTO THE COMPANY"
+          ],
+          "bbox": [
+            72.0,
+            506.17,
+            529.07,
+            573.3599999999999
+          ],
+          "block_idx": 115,
+          "level": 0
+        },
+        {
+          "tag": "para",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "Upon the terms and subject to the conditions set forth in this Agreement, at the Effective Time, Merger Sub shall be merged with and into the Company and the separate existence of Merger Sub shall cease.",
+            "Following the Effective Time, the Company shall continue as the surviving corporation of the Merger (the â\\x80\\x9cSurviving Corporationâ\\x80\\x9d)."
+          ],
+          "block_idx": 116,
+          "bbox": [
+            72.0,
+            506.17,
+            529.07,
+            573.3599999999999
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "1.2 EFFECT OF THE MERGER"
+          ],
+          "bbox": [
+            72.0,
+            587.17,
+            528.85,
+            612.97
+          ],
+          "block_idx": 117,
+          "level": 0
+        },
+        {
+          "tag": "para",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "The Merger shall have the effects set forth in this Agreement and in the applicable provisions of the DGCL."
+          ],
+          "block_idx": 118,
+          "bbox": [
+            72.0,
+            587.17,
+            528.85,
+            612.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "1.3 CLOSING; EFFECTIVE TIME"
+          ],
+          "bbox": [
+            72.0,
+            626.77,
+            538.95,
+            707.77
+          ],
+          "block_idx": 119,
+          "level": 0
+        },
+        {
+          "tag": "para",
+          "page_idx": 4,
+          "block_class": "cls_2",
+          "sentences": [
+            "The closing of the transactions contemplated by this Agreement (the â\\x80\\x9cClosingâ\\x80\\x9d) shall take place at the offices of [PARENTâ\\x80\\x99S COUNSEL, ADDRESS], at 10:00 a.m. local time on a date to be designated by Parent (the â\\x80\\x9cClosing Dateâ\\x80\\x9d), which shall be no later than the fifth Business Day after the satisfaction or waiver of the last to be satisfied or waived of the conditions set forth in Articles 5 and 6 (other than those conditions that by their nature cannot be satisfied prior to the Closing, but subject to the satisfaction or waiver of those conditions at the Closing) or at such other time and date as may be mutually agreed by Parent and the Company.",
+            "Subject to the provisions of this Agreement, a certificate of merger satisfying the applicable requirements of the DGCL (the â\\x80\\x9cCertificate of Mergerâ\\x80\\x9d) shall be duly executed by the Company and, as soon as practicable following the Closing, filed with the Secretary of State of the State of Delaware (the â\\x80\\x9cSecretary of Stateâ\\x80\\x9d).",
+            "The Merger shall become effective upon the later of: (a) the date and time of the filing of the Certificate of Merger with the Secretary of State, or (b) such later date and time as may be specified in the Certificate of Merger as agreed to by the Parties.",
+            "The date and time the Merger becomes effective is referred to in this Agreement as the â\\x80\\x9cEffective Time.â\\x80\\x9d"
+          ],
+          "block_idx": 120,
+          "bbox": [
+            72.0,
+            626.77,
+            539.88,
+            707.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 5,
+          "block_class": "cls_2",
+          "sentences": [
+            "1.4 CERTIFICATE OF INCORPORATION AND BYLAWS; DIRECTORS AND OFFICERS"
+          ],
+          "bbox": [
+            72.0,
+            221.17,
+            524.87,
+            246.97
+          ],
+          "block_idx": 121,
+          "level": 0
+        },
+        {
+          "tag": "para",
+          "page_idx": 5,
+          "block_class": "cls_2",
+          "sentences": [
+            "At the Effective Time:"
+          ],
+          "block_idx": 122,
+          "bbox": [
+            72.0,
+            221.17,
+            524.87,
+            246.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 5,
+          "block_class": "cls_2",
+          "sentences": [
+            "(a) the certificate of incorporation of the Company shall be amended to read in its entirety as set forth in Exhibit A;"
+          ],
+          "block_idx": 123,
+          "bbox": [
+            72.0,
+            260.77,
+            535.68,
+            286.56
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 5,
+          "block_class": "cls_2",
+          "sentences": [
+            "(b) the bylaws of the Company shall be amended and restated to conform to the bylaws of Merger Sub as in effect immediately prior to the Effective Time; and"
+          ],
+          "block_idx": 124,
+          "bbox": [
+            72.0,
+            300.36,
+            530.82,
+            339.97
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 5,
+          "block_class": "cls_2",
+          "sentences": [
+            "(c) the directors and officers of the Surviving Corporation immediately after the Effective Time shall be the respective individuals who are directors and officers of Merger Sub immediately prior to the Effective Time."
+          ],
+          "block_idx": 125,
+          "bbox": [
+            72.0,
+            353.77,
+            538.06,
+            393.36
+          ],
+          "level": 2
+        },
+        {
+          "tag": "header",
+          "page_idx": 5,
+          "block_class": "cls_2",
+          "sentences": [
+            "1.5 CONVERSION OF SHARES."
+          ],
+          "bbox": [
+            108.0,
+            407.17,
+            270.6,
+            419.17
+          ],
+          "block_idx": 126,
+          "level": 0
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 5,
+          "block_class": "cls_2",
+          "sentences": [
+            "(a) At the Effective Time, by virtue of the Merger and without any further action on the part of Parent, Merger Sub, the Company, or any stockholder of the Company:"
+          ],
+          "block_idx": 127,
+          "bbox": [
+            72.0,
+            432.97,
+            530.82,
+            472.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 5,
+          "block_class": "cls_2",
+          "sentences": [
+            "(i) any shares of Company Common Stock then owned by the Company or any wholly owned Subsidiary of the Company (or held in the Companyâ\\x80\\x99s treasury) shall be canceled and retired and shall cease to exist, and no consideration shall be delivered in exchange therefor;"
+          ],
+          "block_idx": 128,
+          "bbox": [
+            72.0,
+            486.36,
+            527.91,
+            539.77
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 5,
+          "block_class": "cls_2",
+          "sentences": [
+            "(ii) any shares of Company Common Stock then owned by Parent, Merger Sub, or any other wholly owned Subsidiary of Parent shall be canceled and retired and shall cease to exist, and no consideration shall be delivered in exchange therefor;"
+          ],
+          "block_idx": 129,
+          "bbox": [
+            72.0,
+            553.56,
+            536.54,
+            593.17
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 5,
+          "block_class": "cls_2",
+          "sentences": [
+            "(iii) except as provided in clauses (i) and (ii) of this Section 1.5(a) and subject to Sections 1.5(b) and 1.5(c), each share of Company Common Stock then outstanding shall be converted into the right to receive of a share of Parent Common Stock; and"
+          ],
+          "block_idx": 130,
+          "bbox": [
+            72.0,
+            606.97,
+            524.71,
+            660.36
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 5,
+          "block_class": "cls_2",
+          "sentences": [
+            "(iv) each share of the common stock, $0.001 par value per share, of Merger Sub then outstanding shall be converted into one share of common stock of the Surviving Corporation."
+          ],
+          "block_idx": 131,
+          "bbox": [
+            72.0,
+            674.17,
+            536.57,
+            713.77
+          ],
+          "level": 2
+        },
+        {
+          "tag": "para",
+          "page_idx": 6,
+          "block_class": "cls_2",
+          "sentences": [
+            "The fraction of a share of Parent Common Stock specified in Section 1.5(a)(iii) (as such fraction may be adjusted in accordance with Section 1.5(b)) is referred to as the â\\x80\\x9cExchange Ratio.â\\x80\\x9d (b) If, between the date of this Agreement and the Effective Time, the outstanding shares of Company Common Stock or Parent Common Stock are changed into a different number or class of shares by reason of any stock split, stock dividend, reverse stock split, reclassification, recapitalization, or other similar transaction or event, or there occurs a record date with respect to any of the foregoing, then the Exchange Ratio shall be appropriately adjusted."
+          ],
+          "block_idx": 132,
+          "bbox": [
+            72.0,
+            71.17,
+            538.7,
+            205.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 6,
+          "block_class": "cls_2",
+          "sentences": [
+            "(c) No fractional shares of Parent Common Stock shall be issued in connection with the Merger, and no certificates or scrip for any such fractional shares shall be issued.",
+            "Any holder of Company Common Stock who would otherwise be entitled to receive a fraction of a share of Parent Common Stock (after aggregating all fractional shares of Parent Common Stock issuable to such holder), in lieu of such fraction of a share and, upon surrender of such holderâ\\x80\\x99s Company Stock Certificate or Book Entry Shares, shall be paid in cash the dollar amount (rounded to the nearest whole cent), without interest, determined by multiplying such fraction by the closing price of a share of Parent Common Stock on the New York Stock Exchange (â\\x80\\x9cNYSEâ\\x80\\x9d) on the day that includes the Effective Time (or if such day is not a day on which the NYSE is open, the immediately preceding day on which the NYSE is open)."
+          ],
+          "block_idx": 133,
+          "bbox": [
+            72.0,
+            219.36,
+            538.37,
+            369.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 6,
+          "block_class": "cls_2",
+          "sentences": [
+            "1.6 CLOSING OF THE COMPANYâ\\x80\\x99S TRANSFER BOOKS"
+          ],
+          "bbox": [
+            72.0,
+            383.17,
+            539.82,
+            546.97
+          ],
+          "block_idx": 134,
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 6,
+          "block_class": "cls_2",
+          "sentences": [
+            "At the Effective Time: (a) all holders of shares of Company Common Stock that were outstanding immediately prior to the Effective Time shall cease to have any rights as stockholders of the Company other than the right to receive shares of Parent Common Stock (and cash in lieu of any fractional share of Parent Common Stock) as contemplated by Section 1.5 and any dividends or other distributions payable pursuant to Section 1.7(c); and (b) the stock transfer books of the Company shall be closed with respect to all shares of Company Common Stock outstanding immediately prior to the Effective Time.",
+            "No further transfer of any such shares of Company Common Stock shall be made on such stock transfer books after the Effective Time.",
+            "If, after the Effective Time, any shares of Company Common Stock are presented to the Exchange Agent or to the Surviving Corporation or Parent, such shares of Company Common Stock shall be cancelled and shall be exchanged as provided in Section 1.7."
+          ],
+          "block_idx": 135,
+          "bbox": [
+            72.0,
+            383.17,
+            539.82,
+            546.97
+          ],
+          "level": 2
+        },
+        {
+          "tag": "header",
+          "page_idx": 6,
+          "block_class": "cls_2",
+          "sentences": [
+            "1.7 EXCHANGE OF CERTIFICATES."
+          ],
+          "bbox": [
+            108.0,
+            560.77,
+            294.6,
+            572.77
+          ],
+          "block_idx": 136,
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 6,
+          "block_class": "cls_2",
+          "sentences": [
+            "(a) On or prior to the Closing Date, Parent shall select a bank or"
+          ],
+          "bbox": [
+            144.0,
+            586.56,
+            527.68,
+            598.56
+          ],
+          "block_idx": 137,
+          "level": 2
+        },
+        {
+          "tag": "para",
+          "page_idx": 6,
+          "block_class": "cls_2",
+          "sentences": [
+            "trust company to act as exchange agent in the Merger (the â\\x80\\x9cExchange Agentâ\\x80\\x9d).",
+            "Parent shall make available to the Exchange Agent (by instruction to Parentâ\\x80\\x99s transfer agent) and cash amounts so deposited with the Exchange Agent are referred to collectively as the â\\x80\\x9cExchange Fund.â\\x80\\x9d"
+          ],
+          "block_idx": 138,
+          "bbox": [
+            72.0,
+            600.36,
+            531.47,
+            626.17
+          ],
+          "level": 3
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 6,
+          "block_class": "cls_2",
+          "sentences": [
+            "(i) promptly after the Effective Time, certificates representing the shares of Parent Common Stock issuable pursuant to Section 1.5 (or make appropriate alternative arrangements if uncertificated shares of Parent Common Stock represented by a book entry will be issued) and (ii) as needed, cash sufficient to make payments in lieu of fractional shares in accordance with Section 1.5(c).",
+            "The shares of Parent Common Stock"
+          ],
+          "block_idx": 139,
+          "bbox": [
+            72.0,
+            627.97,
+            526.21,
+            695.17
+          ],
+          "level": 3
+        },
+        {
+          "tag": "table",
+          "page_idx": 7,
+          "block_class": "cls_2",
+          "top": 110.77,
+          "left": 72.0,
+          "name": "(a) On or prior to the Closing Date, Parent shall select a bank or",
+          "block_idx": 140,
+          "level": 2,
+          "table_rows": [
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "(b) Exchange Agent shall mail to the record holders of Company Common Stock (i) a letter of transmittal in customary form and containing such provisions as Parent may reasonably specify (including a provision confirming that delivery shall be effected, and risk of loss and title shall pass, only upon proper delivery of the Company Stock Certificates to the Exchange Agent or, in the case of Book Entry Shares, upon adherence to the procedures set forth in the letter of transmittal), and (ii) instructions for use in effecting the surrender of such holderâ\\x80\\x99s Company Stock Certificates and Book Entry Shares in exchange for certificates representing Parent Common Stock (or appropriate alternative arrangements if uncertificated shares of Parent Common Stock represented by a book entry will be issued). Exchange of any Book Entry Shares shall be effected in accordance with the Exchange Agentâ\\x80\\x99s customary procedures with respect to securities represented by book entry. Upon surrender of a Company Stock Certificate or Book Entry Share to the Exchange Agent for exchange, together with a duly executed letter of transmittal and such other documents as may be reasonably required by the Exchange Agent or Parent, the holder of such Company Stock Certificate or Book Entry Share shall be entitled to receive in exchange therefor a certificate representing the number of whole shares of Parent Common Stock (or uncertificated shares of Parent Common Stock represented by a book entry) that such holder has the right to receive pursuant to the provisions of Section 1.5 (and cash in lieu of any fractional share of Parent Common Stock). The Company Stock Certificate or Book Entry Share so surrendered shall be canceled. Until surrendered as contemplated by this Section 1.7, each Company Stock Certificate or Book Entry Share shall be deemed, from and after the Effective Time, to represent only the right to receive shares of Parent Common Stock (and cash in lieu of any fractional share of Parent Common Stock) as contemplated by Section 1.5. If any Company Stock Certificate shall have been lost, stolen, or destroyed, Parent or the Exchange Agent may, in its discretion and as a condition precedent to the issuance of any certificate representing Parent Common Stock, require the owner of such lost, stolen, or destroyed Company Stock Certificate to provide an appropriate affidavit and to deliver a bond (in such sum as Parent or the Exchange Agent may reasonably direct) as indemnity against any claim that may be made against the Exchange Agent, Parent, or the Surviving Corporation with respect to such Company Stock Certificate."
+                },
+                {
+                  "cell_value": "As soon as reasonably practicable after the Effective Time, the"
+                }
+              ],
+              "block_idx": 140
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "(c)"
+                },
+                {
+                  "cell_value": "No dividends or other distributions declared or made with"
+                }
+              ],
+              "block_idx": 141
+            },
+            {
+              "type": "full_row",
+              "col_span": 2,
+              "cell_value": "respect to Parent Common Stock with a record date after the Effective Time shall be paid to the holder of any unsurrendered Company Stock Certificate or Book Entry Share with respect to the shares of Parent Common Stock that such holder has the right to receive in the Merger until such holder surrenders such Company Stock Certificate or Book Entry Shares in accordance with this Section 1.7 (at which time such holder shall be entitled, subject to the effect of applicable escheat law or similar Legal Requirement, to receive all such dividends and distributions, without interest).",
+              "block_idx": 142
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "(d)"
+                },
+                {
+                  "cell_value": "Any portion of the Exchange Fund that remains undistributed"
+                }
+              ],
+              "block_idx": 143
+            },
+            {
+              "type": "full_row",
+              "col_span": 2,
+              "cell_value": "to holders of Company Stock Certificates or Book Entry Shares as of the date 180 days after the Effective Time shall be delivered to Parent upon demand, and any holders of Company Stock Certificates or Book Entry Shares who have not theretofore surrendered their Company Stock Certificates or Book Entry Shares in accordance with this Section 1.7 shall thereafter look only to Parent for satisfaction of their claims for Parent Common Stock, cash in lieu of fractional shares of Parent Common Stock, and any dividends or distributions with respect to Parent Common Stock, in each case without interest thereon.",
+              "block_idx": 144
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "(e) Corporation shall be entitled to deduct and withhold from any consideration payable or otherwise deliverable pursuant to this Agreement to any holder or former holder of Company Common Stock such amounts as may be required to be deducted or withheld therefrom under the Code or any provision of state, local, or foreign Tax law or under any other applicable Legal Requirement. To the extent such amounts are so deducted or withheld, such amounts shall be treated for all purposes under this Agreement as having been paid to the Person to whom such amounts would otherwise have been paid."
+                },
+                {
+                  "cell_value": "Each of the Exchange Agent, Parent, and the Surviving"
+                }
+              ],
+              "block_idx": 145
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "(f)"
+                },
+                {
+                  "cell_value": "Neither Parent nor the Surviving Corporation shall be liable to"
+                }
+              ],
+              "block_idx": 146
+            }
+          ],
+          "bbox": [
+            72.0,
+            110.77,
+            466.38,
+            122.77
+          ]
+        },
+        {
+          "tag": "para",
+          "page_idx": 8,
+          "block_class": "cls_2",
+          "sentences": [
+            "any holder or former holder of Company Common Stock or to any other Person with respect to any shares of Parent Common Stock (or dividends or distributions with respect thereto), or for any cash amounts, properly delivered to any public official pursuant to any applicable abandoned property law, escheat law, or similar Legal Requirement."
+          ],
+          "block_idx": 147,
+          "bbox": [
+            72.0,
+            302.17,
+            536.21,
+            355.56
+          ],
+          "level": 2
+        },
+        {
+          "tag": "header",
+          "page_idx": 8,
+          "block_class": "cls_2",
+          "sentences": [
+            "1.8 TAX CONSEQUENCES"
+          ],
+          "bbox": [
+            72.0,
+            369.36,
+            528.44,
+            436.56
+          ],
+          "block_idx": 148,
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 8,
+          "block_class": "cls_2",
+          "sentences": [
+            "For federal income tax purposes, the Merger is intended to constitute a reorganization within the meaning of Section 368(a) of the Code.",
+            "The parties to this Agreement hereby adopt this Agreement as a â\\x80\\x9cplan of reorganizationâ\\x80\\x9d within the meaning of Sections 1.368-2(g) and 1.368-3(a) of the United States Treasury Regulations."
+          ],
+          "block_idx": 149,
+          "bbox": [
+            72.0,
+            369.36,
+            528.44,
+            436.56
+          ],
+          "level": 2
+        },
+        {
+          "tag": "header",
+          "page_idx": 8,
+          "block_class": "cls_2",
+          "sentences": [
+            "1.9 FURTHER ACTION"
+          ],
+          "bbox": [
+            72.0,
+            450.36,
+            539.74,
+            531.3600000000001
+          ],
+          "block_idx": 150,
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 8,
+          "block_class": "cls_2",
+          "sentences": [
+            "If, at any time after the Effective Time, any further action is determined by Parent to be necessary or desirable to carry out the purposes of this Agreement or to vest the Surviving Corporation with full right, title, and possession of and to all rights and property of Merger Sub and the Company, the officers and directors of the Surviving Corporation and Parent shall be fully authorized (in the name of Merger Sub, in the name of the Company, and otherwise) to take such action."
+          ],
+          "block_idx": 151,
+          "bbox": [
+            72.0,
+            450.36,
+            539.74,
+            531.3600000000001
+          ],
+          "level": 2
+        },
+        {
+          "tag": "para",
+          "page_idx": 9,
+          "block_class": "cls_1",
+          "sentences": [
+            "ARTICLE 2"
+          ],
+          "block_idx": 152,
+          "bbox": [
+            276.12,
+            71.17,
+            335.63,
+            83.17
+          ],
+          "level": 3
+        },
+        {
+          "tag": "header",
+          "page_idx": 9,
+          "block_class": "cls_2",
+          "sentences": [
+            "REPRESENTATIONS AND WARRANTIES OF THE COMPANY"
+          ],
+          "bbox": [
+            165.83,
+            98.77,
+            446.03,
+            110.77
+          ],
+          "block_idx": 153,
+          "level": 0
+        },
+        {
+          "tag": "para",
+          "page_idx": 9,
+          "block_class": "cls_2",
+          "sentences": [
+            "The Company represents and warrants to Parent and Merger Sub as follows:"
+          ],
+          "block_idx": 154,
+          "bbox": [
+            108.0,
+            124.56,
+            503.85,
+            136.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 9,
+          "block_class": "cls_2",
+          "sentences": [
+            "2.1 ORGANIZATION AND GOOD STANDING."
+          ],
+          "bbox": [
+            108.0,
+            150.36,
+            335.64,
+            162.36
+          ],
+          "block_idx": 155,
+          "level": 0
+        },
+        {
+          "tag": "table",
+          "page_idx": 9,
+          "block_class": "cls_2",
+          "top": 176.17,
+          "left": 144.0,
+          "name": "2.1 ORGANIZATION AND GOOD STANDING.",
+          "block_idx": 156,
+          "level": 1,
+          "table_rows": [
+            {
+              "type": "table_header",
+              "cells": [
+                {
+                  "cell_value": ""
+                },
+                {
+                  "cell_value": "(a)"
+                },
+                {
+                  "cell_value": "The Company and each of its Subsidiaries are corporations or"
+                }
+              ],
+              "block_idx": 156
+            },
+            {
+              "type": "full_row",
+              "col_span": 3,
+              "cell_value": "other entities duly organized, validly existing, and in good standing under the laws of their respective jurisdictions of incorporation or organization, with full corporate or other entity power and authority to conduct their respective businesses as now being conducted, to own or use the respective properties and assets that they purport to own or use, and to perform all their respective obligations under each of the Company Contracts. The Company and each of its Subsidiaries are duly qualified to do business as foreign corporations or other entities and are in good standing under the laws of each state or other jurisdiction in which either the ownership or use of the properties owned or used by them, or the nature of the activities conducted by it, requires such qualification, except where the failure to be so qualified, individually or in the aggregate, has not had and could not reasonably be expected to have a Company Material Adverse Effect.",
+              "block_idx": 157
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": " Company and each of its Subsidiaries and sets forth as to each the type of entity, its jurisdiction of organization and, except in the case of the Company, its stockholders or other equity holders. The Company has delivered to Parent copies of the certificate or articles of incorporation, by-laws, and other organizational documents (collectively, â\\x80\\x9cOrganizational Documentsâ\\x80\\x9d) of the Company and each of its Subsidiaries, as currently in"
+                },
+                {
+                  "cell_value": "(b)"
+                },
+                {
+                  "cell_value": "Part 2.1(b) of the Company Disclosure Schedule lists the"
+                }
+              ],
+              "block_idx": 158
+            },
+            {
+              "type": "full_row",
+              "col_span": 3,
+              "cell_value": "2.2 AUTHORITY; NO CONFLICT.",
+              "block_idx": 159
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": ""
+                },
+                {
+                  "cell_value": "(a)"
+                },
+                {
+                  "cell_value": "The Company has all necessary corporate power and authority"
+                }
+              ],
+              "block_idx": 160
+            }
+          ],
+          "bbox": [
+            144.0,
+            176.17,
+            538.72,
+            188.17
+          ]
+        },
+        {
+          "tag": "para",
+          "page_idx": 9,
+          "block_class": "cls_2",
+          "sentences": [
+            "to execute and deliver this Agreement and the other agreements referred to in this Agreement to which it is or will be a party, and to perform its obligations hereunder and thereunder.",
+            "The execution and delivery of this Agreement by the Company and the consummation by the Company of the Merger and the other transactions contemplated hereby and thereby (collectively, and including the execution, delivery, and performance by certain of the Companyâ\\x80\\x99s stockholders of the Stockholder Voting Agreements, the â\\x80\\x9cContemplated Transactionsâ\\x80\\x9d) have been duly and validly authorized by all necessary corporate action and no other corporate proceedings on the part of the Company are necessary to authorize this Agreement or to consummate the Contemplated Transactions (other than, with respect to the Merger, the adoption of this Agreement by the holders of a majority of the then outstanding shares of Company Common Stock (the â\\x80\\x9cRequired Stockholder Voteâ\\x80\\x9d)).",
+            "The Company Board has unanimously approved this Agreement, declared it to be advisable, and resolved to recommend to the stockholders of the Company that they vote in favor of the adoption of this Agreement in accordance with the DGCL.",
+            "This Agreement has been duly and validly executed and delivered by the Company and constitutes the legal, valid, and binding obligation of the Company, enforceable against the Company in accordance with its terms, except as such enforcement may be limited by applicable bankruptcy, insolvency, moratorium, or other similar Legal Requirement affecting the enforcement of creditorsâ\\x80\\x99 rights generally, and subject to general principles of equity (whether considered in a proceeding whether in equity or at law)."
+          ],
+          "block_idx": 161,
+          "bbox": [
+            72.0,
+            501.97,
+            539.87,
+            707.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 10,
+          "block_class": "cls_2",
+          "sentences": [
+            "(b) Except as set forth in Part 2.2(b) of the Company Disclosure"
+          ],
+          "bbox": [
+            144.0,
+            152.17,
+            523.74,
+            164.17
+          ],
+          "block_idx": 162,
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 10,
+          "block_class": "cls_2",
+          "sentences": [
+            "Schedule, neither the execution and delivery of this Agreement nor the consummation of any of the Contemplated Transactions do or will, directly or indirectly (with or without notice or lapse of time or both):"
+          ],
+          "block_idx": 163,
+          "bbox": [
+            72.0,
+            165.97,
+            523.61,
+            205.56
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 10,
+          "block_class": "cls_2",
+          "sentences": [
+            "(i) contravene, conflict with, or result in a violation of (A) any provision of the Organizational Documents of the Company or any of its Subsidiaries or"
+          ],
+          "block_idx": 164,
+          "bbox": [
+            72.0,
+            219.36,
+            521.77,
+            245.17
+          ],
+          "level": 3
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 10,
+          "block_class": "cls_2",
+          "sentences": [
+            "(B) any resolution adopted by the board of directors or the stockholders of the Company or any of its Subsidiaries;"
+          ],
+          "block_idx": 165,
+          "bbox": [
+            72.0,
+            246.97,
+            539.02,
+            272.77
+          ],
+          "level": 4
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 10,
+          "block_class": "cls_2",
+          "sentences": [
+            "(ii) contravene, conflict with, or result in a violation of, or give any Governmental Body or other Person the right to challenge any of the Contemplated Transactions or to exercise any remedy or obtain any relief under, any Legal Requirement or any Order to which the Company or any of its Subsidiaries, or any of the assets owned or used by any of the Company or any of its Subsidiaries, is or may be subject;"
+          ],
+          "block_idx": 166,
+          "bbox": [
+            72.0,
+            286.56,
+            537.49,
+            353.77
+          ],
+          "level": 3
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 10,
+          "block_class": "cls_2",
+          "sentences": [
+            "(iii) contravene, conflict with, or result in a violation of any of the terms or requirements of, or give any Governmental Body the right to revoke, withdraw, suspend, cancel, terminate, or modify, any Governmental Authorization that is held by the Company or any of its Subsidiaries, or that otherwise relates to the business of, or any of the assets owned or used by, the Company or any of its Subsidiaries;"
+          ],
+          "block_idx": 167,
+          "bbox": [
+            72.0,
+            367.56,
+            534.91,
+            434.77
+          ],
+          "level": 3
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 10,
+          "block_class": "cls_2",
+          "sentences": [
+            "(iv) cause the Company or any of its Subsidiaries to become subject to, or to become liable for the payment of, any Tax;"
+          ],
+          "block_idx": 168,
+          "bbox": [
+            72.0,
+            448.56,
+            540.1,
+            474.36
+          ],
+          "level": 3
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 10,
+          "block_class": "cls_2",
+          "sentences": [
+            "(v) cause any of the assets owned by the Company or any of its Subsidiaries to be reassessed or revalued by any Taxing Authority or other Governmental Body;"
+          ],
+          "block_idx": 169,
+          "bbox": [
+            72.0,
+            488.17,
+            531.96,
+            527.77
+          ],
+          "level": 3
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 10,
+          "block_class": "cls_2",
+          "sentences": [
+            "(vi) contravene, conflict with, or result in a violation or breach of any provision of, result in the loss of any benefit or the imposition of any additional payment or other liability under, give any Person the right to declare a default or exercise any remedy under, to accelerate the maturity or performance of, or to cancel, terminate, redeem, or modify any Company Contract, exercise any change in control or similar put rights with respect to, or to require a greater rate of interest on, any debt obligations of the Company; or"
+          ],
+          "block_idx": 170,
+          "bbox": [
+            72.0,
+            541.56,
+            536.51,
+            636.36
+          ],
+          "level": 3
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 10,
+          "block_class": "cls_2",
+          "sentences": [
+            "(vii) result in the imposition or creation of any Encumbrance upon or with respect to any of the assets owned or used by the Company or any of its Subsidiaries, except, in the case of clauses (ii), (iii), (iv), (v), (vi), and (vii), for any such conflicts, violations, breaches, defaults, or other occurrences that, individually or in the aggregate, have not had and could not reasonably be expected to have a Company Material Adverse Effect."
+          ],
+          "block_idx": 171,
+          "bbox": [
+            72.0,
+            650.17,
+            538.32,
+            703.56
+          ],
+          "level": 3
+        },
+        {
+          "tag": "header",
+          "page_idx": 11,
+          "block_class": "cls_2",
+          "sentences": [
+            "(c) The execution and delivery of this Agreement by the Company"
+          ],
+          "bbox": [
+            144.0,
+            110.77,
+            536.28,
+            122.77
+          ],
+          "block_idx": 172,
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 11,
+          "block_class": "cls_2",
+          "sentences": [
+            "do not, and the performance of this Agreement and the consummation of the Contemplated Transactions by the Company will not, require any Consent of, or filing with or notification to, any Person, except (i) for (A) applicable requirements, if any, of the Exchange Act, the Securities Act and state securities or â\\x80\\x9cblue skyâ\\x80\\x9d Legal Requirements (â\\x80\\x9cBlue Sky Lawsâ\\x80\\x9d), (B) the pre-merger notification requirements of the HSR Act, (C) filing of a certificate of merger as required by the DGCL and (D) filings required by the non- United States competition, antitrust, and investment laws set forth in Part 2.2(c) of the Company Disclosure Schedule and (ii) where failure to obtain such Consents, or to make such filings or notifications, individually or in the aggregate, have not had and could not reasonably be expected to have a Company Material Adverse Effect."
+          ],
+          "block_idx": 173,
+          "bbox": [
+            72.0,
+            124.56,
+            539.24,
+            260.77
+          ],
+          "level": 2
+        },
+        {
+          "tag": "header",
+          "page_idx": 11,
+          "block_class": "cls_2",
+          "sentences": [
+            "2.3 AUTHORIZED CAPITAL."
+          ],
+          "bbox": [
+            108.0,
+            274.56,
+            260.64,
+            286.56
+          ],
+          "block_idx": 174,
+          "level": 0
+        },
+        {
+          "tag": "table",
+          "page_idx": 11,
+          "block_class": "cls_2",
+          "top": 304.08,
+          "left": 144.0,
+          "name": "2.3 AUTHORIZED CAPITAL.",
+          "block_idx": 175,
+          "level": 1,
+          "table_rows": [
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "(a)"
+                },
+                {
+                  "cell_value": {
+                    "tag": "para",
+                    "page_idx": 11,
+                    "block_class": "cls_2",
+                    "sentences": [
+                      "The authorized capital stock of the Company consists of"
+                    ],
+                    "block_idx": 182,
+                    "bbox": [
+                      216.0,
+                      304.08,
+                      502.16,
+                      316.08
+                    ]
+                  }
+                }
+              ],
+              "block_idx": 175
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "shares of Company Common Stock and"
+                },
+                {
+                  "cell_value": {
+                    "tag": "para",
+                    "page_idx": 11,
+                    "block_class": "cls_2",
+                    "sentences": [
+                      "shares of Company Preferred Stock."
+                    ],
+                    "block_idx": 183,
+                    "bbox": [
+                      304.19,
+                      322.45,
+                      490.47,
+                      334.45
+                    ]
+                  }
+                }
+              ],
+              "block_idx": 176
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "(b)"
+                },
+                {
+                  "cell_value": {
+                    "tag": "para",
+                    "page_idx": 11,
+                    "block_class": "cls_2",
+                    "sentences": [
+                      "As of the date hereof: (i) shares of Company Common Stock are issued and"
+                    ],
+                    "block_idx": 184,
+                    "bbox": [
+                      180.0,
+                      349.2,
+                      496.17,
+                      390.61
+                    ]
+                  }
+                }
+              ],
+              "block_idx": 177
+            }
+          ],
+          "bbox": [
+            144.0,
+            304.08,
+            325.99,
+            316.08
+          ]
+        },
+        {
+          "tag": "para",
+          "page_idx": 11,
+          "block_class": "cls_2",
+          "sentences": [
+            "outstanding, all of which have been duly authorized and validly issued, and are fully paid and nonassessable, (ii) shares of Company Common Stock are reserved for"
+          ],
+          "block_idx": 178,
+          "bbox": [
+            72.0,
+            393.36,
+            527.6,
+            448.68
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 11,
+          "block_class": "cls_2",
+          "sentences": [
+            "issuance upon the exercise of outstanding stock options granted pursuant to the Companyâ\\x80\\x99s employee stock plans (the â\\x80\\x9cCompany Stock Optionsâ\\x80\\x9d), (iii) shares of Company Common Stock are reserved for"
+          ],
+          "block_idx": 179,
+          "bbox": [
+            72.0,
+            451.33,
+            539.35,
+            506.65
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 11,
+          "block_class": "cls_2",
+          "sentences": [
+            "issuance upon exercise of outstanding warrants of the Company, (iv) shares of Company Common Stock are held in the"
+          ],
+          "block_idx": 180,
+          "bbox": [
+            72.0,
+            509.29,
+            496.5,
+            550.81
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 11,
+          "block_class": "cls_2",
+          "sentences": [
+            "treasury of the Company, (v) shares of Company Common Stock are reserved for"
+          ],
+          "block_idx": 181,
+          "bbox": [
+            72.0,
+            553.56,
+            504.66,
+            595.08
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 11,
+          "block_class": "cls_2",
+          "sentences": [
+            "issuance pursuant to Company Stock Options not yet granted or other Company Benefit Plans, and (vi) shares of Company Preferred Stock are reserved for"
+          ],
+          "block_idx": 182,
+          "bbox": [
+            72.0,
+            597.72,
+            524.23,
+            653.04
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 11,
+          "block_class": "cls_2",
+          "sentences": [
+            "issuance upon exercise of the rights issued pursuant to the rights agreement dated between the Company and (the â\\x80\\x9cCompany Rights Agreementâ\\x80\\x9d)."
+          ],
+          "block_idx": 183,
+          "bbox": [
+            72.0,
+            659.4,
+            489.9,
+            686.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 12,
+          "block_class": "cls_2",
+          "sentences": [
+            "(c) No shares of Company Preferred Stock are outstanding.",
+            "There are no bonds, debentures, notes, or other indebtedness or, except for the Company Common Stock, other securities of the Company having the right to vote (or convertible into, or exchangeable for, securities having the right to vote) on any matters on which stockholders of the Company may vote.",
+            "(d) Part 2.3(d) of the Company Disclosure Schedule sets forth, as of the date hereof, a complete and correct list of each option (including each Company Stock Option), stock appreciation right, warrant or other right, award of restricted shares of Company Common Stock, Contract, arrangement, or commitment of any character relating to the issued or unissued capital stock of the Company or any of its Subsidiaries, or obligating the Company or any of its Subsidiaries to issue, grant, or sell any shares of capital stock of, or other equity interests in, or securities convertible into equity interests in, the Company or any of its Subsidiaries (each, a â\\x80\\x9cCompany Stock-Based Rightâ\\x80\\x9d), setting forth with respect to each such Company Stock-Based Right: the name of the holder thereof; the Plan under which such Company Stock-Based Right was granted, if any; the number of shares of Company Common Stock subject to such Company Stock-Based Right; the per-share price at which such Company Stock-Based Right may be exercised or the shares of Company Common Stock subject to such Company Stock-Based Right were sold or issued; the grant and expiration dates; and the terms of vesting, including whether (and to what extent) the vesting will be accelerated in any way by this Agreement or by termination of employment or change in position following consummation of the Merger.",
+            "Each outstanding Company Stock-Based Right was duly authorized by all requisite corporate action on a date no later than the grant date and has an exercise price or price at which shares were originally issued or sold, to the extent applicable, at least equal to the fair market value of a share of Company Common Stock on the grant date.",
+            "(e) All shares of Company Common Stock subject to issuance as described above will, upon issuance on the terms and conditions specified in the instruments pursuant to which they are issuable, be duly authorized, validly issued, fully paid, and nonassessable.",
+            "Except as set forth in Part 2.3(e) of the Company Disclosure Schedule, neither the Company nor any of its Subsidiaries has any Contract or other obligation to repurchase, redeem, or otherwise acquire any shares of Company Common Stock or any capital stock of any of the Companyâ\\x80\\x99s Subsidiaries, or make any investment (in the form of a loan, capital contribution, or otherwise) in any of the Companyâ\\x80\\x99s Subsidiaries or any other Person.",
+            "None of the outstanding equity securities or other securities of the Company or any of its Subsidiaries was issued in violation of the Securities Act or any other Legal Requirement.",
+            "Neither the Company nor any of its Subsidiaries owns, or has any Contract or other obligation to acquire, any equity securities or other securities of any Person (other than Subsidiaries of the Company) or any direct or indirect equity or ownership interest in any other business.",
+            "Neither the Company nor any of its Subsidiaries is or has ever been a general partner of any general or limited partnership.",
+            "(f) Each outstanding share of capital stock of each of the Companyâ\\x80\\x99s Subsidiaries is duly authorized, validly issued, fully paid, and nonassessable and each such share owned by the Company or any of its Subsidiaries is free and clear of all Encumbrances.",
+            "2.4 SEC REPORTS.",
+            "(a) The Company has filed on a timely basis all forms, reports, and documents required to be filed by it with the SEC since [ï\\x82·] (the â\\x80\\x9cApplicable Dateâ\\x80\\x9d).",
+            "Part 2.4 of the Company Disclosure Schedule lists and, except to the extent available in full without redaction on the SECâ\\x80\\x99s website through the Electronic Data Gathering, Analysis and Retrieval System (â\\x80\\x9cEDGARâ\\x80\\x9d) two days prior to the date of this Agreement, the Company has delivered to Parent copies in the form filed with the SEC (including the full text of any document filed subject to a request for confidential treatment) of:"
+          ],
+          "block_idx": 184,
+          "bbox": [
+            72.0,
+            71.17,
+            540.07,
+            712.56
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 13,
+          "block_class": "cls_2",
+          "sentences": [
+            "(i) all forms, reports, registration statements, and other documents filed by the Company with the SEC since the Applicable Date (such forms, reports, registration statements, and other documents, whether or not available through EDGAR, are collectively referred to herein as the â\\x80\\x9cCompany SEC Reportsâ\\x80\\x9d);"
+          ],
+          "block_idx": 185,
+          "bbox": [
+            72.0,
+            206.4,
+            522.43,
+            259.81
+          ],
+          "level": 3
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 13,
+          "block_class": "cls_2",
+          "sentences": [
+            "(ii) all certifications and statements required by Rules 13a-14 and 15d-14 under the Exchange Act and Sections 302 and 906 of the Sarbanes-Oxley Act of 2002 (the â\\x80\\x9cSOXâ\\x80\\x9d), and the rules and regulations of the SEC promulgated thereunder (collectively, the â\\x80\\x9cCertificationsâ\\x80\\x9d); and"
+          ],
+          "block_idx": 186,
+          "bbox": [
+            72.0,
+            273.61,
+            532.75,
+            327.0
+          ],
+          "level": 3
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 13,
+          "block_class": "cls_2",
+          "sentences": [
+            "(iii) all comment letters received by the Company from the Staff of the SEC since the Applicable Date and all responses to such comment letters by or on behalf of the Company and all other correspondence since the Applicable Date between the SEC and the Company and its Subsidiaries."
+          ],
+          "block_idx": 187,
+          "bbox": [
+            72.0,
+            340.81,
+            537.54,
+            394.2
+          ],
+          "level": 3
+        },
+        {
+          "tag": "para",
+          "page_idx": 13,
+          "block_class": "cls_2",
+          "sentences": [
+            "To the Knowledge of the Company, except as disclosed in the Company SEC Reports, each director and officer (as defined in Rule 16a-1(f) under the Exchange Act) of the Company has filed with the SEC on a timely basis all statements required by Section 16(a) of the Exchange Act and the rules and regulations thereunder since the Applicable Date.",
+            "No subsidiary of the Company is, or since the Applicable Date has been, required to file any form, report, registration statement, or other document with the SEC. As used in this Section 2.4, the term â\\x80\\x9cfileâ\\x80\\x9d shall be broadly construed to include any manner in which a document or information is filed, furnished, transmitted, supplied, or otherwise made available to the SEC."
+          ],
+          "block_idx": 188,
+          "bbox": [
+            72.0,
+            408.0,
+            535.94,
+            530.4
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 13,
+          "block_class": "cls_2",
+          "sentences": [
+            "(b) Each of the Company SEC Reports and the Certifications (i) as of the date of the filing thereof, complied with the requirements of the Securities Act, the Exchange Act, and the SOX, as the case may be, including in each case the rules and regulations thereunder, and (ii) as of its filing date (or, if amended or superseded by a subsequent filing prior to the date hereof, on the date of such filing) did not contain any untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary in order to make the statements made therein, in the light of the circumstances under which they were made, not misleading.",
+            "(c) The Company and its Subsidiaries have implemented and"
+          ],
+          "block_idx": 189,
+          "bbox": [
+            144.0,
+            544.2,
+            1358.75,
+            639.01
+          ],
+          "level": 2
+        },
+        {
+          "tag": "para",
+          "page_idx": 13,
+          "block_class": "cls_2",
+          "sentences": [
+            "maintain disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act), and such controls and procedures are effective to ensure that (i) all information required to be disclosed by the Company in the reports that it files under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SECâ\\x80\\x99s rules and forms, and (ii) all such information is accumulated and communicated to the Companyâ\\x80\\x99s management, including its chief executive officer and chief financial officer, as appropriate to allow timely decisions regarding required disclosure."
+          ],
+          "block_idx": 190,
+          "bbox": [
+            72.0,
+            680.4,
+            537.94,
+            706.2
+          ],
+          "level": 1
+        },
+        {
+          "tag": "table",
+          "page_idx": 14,
+          "block_class": "cls_2",
+          "top": 165.97,
+          "left": 72.0,
+          "name": "2.3 AUTHORIZED CAPITAL.",
+          "block_idx": 191,
+          "level": 1,
+          "table_rows": [
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "(d) compliance with (i) the applicable listing and corporate governance rules and regulations of the NYSE, and (ii) the applicable provisions of the SOX. The Company has delivered to Parent complete and correct copies of all correspondence between the Nasdaq and the Company and its Subsidiaries since the Applicable Date."
+                },
+                {
+                  "cell_value": "The Company is, and since the Applicable Date has been, in"
+                }
+              ],
+              "block_idx": 191
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "(e)"
+                },
+                {
+                  "cell_value": "Since the Applicable Date, neither the Company nor any of its"
+                }
+              ],
+              "block_idx": 192
+            },
+            {
+              "type": "full_row",
+              "col_span": 2,
+              "cell_value": "Subsidiaries or, to the Knowledge of the Company, any director, officer, employee, auditor, accountant, or representative of the Company or any of its Subsidiaries has received or has otherwise had or obtained Knowledge of any complaint, allegation, assertion, or claim, whether written or oral, regarding the accounting or auditing practices, procedures, methodologies, or methods of the Company or any of its Subsidiaries or their internal control over financial reporting, including any complaint, allegation, assertion, or claim that the Company or any of its Subsidiaries has engaged in questionable accounting or auditing practices.",
+              "block_idx": 193
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "(f)"
+                },
+                {
+                  "cell_value": "The Company and its Subsidiaries have implemented and"
+                }
+              ],
+              "block_idx": 194
+            }
+          ],
+          "bbox": [
+            72.0,
+            165.97,
+            439.08,
+            177.97
+          ]
+        },
+        {
+          "tag": "para",
+          "page_idx": 14,
+          "block_class": "cls_2",
+          "sentences": [
+            "maintain a system of internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) sufficient to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with GAAP, including, that:"
+          ],
+          "block_idx": 195,
+          "bbox": [
+            72.0,
+            396.97,
+            538.58,
+            450.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 14,
+          "block_class": "cls_2",
+          "sentences": [
+            "(i) transactions are executed in accordance with managementâ\\x80\\x99s general or specific authorizations;"
+          ],
+          "block_idx": 196,
+          "bbox": [
+            72.0,
+            464.17,
+            523.2,
+            489.97
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 14,
+          "block_class": "cls_2",
+          "sentences": [
+            "(ii) transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and to maintain asset accountability;"
+          ],
+          "block_idx": 197,
+          "bbox": [
+            72.0,
+            503.77,
+            528.24,
+            529.56
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 14,
+          "block_class": "cls_2",
+          "sentences": [
+            "(iii) access to assets is permitted only in accordance with managementâ\\x80\\x99s general or specific authorization; and"
+          ],
+          "block_idx": 198,
+          "bbox": [
+            72.0,
+            543.36,
+            482.17,
+            569.17
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 14,
+          "block_class": "cls_2",
+          "sentences": [
+            "(iv) the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences."
+          ],
+          "block_idx": 199,
+          "bbox": [
+            72.0,
+            582.97,
+            526.39,
+            622.56
+          ],
+          "level": 2
+        },
+        {
+          "tag": "table",
+          "page_idx": 14,
+          "block_class": "cls_2",
+          "top": 636.36,
+          "left": 144.0,
+          "name": "2.3 AUTHORIZED CAPITAL.",
+          "block_idx": 200,
+          "level": 1,
+          "table_rows": [
+            {
+              "type": "table_header",
+              "cells": [
+                {
+                  "cell_value": "(g)"
+                },
+                {
+                  "cell_value": ""
+                },
+                {
+                  "cell_value": "Except as set forth in Part 2.4(g) of the Companyâ\\x80\\x99s Disclosure"
+                }
+              ],
+              "block_idx": 200
+            },
+            {
+              "type": "full_row",
+              "col_span": 3,
+              "cell_value": "Schedule, since :",
+              "block_idx": 201
+            },
+            {
+              "type": "full_row",
+              "col_span": 3,
+              "cell_value": "(i) there have not been any changes in the Companyâ\\x80\\x99s and its Subsidiariesâ\\x80\\x99 internal controls over financial reporting that have materially affected, or are",
+              "block_idx": 202
+            }
+          ],
+          "bbox": [
+            144.0,
+            636.36,
+            610.49,
+            662.16
+          ]
+        },{
+          "tag": "header",
+          "page_idx": 66,
+          "block_class": "cls_2",
+          "sentences": [
+            "Fax no.:"
+          ],
+          "bbox": [
+            108.71,
+            326.17,
+            150.64,
+            338.17
+          ],
+          "block_idx": 666,
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 66,
+          "block_class": "cls_2",
+          "sentences": [
+            "8.13 CONSTRUCTION; USAGE."
+          ],
+          "bbox": [
+            108.0,
+            351.97,
+            267.35,
+            363.97
+          ],
+          "block_idx": 667,
+          "level": 0
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 66,
+          "block_class": "cls_2",
+          "sentences": [
+            "(a) In this Agreement, unless a clear contrary intention appears:"
+          ],
+          "block_idx": 668,
+          "bbox": [
+            144.0,
+            377.77,
+            509.8,
+            389.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 66,
+          "block_class": "cls_2",
+          "sentences": [
+            "(i) the singular number includes the plural number and vice versa;"
+          ],
+          "block_idx": 669,
+          "bbox": [
+            72.0,
+            403.56,
+            508.02,
+            429.36
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 66,
+          "block_class": "cls_2",
+          "sentences": [
+            "(ii) reference to any Person includes such Personâ\\x80\\x99s successors and assigns but, if applicable, only if such successors and assigns are not prohibited by this Agreement, and reference to a Person in a particular capacity excludes such Person in any other capacity or individually;"
+          ],
+          "block_idx": 670,
+          "bbox": [
+            72.0,
+            443.17,
+            533.71,
+            496.56
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 66,
+          "block_class": "cls_2",
+          "sentences": [
+            "(iii) reference to any gender includes each other gender;"
+          ],
+          "block_idx": 671,
+          "bbox": [
+            180.0,
+            510.36,
+            480.9,
+            522.36
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 66,
+          "block_class": "cls_2",
+          "sentences": [
+            "(iv) reference to any agreement, document, or instrument means such agreement, document, or instrument as amended or modified and in effect from time to time in accordance with the terms thereof;"
+          ],
+          "block_idx": 672,
+          "bbox": [
+            72.0,
+            536.17,
+            532.28,
+            575.77
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 66,
+          "block_class": "cls_2",
+          "sentences": [
+            "(v) reference to any Legal Requirement means such Legal Requirement as amended, modified, codified, replaced, or reenacted, in whole or in part, and in effect from time to time, including rules and regulations promulgated thereunder, and reference to any section or other provision of any Legal Requirement means that provision of such Legal Requirement from time to time in effect and constituting the substantive amendment, modification, codification, replacement, or reenactment of such section or other provision;"
+          ],
+          "block_idx": 673,
+          "bbox": [
+            72.0,
+            589.56,
+            525.38,
+            684.36
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 67,
+          "block_class": "cls_2",
+          "sentences": [
+            "(vi) â\\x80\\x9chereunder,â\\x80\\x9d â\\x80\\x9chereof,â\\x80\\x9d â\\x80\\x9chereto,â\\x80\\x9d â\\x80\\x9cherein,â\\x80\\x9d and words of similar import shall be deemed references to this Agreement as a whole and not to any particular Section or other provision;"
+          ],
+          "block_idx": 674,
+          "bbox": [
+            72.0,
+            71.17,
+            513.18,
+            110.77
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 67,
+          "block_class": "cls_2",
+          "sentences": [
+            "(vii) â\\x80\\x9cincludingâ\\x80\\x9d (and with correlative meaning â\\x80\\x9cincludeâ\\x80\\x9d) means including without limiting the generality of any description preceding such term;"
+          ],
+          "block_idx": 675,
+          "bbox": [
+            72.0,
+            124.56,
+            525.22,
+            150.36
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 67,
+          "block_class": "cls_2",
+          "sentences": [
+            "(viii) all exhibits or schedules annexed hereto or referred to herein are hereby incorporated herein and made a part of this Agreement as if set forth in full herein;"
+          ],
+          "block_idx": 676,
+          "bbox": [
+            72.0,
+            164.17,
+            527.62,
+            203.77
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 67,
+          "block_class": "cls_2",
+          "sentences": [
+            "(ix) â\\x80\\x9corâ\\x80\\x9d is used in the inclusive sense of â\\x80\\x9cand/or;â\\x80\\x9d"
+          ],
+          "block_idx": 677,
+          "bbox": [
+            180.0,
+            217.56,
+            452.21,
+            229.56
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 67,
+          "block_class": "cls_2",
+          "sentences": [
+            "(x) with respect to the determination of any period of time, â\\x80\\x9cfromâ\\x80\\x9d means â\\x80\\x9cfrom and includingâ\\x80\\x9d and â\\x80\\x9ctoâ\\x80\\x9d means â\\x80\\x9cto but excluding;â\\x80\\x9d"
+          ],
+          "block_idx": 678,
+          "bbox": [
+            72.0,
+            243.36,
+            538.95,
+            269.17
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 67,
+          "block_class": "cls_2",
+          "sentences": [
+            "(xi) references to documents, instruments, or agreements shall be deemed to refer as well to all addenda, exhibits, schedules, or amendments thereto (but only to the extent, in the case of documents, instruments, or agreements that are the subject of representations and warranties set forth herein, copies of all addenda, exhibits, schedules, or amendments have been provided on or prior to the date of this Agreement to the party to whom such representations and warranties are being made)."
+          ],
+          "block_idx": 679,
+          "bbox": [
+            72.0,
+            282.97,
+            539.32,
+            363.97
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 67,
+          "block_class": "cls_2",
+          "sentences": [
+            "(b) This Agreement was negotiated by the Parties with the benefit of legal representation and any rule of construction or interpretation otherwise requiring this Agreement to be construed or interpreted against any Party shall not apply to any construction or interpretation hereof."
+          ],
+          "block_idx": 680,
+          "bbox": [
+            72.0,
+            377.77,
+            536.39,
+            431.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 67,
+          "block_class": "cls_2",
+          "sentences": [
+            "(c) The headings contained in this Agreement are for convenience of reference only, shall not be deemed to be a part of this Agreement, and shall not be referred to in connection with the construction or interpretation of this Agreement."
+          ],
+          "block_idx": 681,
+          "bbox": [
+            72.0,
+            444.97,
+            529.52,
+            484.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 67,
+          "block_class": "cls_2",
+          "sentences": [
+            "8.14 ENFORCEMENT OF AGREEMENT"
+          ],
+          "bbox": [
+            72.0,
+            498.36,
+            539.89,
+            675.97
+          ],
+          "block_idx": 682,
+          "level": 0
+        },
+        {
+          "tag": "para",
+          "page_idx": 67,
+          "block_class": "cls_2",
+          "sentences": [
+            "The Parties acknowledge and agree that Parent and Merger Sub would be irreparably damaged if any of the provisions of this Agreement are not performed in accordance with their specific terms and that any breach of this Agreement by the Company could not be adequately compensated by monetary damages alone.",
+            "Accordingly, in addition to any other right or remedy to which Parent or Merger Sub may be entitled, at law or in equity, it shall be entitled, without proof of damages, to enforce any provision of this Agreement by a decree of specific performance and temporary, preliminary, and permanent injunctive relief to prevent breaches or threatened breaches of any of the provisions of this Agreement, without posting any bond or other undertaking.",
+            "In the event that any action shall be brought by Parent or Merger Sub in equity to enforce the provisions of the Agreement, the Company shall not allege, and hereby waives the defense, that there is an adequate remedy at law or that the award of specific performance is not an appropriate remedy for any reason of law or equity."
+          ],
+          "block_idx": 683,
+          "bbox": [
+            72.0,
+            498.36,
+            539.89,
+            675.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 67,
+          "block_class": "cls_2",
+          "sentences": [
+            "8.15 SEVERABILITY"
+          ],
+          "bbox": [
+            72.0,
+            689.77,
+            530.22,
+            715.56
+          ],
+          "block_idx": 684,
+          "level": 0
+        },
+        {
+          "tag": "para",
+          "page_idx": 67,
+          "block_class": "cls_2",
+          "sentences": [
+            "If any provision of this Agreement is held invalid, illegal, or unenforceable by any court of competent jurisdiction, the other provisions of this Agreement will remain in full force and effect, so long as the economic or legal substance of the transactions contemplated by this Agreement is not affected in any manner materially adverse to any Party."
+          ],
+          "block_idx": 685,
+          "bbox": [
+            72.0,
+            689.77,
+            538.32,
+            715.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "header",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "8.16 CERTAIN DEFINITIONS :"
+          ],
+          "bbox": [
+            108.0,
+            124.56,
+            262.96,
+            136.56
+          ],
+          "block_idx": 686,
+          "level": 0
+        },
+        {
+          "tag": "para",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cAcquiring Personâ\\x80\\x9d shall have the meaning set forth in Section 2.20."
+          ],
+          "block_idx": 687,
+          "bbox": [
+            108.0,
+            150.36,
+            456.74,
+            162.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cAcquisition Proposalâ\\x80\\x9d means any unsolicited bona fide written offer, proposal, inquiry, or indication of interest (other than an offer, proposal, inquiry, or indication of interest by Parent) contemplating or otherwise relating to any Acquisition Transaction."
+          ],
+          "block_idx": 688,
+          "bbox": [
+            72.0,
+            170.17,
+            519.79,
+            209.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cAcquisition Transactionâ\\x80\\x9d means any transaction or series of transactions involving:"
+          ],
+          "block_idx": 689,
+          "bbox": [
+            72.0,
+            217.56,
+            486.86,
+            243.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "(a) any merger, consolidation, share exchange, business combination, issuance of securities, acquisition of securities, tender offer, exchange offer, or other similar transaction (i) in which the Company or any of its Subsidiaries is a constituent corporation, (ii) in which a Person or â\\x80\\x9cgroupâ\\x80\\x9d (as defined in the Exchange Act and the rules promulgated thereunder) of Persons directly or indirectly acquires beneficial or record ownership of securities representing more than 15% of the outstanding securities of any class of voting securities of the Company or any of its Subsidiaries, or (iii) in which the Company or any of its Subsidiaries issues or sells securities representing more than 15% of the outstanding securities of any class of voting securities of the Company or any of its Subsidiaries; or"
+          ],
+          "block_idx": 690,
+          "bbox": [
+            108.0,
+            251.17,
+            539.38,
+            401.1700000000001
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "(b) any sale (other than sales of inventory in the ordinary course of business), lease (other than in the ordinary course of business), exchange, transfer (other than sales of inventory in the ordinary course of business), license (other than nonexclusive licenses in the ordinary course of business), acquisition, or disposition of any business or businesses or assets that constitute or account for 15% or more of the consolidated net revenues, net income, or assets of the Company and its Subsidiaries."
+          ],
+          "block_idx": 691,
+          "bbox": [
+            108.0,
+            408.97,
+            538.29,
+            503.77
+          ],
+          "level": 2
+        },
+        {
+          "tag": "para",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cAffiliateâ\\x80\\x9d of any Person means with respect to any Person, another Person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such first Person."
+          ],
+          "block_idx": 692,
+          "bbox": [
+            72.0,
+            511.56,
+            528.32,
+            551.1700000000001
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cAgreementâ\\x80\\x9d shall have the meaning set forth in the Preamble."
+          ],
+          "block_idx": 693,
+          "bbox": [
+            108.0,
+            558.97,
+            429.85,
+            570.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cAntitrust Lawsâ\\x80\\x9d means the HSR Act and any other antitrust, unfair competition, merger or acquisition notification, or merger or acquisition control Legal Requirements under any applicable jurisdictions, whether federal, state, local, or foreign."
+          ],
+          "block_idx": 694,
+          "bbox": [
+            72.0,
+            578.77,
+            527.78,
+            618.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cApplicable Dateâ\\x80\\x9d shall have the meaning set forth in Section 2.4(a)."
+          ],
+          "block_idx": 695,
+          "bbox": [
+            108.0,
+            626.17,
+            456.62,
+            638.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cAssumed Stock Optionâ\\x80\\x9d shall have the meaning set forth in Section 4.15(a)."
+          ],
+          "block_idx": 696,
+          "bbox": [
+            108.0,
+            645.97,
+            497.55,
+            657.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cBlue Sky Lawsâ\\x80\\x9d shall have the meaning set forth in Section 2.2(c)."
+          ],
+          "block_idx": 697,
+          "bbox": [
+            108.0,
+            665.77,
+            449.68,
+            677.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 68,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cBoard Recommendationâ\\x80\\x9d shall have the meaning set forth in Section 4.6(a)."
+          ],
+          "block_idx": 698,
+          "bbox": [
+            108.0,
+            685.56,
+            499.24,
+            697.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cBook Entry Sharesâ\\x80\\x9d mean uncertificated shares of Company Common Stock represented by a book entry."
+          ],
+          "block_idx": 699,
+          "bbox": [
+            72.0,
+            71.17,
+            506.42,
+            96.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cBusiness Dayâ\\x80\\x9d means any day other than a Saturday, Sunday.",
+            "or a day on which banking institutions located in [City, State] are authorized pursuant to Legal Requirement to be closed and shall consist of the time period from 12:01 a.m. through 12:00 midnight at such location."
+          ],
+          "block_idx": 700,
+          "bbox": [
+            72.0,
+            104.77,
+            534.69,
+            158.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCertificate of Mergerâ\\x80\\x9d shall have the meaning set forth in Section 1.3. â\\x80\\x9cCertificationsâ\\x80\\x9d shall have the meaning set forth in Section 2.4(a)(ii)."
+          ],
+          "block_idx": 701,
+          "bbox": [
+            108.0,
+            165.97,
+            469.71,
+            197.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCFRâ\\x80\\x9d means the United States Code of Federal Regulations."
+          ],
+          "block_idx": 702,
+          "bbox": [
+            108.0,
+            205.56,
+            422.4,
+            217.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cChange in Recommendationâ\\x80\\x9d shall have the meaning set forth in Section 4.6(b)."
+          ],
+          "block_idx": 703,
+          "bbox": [
+            108.0,
+            225.36,
+            520.34,
+            237.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cClosingâ\\x80\\x9d shall have the meaning set forth in Section 1.3. â\\x80\\x9cClosing Agreementâ\\x80\\x9d shall have the meaning set forth in Section 2.10(k)."
+          ],
+          "block_idx": 704,
+          "bbox": [
+            108.0,
+            245.17,
+            479.29,
+            276.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cClosing Dateâ\\x80\\x9d shall have the meaning set forth in Section 1.3. â\\x80\\x9cCodeâ\\x80\\x9d shall have the meaning set forth in the Recitals, paragraph B."
+          ],
+          "block_idx": 705,
+          "bbox": [
+            108.0,
+            284.77,
+            463.13,
+            316.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompanyâ\\x80\\x9d shall have the meaning set forth in the Preamble."
+          ],
+          "block_idx": 706,
+          "bbox": [
+            108.0,
+            324.36,
+            423.24,
+            336.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Balance Sheetâ\\x80\\x9d shall have the meaning set forth in Section 2.5(a)."
+          ],
+          "block_idx": 707,
+          "bbox": [
+            108.0,
+            344.17,
+            498.85,
+            356.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Benefit Plansâ\\x80\\x9d shall have the meaning set forth in Section 2.11(b)(i)."
+          ],
+          "block_idx": 708,
+          "bbox": [
+            108.0,
+            363.97,
+            512.94,
+            375.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Boardâ\\x80\\x9d means the board of directors of the Company."
+          ],
+          "block_idx": 709,
+          "bbox": [
+            108.0,
+            383.77,
+            443.34,
+            395.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Common Stockâ\\x80\\x9d means the common stock, $ par value per share, of the Company."
+          ],
+          "block_idx": 710,
+          "bbox": [
+            72.0,
+            403.56,
+            532.02,
+            429.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Contractâ\\x80\\x9d means any Contract: (a) to which the Company or any of its Subsidiaries is a party; (b) by which the Company or any of its Subsidiaries or any asset of the Company or any of its Subsidiaries is or may become bound or under which the Company or any of its Subsidiaries has, or may become subject to, any obligation; or (c) under which the Company or any of its Subsidiaries has or may acquire any right or interest."
+          ],
+          "block_idx": 711,
+          "bbox": [
+            72.0,
+            437.17,
+            535.12,
+            518.1700000000001
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Disclosure Scheduleâ\\x80\\x9d means the disclosure schedule that has been prepared by the Company in accordance with the requirements of Section 8.9 and that has been delivered by the Company to Parent on the date of this Agreement and signed by the President of the Company."
+          ],
+          "block_idx": 712,
+          "bbox": [
+            72.0,
+            525.97,
+            535.09,
+            579.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany IPâ\\x80\\x9d means all Intellectual Property owned, used, held for use, or exploited by the Company or any of the Company Subsidiaries, including all Owned Company IP and Licensed Company IP."
+          ],
+          "block_idx": 713,
+          "bbox": [
+            72.0,
+            587.17,
+            502.55,
+            626.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 69,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Material Adverse Effectâ\\x80\\x9d means events, violations, circumstances, or other matters which, individually or in the aggregate, had or could reasonably be expected to have a material adverse effect on (i) the business, condition, capitalization, assets, liabilities, operations, financial performance, or prospects of the Company and its Subsidiaries taken as a whole, (ii) the ability of the Company to consummate the Merger or any of the other Contemplated Transactions or to perform any of its obligations under the Agreement, or (iii) Parentâ\\x80\\x99s ability to vote, receive dividends with respect to, or otherwise exercise ownership rights with respect to the stock of the Surviving Corporation."
+          ],
+          "block_idx": 714,
+          "bbox": [
+            72.0,
+            634.56,
+            537.93,
+            715.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Preferred Stockâ\\x80\\x9d means the preferred stock, $ par value per share, of the Company."
+          ],
+          "block_idx": 715,
+          "bbox": [
+            72.0,
+            104.77,
+            529.85,
+            130.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Rights Agreementâ\\x80\\x9d shall have the meaning set forth in Section 2.3(b)(vi)."
+          ],
+          "block_idx": 716,
+          "bbox": [
+            108.0,
+            138.36,
+            538.21,
+            150.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany SEC Reportsâ\\x80\\x9d shall have the meaning set forth in Section 2.4(a)(i)."
+          ],
+          "block_idx": 717,
+          "bbox": [
+            108.0,
+            158.17,
+            505.48,
+            170.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Source Codeâ\\x80\\x9d means any source code, or any portion, aspect, or segment of any source code, relating to any Proprietary Rights owned by or licensed to the Company or any of its Subsidiaries or otherwise used by the Company or any of its Subsidiaries."
+          ],
+          "block_idx": 718,
+          "bbox": [
+            72.0,
+            177.97,
+            538.3,
+            231.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Stock-Based Rightâ\\x80\\x9d shall have the meaning set forth in Section 2.3(d)."
+          ],
+          "block_idx": 719,
+          "bbox": [
+            108.0,
+            239.17,
+            522.97,
+            251.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Stock Certificateâ\\x80\\x9d means a valid certificate representing shares of Company Common Stock."
+          ],
+          "block_idx": 720,
+          "bbox": [
+            72.0,
+            258.97,
+            502.91,
+            284.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Stock Optionsâ\\x80\\x9d shall have the meaning set forth in Section 2.3(b)(ii)."
+          ],
+          "block_idx": 721,
+          "bbox": [
+            108.0,
+            292.56,
+            514.97,
+            304.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCompany Stockholders Meetingâ\\x80\\x9d shall have the meaning set forth in Section 4.6(a)."
+          ],
+          "block_idx": 722,
+          "bbox": [
+            108.0,
+            312.36,
+            538.94,
+            324.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cConfidentiality Agreementâ\\x80\\x9d means the confidentiality agreement entered into by and between the Company and Parent on â\\x80\\x9cConsentâ\\x80\\x9d means any approval, consent, ratification, permission, waiver, or authorization (including any Governmental Authorization)."
+          ],
+          "block_idx": 723,
+          "bbox": [
+            72.0,
+            332.17,
+            525.98,
+            391.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cContaminationâ\\x80\\x9d shall have the meaning set forth in Section 2.13(b)."
+          ],
+          "block_idx": 724,
+          "bbox": [
+            108.0,
+            399.36,
+            458.42,
+            411.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cContemplated Transactionsâ\\x80\\x9d shall have the meaning set forth in Section 2.2(a)."
+          ],
+          "block_idx": 725,
+          "bbox": [
+            108.0,
+            419.17,
+            516.78,
+            431.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cContinuing Employeeâ\\x80\\x9d shall have the meaning set forth in Section 4.16(a)."
+          ],
+          "block_idx": 726,
+          "bbox": [
+            108.0,
+            438.97,
+            492.03,
+            450.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cContractâ\\x80\\x9d means any written, oral, or other agreement, contract, subcontract, lease, understanding, instrument, note, option, warranty, purchase order, license, sublicense, insurance policy, benefit plan, or commitment or undertaking of any nature."
+          ],
+          "block_idx": 727,
+          "bbox": [
+            72.0,
+            458.77,
+            521.04,
+            498.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cControlled Group Liabilityâ\\x80\\x9d shall have the meaning set forth in Section 2.11(a)."
+          ],
+          "block_idx": 728,
+          "bbox": [
+            108.0,
+            506.17,
+            519.73,
+            518.1700000000001
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cCopyrightsâ\\x80\\x9d means all copyrights, copyrightable works, semiconductor topography and mask work rights, and applications for registration thereof, including all rights of authorship, use, publication, reproduction, distribution, performance transformation, moral rights, and rights of ownership of copyrightable works, semiconductor topography works, and mask works, and all rights to register and obtain renewals and extensions of registrations, together with all other interests accruing by reason of international copyright, semiconductor topography, and mask work conventions."
+          ],
+          "block_idx": 729,
+          "bbox": [
+            72.0,
+            525.97,
+            536.83,
+            620.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cDepartment of Laborâ\\x80\\x9d means the United States Department of Labor."
+          ],
+          "block_idx": 730,
+          "bbox": [
+            108.0,
+            628.56,
+            472.09,
+            640.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cDepartment of the Treasuryâ\\x80\\x9d means United States Department of the Treasury."
+          ],
+          "block_idx": 731,
+          "bbox": [
+            108.0,
+            648.36,
+            521.69,
+            660.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cDGCLâ\\x80\\x9d shall have the meaning set forth in the Recitals, paragraph A."
+          ],
+          "block_idx": 732,
+          "bbox": [
+            108.0,
+            668.17,
+            471.66,
+            680.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 70,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cDistribution Dateâ\\x80\\x9d shall have the meaning set forth in Section 2.20."
+          ],
+          "block_idx": 733,
+          "bbox": [
+            108.0,
+            687.97,
+            456.14,
+            699.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cEDGARâ\\x80\\x9d shall have the meaning set forth in Section 2.4(a)."
+          ],
+          "block_idx": 734,
+          "bbox": [
+            108.0,
+            71.17,
+            417.63,
+            83.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cEffective Timeâ\\x80\\x9d shall have the meaning set forth in Section 1.3. â\\x80\\x9cE-SIGN Actâ\\x80\\x9d means the Electronic Signatures in Global and National Commerce Act enacted June 30, 2000, 15 U.S.C. Â§Â§ 7001-7006."
+          ],
+          "block_idx": 735,
+          "bbox": [
+            72.0,
+            90.97,
+            529.28,
+            136.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cEncumbranceâ\\x80\\x9d means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, claim, infringement, interference, option, right of first refusal, preemptive right, community property interest, or restriction of any nature (including any restriction on the voting of any security, any restriction on the transfer of any security or other asset, any restriction on the receipt of any income derived from any asset, any restriction on the use of any asset, and any restriction on the possession, exercise, or transfer of any other attribute of ownership of any asset)."
+          ],
+          "block_idx": 736,
+          "bbox": [
+            72.0,
+            144.36,
+            534.49,
+            239.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cEnd Dateâ\\x80\\x9d shall have the meaning set forth in Section 7.1(b)."
+          ],
+          "block_idx": 737,
+          "bbox": [
+            108.0,
+            246.97,
+            423.25,
+            258.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cEntityâ\\x80\\x9d means any corporation (including any nonprofit corporation), general partnership, limited partnership, limited liability partnership, joint venture, estate, trust, company (including any company limited by shares, limited liability company, or joint stock company), firm, society, or other enterprise, association, organization, or entity."
+          ],
+          "block_idx": 738,
+          "bbox": [
+            72.0,
+            266.77,
+            527.56,
+            320.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cEnvironmental Lawâ\\x80\\x9d shall have the meaning set forth in Section 2.13(b)."
+          ],
+          "block_idx": 739,
+          "bbox": [
+            108.0,
+            327.97,
+            483.96,
+            339.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cERISAâ\\x80\\x9d shall have the meaning set forth in Section 2.11(a)."
+          ],
+          "block_idx": 740,
+          "bbox": [
+            108.0,
+            347.77,
+            416.9,
+            359.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cERISA Affiliateâ\\x80\\x9d shall have the meaning set forth in Section 2.11(a)."
+          ],
+          "block_idx": 741,
+          "bbox": [
+            108.0,
+            367.56,
+            462.06,
+            379.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cESPPâ\\x80\\x9d shall have the meaning set forth in Section 4.1(b)(ii)."
+          ],
+          "block_idx": 742,
+          "bbox": [
+            108.0,
+            387.36,
+            418.95,
+            399.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cExchange Actâ\\x80\\x9d means the Securities Exchange Act of 1934, as amended."
+          ],
+          "block_idx": 743,
+          "bbox": [
+            108.0,
+            407.17,
+            482.09,
+            419.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cExchange Agentâ\\x80\\x9d shall have the meaning set forth in Section 1.7(a)."
+          ],
+          "block_idx": 744,
+          "bbox": [
+            108.0,
+            426.97,
+            457.94,
+            438.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cExchange Fundâ\\x80\\x9d shall have the meaning set forth in Section 1.7(a)."
+          ],
+          "block_idx": 745,
+          "bbox": [
+            108.0,
+            446.77,
+            454.7,
+            458.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cExchange Ratioâ\\x80\\x9d shall have the meaning set forth in Section 1.5(a)."
+          ],
+          "block_idx": 746,
+          "bbox": [
+            108.0,
+            466.56,
+            455.28,
+            478.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cExpense Reimbursementâ\\x80\\x9d shall have the meaning set forth in Section 7.3(a)(ii)."
+          ],
+          "block_idx": 747,
+          "bbox": [
+            108.0,
+            486.36,
+            516.63,
+            498.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cFacilitiesâ\\x80\\x9d means any real property, leaseholds, or other interests currently or formerly owned or operated by the Company or any of its Subsidiaries and any buildings, plants, structures, or equipment (including motor vehicles, tank cars, and rolling stock) currently or formerly owned or operated by the Company or any of its Subsidiaries."
+          ],
+          "block_idx": 748,
+          "bbox": [
+            72.0,
+            506.17,
+            531.24,
+            559.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cFCPAâ\\x80\\x9d shall have the meaning set forth in Section 2.18."
+          ],
+          "block_idx": 749,
+          "bbox": [
+            108.0,
+            567.36,
+            398.29,
+            579.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cFinal Purchase Dateâ\\x80\\x9d shall have the meaning set forth in Section 4.15(d)(i)."
+          ],
+          "block_idx": 750,
+          "bbox": [
+            108.0,
+            587.17,
+            496.39,
+            599.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cForm S-4 Registration Statementâ\\x80\\x9d means the registration statement on Form S-4 to be filed with the SEC by Parent in connection with issuance of Parent Common Stock in the Merger, as such registration statement may be amended prior to the time it is declared effective by the SEC."
+          ],
+          "block_idx": 751,
+          "bbox": [
+            72.0,
+            606.97,
+            535.28,
+            660.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 71,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cGAAPâ\\x80\\x9d means generally accepted accounting principles for financial reporting in the United States, applied on a basis consistent with the basis on which the financial statements referred to in Section 2.5 and 3.5 were prepared."
+          ],
+          "block_idx": 752,
+          "bbox": [
+            72.0,
+            668.17,
+            530.98,
+            707.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 72,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cGovernmental Authorizationâ\\x80\\x9d means any: (a) permit, license, certificate, franchise, permission, variance, clearance, registration, qualification, or authorization issued, granted, given, or otherwise made available by or under the authority of any Governmental Body or pursuant to any Legal Requirement; or (b) right under any Contract with any Governmental Body."
+          ],
+          "block_idx": 753,
+          "bbox": [
+            72.0,
+            71.17,
+            512.25,
+            138.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 72,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cGovernmental Bodyâ\\x80\\x9d means any: (a) nation, state, commonwealth, province, territory, county, municipality, district, or other jurisdiction of any nature; (b) federal, state, local, municipal, foreign, or other government; or (c) governmental or quasi-governmental authority of any nature (including any governmental division, department, agency, commission, instrumentality, official, organization, unit, body, or Entity and any court or other tribunal)."
+          ],
+          "block_idx": 754,
+          "bbox": [
+            72.0,
+            146.17,
+            515.76,
+            227.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 72,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cHazardous Substanceâ\\x80\\x9d shall have the meaning set forth in Section 2.13(b)."
+          ],
+          "block_idx": 755,
+          "bbox": [
+            108.0,
+            234.97,
+            492.04,
+            246.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 72,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cHSR Actâ\\x80\\x9d means the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended."
+          ],
+          "block_idx": 756,
+          "bbox": [
+            72.0,
+            254.77,
+            525.03,
+            280.56000000000006
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 72,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cIndemnified Personsâ\\x80\\x9d shall have the meaning set forth in Section 4.17(a)."
+          ],
+          "block_idx": 757,
+          "bbox": [
+            108.0,
+            288.36,
+            486.07,
+            300.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 72,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cIntellectual Propertyâ\\x80\\x9d means collectively, all intellectual property and other similar proprietary rights in any jurisdiction throughout the world, whether owned, used, or held for use under license, whether registered or unregistered, including such rights in and to: (a) Trademarks, and the goodwill associated therewith, (b) Patents and inventions, invention disclosures, discoveries, and improvements, whether or not patentable, (c) Trade Secrets, and confidential information and rights to limit the use or disclosure thereof by any Person, (d) all works of authorship (whether copyrightable or not), Copyrights, and databases (or other collections of information, data works, or other materials), (e) software, including data files, source code, object code, firmware, mask works, application programming interfaces, computerized databases, and other software-related specifications and documentation, (f) designs and industrial designs, (g) Internet domain names, (h) rights of publicity and other rights to use the names and likeness of individuals, (i) moral rights, and (j) claims, causes of action, and defenses relating to the past, present, and future enforcement of any of the foregoing; in each case of (a) to (i) above, including any registrations of, applications to register, and renewals and extensions of, any of the foregoing with or by any Governmental Body in any jurisdiction."
+          ],
+          "block_idx": 758,
+          "bbox": [
+            72.0,
+            308.17,
+            539.73,
+            527.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 72,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cIntervening Eventâ\\x80\\x9d shall have the meaning set forth in Section 4.6(c)(ii)."
+          ],
+          "block_idx": 759,
+          "bbox": [
+            108.0,
+            534.97,
+            481.33,
+            546.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 72,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cIRSâ\\x80\\x9d shall have the meaning set forth in Section 2.10(d)."
+          ],
+          "block_idx": 760,
+          "bbox": [
+            108.0,
+            554.77,
+            401.17,
+            566.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 72,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cIssued Patentsâ\\x80\\x9d means all issued patents, reissued or reexamined patents, revivals of patents, utility models, certificates of invention, registrations of patents, and extensions thereof, regardless of country or formal name, issued by the United States Patent and Trademark Office and any other Governmental Body."
+          ],
+          "block_idx": 761,
+          "bbox": [
+            72.0,
+            574.56,
+            531.35,
+            627.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 72,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cKnowledgeâ\\x80\\x9d means, with respect to the Company, the actual knowledge, after reasonable inquiry, of the executive officers of the Company and its Subsidiaries, or with respect to Parent, the actual knowledge, after reasonable inquiry, of the executive officers of Parent."
+          ],
+          "block_idx": 762,
+          "bbox": [
+            72.0,
+            635.77,
+            529.73,
+            689.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cLegal Proceedingâ\\x80\\x9d means any action, suit, litigation, arbitration, proceeding (including any civil, criminal, administrative, investigative, or appellate proceeding), hearing, inquiry, audit, examination, or investigation commenced, brought, conducted, or heard by or before, or otherwise involving, any court or other Governmental Body or any arbitrator or arbitration panel."
+          ],
+          "block_idx": 763,
+          "bbox": [
+            72.0,
+            71.17,
+            530.1,
+            138.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cLegal Requirementâ\\x80\\x9d means any federal, state, local, municipal, foreign, or other law, statute, constitution, principle of common law, resolution, ordinance, code, edict, decree, rule, regulation, ruling, or requirement issued, enacted, adopted, promulgated, implemented, or otherwise put into effect by or under the authority of any Governmental Body (or under the authority of the NYSE)."
+          ],
+          "block_idx": 764,
+          "bbox": [
+            72.0,
+            146.17,
+            527.98,
+            213.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cLicense Agreementâ\\x80\\x9d means any Contract, whether written or oral, and any amendments thereto (including license agreements, sub-license agreements, consulting agreements, research agreements, development agreements, distribution agreements, consent to use agreements, customer or client contracts, coexistence, nonassertion or settlement agreements), pursuant to which any interest in, or any right to use or exploit, any Intellectual Property has been granted."
+          ],
+          "block_idx": 765,
+          "bbox": [
+            72.0,
+            221.17,
+            521.08,
+            302.1700000000001
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cLicensed Company IPâ\\x80\\x9d means the Intellectual Property owned by a third party that the Company or any of the Company Subsidiaries has a right to use or exploit by virtue of a License Agreement."
+          ],
+          "block_idx": 766,
+          "bbox": [
+            72.0,
+            309.97,
+            519.09,
+            349.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cLienâ\\x80\\x9d means any pledge, lien, charge, mortgage, encumbrance, or security interest of any kind or nature."
+          ],
+          "block_idx": 767,
+          "bbox": [
+            72.0,
+            357.36,
+            534.86,
+            383.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cMaterial Contractâ\\x80\\x9d shall have the meaning set forth in Section 2.15(a)."
+          ],
+          "block_idx": 768,
+          "bbox": [
+            108.0,
+            390.97,
+            474.01,
+            402.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cMergerâ\\x80\\x9d shall have the meaning set forth in the Recitals, paragraph A."
+          ],
+          "block_idx": 769,
+          "bbox": [
+            108.0,
+            410.77,
+            475.59,
+            422.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cMerger Subâ\\x80\\x9d shall have the meaning set forth in the Preamble."
+          ],
+          "block_idx": 770,
+          "bbox": [
+            108.0,
+            430.56,
+            435.03,
+            442.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cMultiemployer Planâ\\x80\\x9d shall have the meaning set forth in Section 2.11(j)."
+          ],
+          "block_idx": 771,
+          "bbox": [
+            108.0,
+            450.36,
+            481.22,
+            462.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cMultiple Employer Planâ\\x80\\x9d shall have the meaning set forth in Section 2.11(j)."
+          ],
+          "block_idx": 772,
+          "bbox": [
+            108.0,
+            470.17,
+            502.2,
+            482.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cNasdaqâ\\x80\\x9d means the Nasdaq Stock Market."
+          ],
+          "block_idx": 773,
+          "bbox": [
+            108.0,
+            489.97,
+            331.36,
+            501.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cNational Labor Relations Boardâ\\x80\\x9d means the National Labor Relations Board, an independent agency of the U.S. government created by Congress pursuant to the National Labor Relations Act."
+          ],
+          "block_idx": 774,
+          "bbox": [
+            72.0,
+            509.77,
+            530.02,
+            549.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cNominating Committeeâ\\x80\\x9d means the committee of either the Company or Parent, as applicable, created pursuant to the requirements of the NYSE and Nasdaq with the purpose of identifying individuals qualified to become board members, consistent with criteria approved by the board, and to select, or to recommend that the board select, the director nominees for the next annual meeting of stockholders."
+          ],
+          "block_idx": 775,
+          "bbox": [
+            72.0,
+            557.17,
+            537.72,
+            624.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cNYSEâ\\x80\\x9d shall have the meaning set forth in Section 1.5(c)."
+          ],
+          "block_idx": 776,
+          "bbox": [
+            108.0,
+            632.17,
+            405.51,
+            644.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cOff-Balance Sheet Arrangementâ\\x80\\x9d means off-balance sheet arrangements as defined in Item 303(a)(4) of Regulation S-K of the SEC."
+          ],
+          "block_idx": 777,
+          "bbox": [
+            72.0,
+            651.97,
+            539.29,
+            677.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 73,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cOrderâ\\x80\\x9d means any order, injunction, judgment, decree, ruling, stipulation, assessment, or arbitration award of any Governmental Body or arbitrator."
+          ],
+          "block_idx": 778,
+          "bbox": [
+            72.0,
+            685.56,
+            495.4,
+            711.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cOrganizational Documentsâ\\x80\\x9d shall have the meaning set forth in Section 2.1(b)."
+          ],
+          "block_idx": 779,
+          "bbox": [
+            108.0,
+            71.17,
+            512.81,
+            83.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cOwned Company IPâ\\x80\\x9d means the Intellectual Property that is owned by the Company or any of the Company Subsidiaries."
+          ],
+          "block_idx": 780,
+          "bbox": [
+            72.0,
+            90.97,
+            495.07,
+            116.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cParentâ\\x80\\x9d shall have the meaning set forth in the Preamble."
+          ],
+          "block_idx": 781,
+          "bbox": [
+            108.0,
+            124.56,
+            407.89,
+            136.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cParent Benefit Plansâ\\x80\\x9d shall have the meaning set forth in Section 4.16(a)."
+          ],
+          "block_idx": 782,
+          "bbox": [
+            108.0,
+            144.36,
+            485.69,
+            156.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cParent Common Stockâ\\x80\\x9d means the common stock, $ par value per share, of Parent."
+          ],
+          "block_idx": 783,
+          "bbox": [
+            72.0,
+            164.17,
+            522.55,
+            189.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cParent Disclosure Scheduleâ\\x80\\x9d means the disclosure schedule that has been prepared by Parent in accordance with the requirements of Section 8.9 and that has been delivered by Parent to the Company on the date of this Agreement and signed by an authorized officer of Parent."
+          ],
+          "block_idx": 784,
+          "bbox": [
+            72.0,
+            197.77,
+            537.26,
+            251.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cParent Material Adverse Effectâ\\x80\\x9d means any change, effect, event, or occurrence that prevents or materially impedes, interferes with, hinders, or delays (i) the consummation by Parent or Merger Sub of the Merger or any of the other transactions contemplated by this Agreement on a timely basis, or (ii) the compliance by Parent or Merger Sub of its obligations under this Agreement."
+          ],
+          "block_idx": 785,
+          "bbox": [
+            72.0,
+            258.97,
+            521.48,
+            326.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cParent Optionsâ\\x80\\x9d shall have the meaning set forth in Section 3.3. â\\x80\\x9cParent Preferred Stockâ\\x80\\x9d means the preferred stock, $ par value per share, of Parent."
+          ],
+          "block_idx": 786,
+          "bbox": [
+            72.0,
+            333.97,
+            533.48,
+            379.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cParent SEC Reportsâ\\x80\\x9d shall have the meaning set forth in Section 3.4(a)."
+          ],
+          "block_idx": 787,
+          "bbox": [
+            108.0,
+            387.36,
+            478.95,
+            399.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cParent Stock Optionsâ\\x80\\x9d shall have the meaning set forth in Section 3.3. â\\x80\\x9cPartâ\\x80\\x9d means a part or section of the Company Disclosure Schedule or the Parent Disclosure Schedule, as applicable."
+          ],
+          "block_idx": 788,
+          "bbox": [
+            72.0,
+            407.17,
+            526.31,
+            452.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cPartyâ\\x80\\x9d means a party to the Agreement."
+          ],
+          "block_idx": 789,
+          "bbox": [
+            108.0,
+            460.56,
+            318.88,
+            472.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cPatentsâ\\x80\\x9d means the Issued Patents and the Patent Applications."
+          ],
+          "block_idx": 790,
+          "bbox": [
+            108.0,
+            480.36,
+            437.83,
+            492.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cPatent Applicationsâ\\x80\\x9d means all published or unpublished nonprovisional and provisional patent applications, reexamination proceedings, invention disclosures, and records of invention."
+          ],
+          "block_idx": 791,
+          "bbox": [
+            72.0,
+            500.17,
+            512.98,
+            539.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cPermitted Lienâ\\x80\\x9d shall have the meaning set forth in Section 2.9. â\\x80\\x9cPBGCâ\\x80\\x9d means the Pension Benefit Guaranty Corporation, an independent agency of the U.S. government created by ERISA."
+          ],
+          "block_idx": 792,
+          "bbox": [
+            72.0,
+            547.56,
+            534.03,
+            593.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cPersonâ\\x80\\x9d means any individual, Entity, or Governmental Body."
+          ],
+          "block_idx": 793,
+          "bbox": [
+            108.0,
+            600.97,
+            432.73,
+            612.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cPre-Closing Periodâ\\x80\\x9d shall have the meaning set forth in Section 4.2(a)."
+          ],
+          "block_idx": 794,
+          "bbox": [
+            108.0,
+            620.77,
+            471.99,
+            632.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cProprietary Rightsâ\\x80\\x9d means any: (a)(i) Issued Patents, (ii) Patent Applications, protect, under applicable Legal Requirements, such other intangible assets, properties, or rights); or (b) any right to use or exploit any of the foregoing."
+          ],
+          "block_idx": 795,
+          "bbox": [
+            72.0,
+            640.56,
+            530.08,
+            652.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "(iii) Trademarks, fictitious business names, and domain name registrations,"
+          ],
+          "block_idx": 796,
+          "bbox": [
+            72.0,
+            654.36,
+            457.81,
+            666.36
+          ],
+          "level": 2
+        },
+        {
+          "tag": "list_item",
+          "page_idx": 74,
+          "block_class": "cls_2",
+          "sentences": [
+            "(iv) Copyrights, (v) Trade Secrets, and (vi) all other ideas, inventions, designs, manufacturing and operating specifications, technical data, and other intangible assets, intellectual properties, and rights (whether or not appropriate steps have been taken to â\\x80\\x9cProxy Statementâ\\x80\\x9d means a proxy statement/prospectus to be sent to the Companyâ\\x80\\x99s stockholders in connection with the Company Stockholders Meeting."
+          ],
+          "block_idx": 797,
+          "bbox": [
+            72.0,
+            668.17,
+            518.1,
+            707.77
+          ],
+          "level": 2
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cQualified Company Benefit Planâ\\x80\\x9d shall have the meaning set forth in Section 2.11(e)."
+          ],
+          "block_idx": 798,
+          "bbox": [
+            72.0,
+            138.36,
+            506.37,
+            164.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cRegistered Copyrightsâ\\x80\\x9d means all Copyrights for which registrations have been obtained or applications for registration have been filed in the United States Copyright Office or any other Governmental Body."
+          ],
+          "block_idx": 799,
+          "bbox": [
+            72.0,
+            171.97,
+            520.38,
+            211.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cRegistered Trademarksâ\\x80\\x9d means all Trademarks for which registrations have been obtained or applications for registration have been filed in the United States Patent and Trademark Office or any other Governmental Body."
+          ],
+          "block_idx": 800,
+          "bbox": [
+            72.0,
+            219.36,
+            533.77,
+            258.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cRegulation S-Kâ\\x80\\x9d means SEC Regulation S-K."
+          ],
+          "block_idx": 801,
+          "bbox": [
+            108.0,
+            266.77,
+            346.09,
+            278.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cRegulation S-Xâ\\x80\\x9d means SEC Regulation S-X."
+          ],
+          "block_idx": 802,
+          "bbox": [
+            108.0,
+            286.56,
+            344.79,
+            298.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cReleaseâ\\x80\\x9d shall have the meaning set forth in Section 2.13(b)."
+          ],
+          "block_idx": 803,
+          "bbox": [
+            108.0,
+            306.36,
+            419.54,
+            318.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cRepresentativesâ\\x80\\x9d means officers, directors, employees, managers, agents, attorneys, accountants, advisors, and representatives."
+          ],
+          "block_idx": 804,
+          "bbox": [
+            72.0,
+            326.17,
+            486.35,
+            351.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cRequired Stockholder Voteâ\\x80\\x9d shall have the meaning set forth in Section 2.2(a)."
+          ],
+          "block_idx": 805,
+          "bbox": [
+            108.0,
+            359.77,
+            514.36,
+            371.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cSECâ\\x80\\x9d means the United States Securities and Exchange Commission."
+          ],
+          "block_idx": 806,
+          "bbox": [
+            108.0,
+            379.56,
+            466.99,
+            391.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cSecretary of Stateâ\\x80\\x9d shall have the meaning set forth in Section 1.3. â\\x80\\x9cSecurities Actâ\\x80\\x9d means the Securities Act of 1933, as amended."
+          ],
+          "block_idx": 807,
+          "bbox": [
+            108.0,
+            399.36,
+            451.69,
+            431.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cShare Acquisition Dateâ\\x80\\x9d shall have the meaning set forth in Section 2.20."
+          ],
+          "block_idx": 808,
+          "bbox": [
+            108.0,
+            438.97,
+            485.07,
+            450.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cSOXâ\\x80\\x9d shall have the meaning set forth in Section 2.4(a)(ii)."
+          ],
+          "block_idx": 809,
+          "bbox": [
+            108.0,
+            458.77,
+            413.69,
+            470.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cStockholder Voting Agreementsâ\\x80\\x9d shall mean the voting agreements entered into by and between Parent and certain stockholders of the Company, dated of even date herewith."
+          ],
+          "block_idx": 810,
+          "bbox": [
+            72.0,
+            478.56,
+            538.36,
+            504.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cStock Option Agreementâ\\x80\\x9d means an Agreement to be entered into by and among the Parties issuing and evidencing the Assumed Stock Options."
+          ],
+          "block_idx": 811,
+          "bbox": [
+            72.0,
+            512.17,
+            526.68,
+            537.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cSubsidiaryâ\\x80\\x9d means an Entity of which another Person directly or indirectly owns, beneficially or of record, (a) an amount of voting securities or other interests in such Entity that is sufficient to enable such Person to elect at least a majority of the members of such Entityâ\\x80\\x99s board of directors or other governing body, or (b) at least 50% of the outstanding equity or financial interests of such Entity."
+          ],
+          "block_idx": 812,
+          "bbox": [
+            72.0,
+            545.77,
+            537.4,
+            612.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 75,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cSuperior Proposalâ\\x80\\x9d means an unsolicited, bona fide written offer made by a third party to acquire, directly or indirectly, by merger or otherwise, all of the outstanding shares of Company Common Stock or all or substantially all of the assets of the Company and its Subsidiaries, which the Company Board determines in its reasonable judgment, taking into account, among other things, all legal, financial, regulatory, and other aspects of the proposal and the person making the proposal and an opinion of an independent financial advisor of nationally recognized reputation (a) is more favorable from a financial point of view to the Companyâ\\x80\\x99s stockholders than the terms of the Merger, and (b) is reasonably capable of being consummated; provided, however, that any such offer shall not be deemed to be a â\\x80\\x9cSuperior Proposalâ\\x80\\x9d if any financing required to consummate the transaction contemplated by such offer is not committed and is not reasonably capable of being obtained by such third party."
+          ],
+          "block_idx": 813,
+          "bbox": [
+            72.0,
+            620.77,
+            534.73,
+            715.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 76,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cSurviving Corporationâ\\x80\\x9d shall have the meaning set forth in Section 1.1. â\\x80\\x9cSurviving Corporation Benefit Plansâ\\x80\\x9d shall have the meaning set forth in Section 4.16."
+          ],
+          "block_idx": 814,
+          "bbox": [
+            72.0,
+            146.17,
+            527.16,
+            191.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 76,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cTaxâ\\x80\\x9d means any tax (including any income tax, franchise tax, capital gains tax, gross receipts tax, value-added tax, surtax, excise tax, ad valorem tax, transfer tax, stamp tax, sales tax, use tax, property tax, business tax, withholding tax, or payroll tax), levy, assessment, tariff, duty (including any customs duty), deficiency, or fee, and any related charge or amount (including any fine, penalty, or interest), imposed, assessed, or collected by or under the authority of any Governmental Body."
+          ],
+          "block_idx": 815,
+          "bbox": [
+            72.0,
+            199.56,
+            530.88,
+            280.56000000000006
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 76,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cTax Returnâ\\x80\\x9d means any return (including any information return), report, statement, declaration, estimate, schedule, notice, notification, form, election, certificate, or other document or information filed with or submitted to, or required to be filed with or submitted to, any Governmental Body in connection with the determination, assessment, collection, or payment of any Tax or in connection with the administration, implementation, or enforcement of or compliance with any Legal Requirement relating to any Tax."
+          ],
+          "block_idx": 816,
+          "bbox": [
+            72.0,
+            288.36,
+            537.18,
+            383.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 76,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cTax Rulingâ\\x80\\x9d shall have the meaning set forth in Section 2.10(k)."
+          ],
+          "block_idx": 817,
+          "bbox": [
+            108.0,
+            390.97,
+            438.84,
+            402.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 76,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cTaxing Authorityâ\\x80\\x9d means any Governmental Body having jurisdiction in matters relating to Tax matters."
+          ],
+          "block_idx": 818,
+          "bbox": [
+            72.0,
+            410.77,
+            529.0,
+            436.56
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 76,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cTermination Feeâ\\x80\\x9d shall have the meaning set forth in Section 7.3(b)."
+          ],
+          "block_idx": 819,
+          "bbox": [
+            108.0,
+            444.36,
+            460.69,
+            456.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 76,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cTrade Secretsâ\\x80\\x9d means all product specifications, data, know-how, formulae, compositions, processes, designs, sketches, photographs, graphs, drawings, samples, inventions and ideas, research and development, manufacturing or distribution methods and processes, customer lists, current and anticipated customer requirements, price lists, market studies, business plans, computer software and programs (including object code), computer software and database technologies, systems, structures and architectures (and related processes, formulae, composition, improvements, devices, know-how, inventions, discoveries, concepts, ideas, designs, methods, and information), and any other information, however documented, that is a trade secret within the meaning of the applicable trade-secret protection Legal Requirements."
+          ],
+          "block_idx": 820,
+          "bbox": [
+            72.0,
+            464.17,
+            527.08,
+            600.3600000000001
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 76,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cTrademarksâ\\x80\\x9d means all (a) trademarks, service marks, marks, logos, insignias, designs, names, or other symbols, (b) applications for registration of trademarks, service marks, marks, logos, insignias, designs, names, or other symbols, and (c) trademarks, service marks, marks, logos, insignias, designs, names, or other symbols for which registrations has been obtained."
+          ],
+          "block_idx": 821,
+          "bbox": [
+            72.0,
+            608.17,
+            524.38,
+            675.36
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 76,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cUnited States Treasury Regulationsâ\\x80\\x9d means all temporary and final regulations promulgated under the Code by the Department of the Treasury."
+          ],
+          "block_idx": 822,
+          "bbox": [
+            72.0,
+            683.17,
+            520.49,
+            708.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 77,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cU.S.C.â\\x80\\x9d means the United States Code of 1926, as amended."
+          ],
+          "block_idx": 823,
+          "bbox": [
+            108.0,
+            71.17,
+            418.02,
+            83.17
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 77,
+          "block_class": "cls_2",
+          "sentences": [
+            "â\\x80\\x9cWARN Actâ\\x80\\x9d means the Worker Adjustment Retraining and Notification Act of 1989, as amended, 29 U.S.C. Â§Â§ 2101-2109."
+          ],
+          "block_idx": 824,
+          "bbox": [
+            72.0,
+            90.97,
+            519.33,
+            116.77
+          ],
+          "level": 1
+        },
+        {
+          "tag": "para",
+          "page_idx": 78,
+          "block_class": "cls_2",
+          "sentences": [
+            "In Witness Whereof, the Parties have caused this Agreement to be executed as of the date first above written."
+          ],
+          "block_idx": 825,
+          "bbox": [
+            72.0,
+            71.17,
+            528.12,
+            96.97
+          ],
+          "level": 1
+        },
+        {
+          "tag": "table",
+          "page_idx": 78,
+          "block_class": "cls_2",
+          "top": 112.56,
+          "left": 72.0,
+          "name": "8.16 CERTAIN DEFINITIONS :",
+          "block_idx": 826,
+          "level": 1,
+          "table_rows": [
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "PARENT:"
+                },
+                {
+                  "cell_value": {
+                    "tag": "para",
+                    "page_idx": 78,
+                    "block_class": "cls_2",
+                    "sentences": [
+                      "STOCKHOLDER:"
+                    ],
+                    "block_idx": 843,
+                    "bbox": [
+                      324.0,
+                      112.56,
+                      422.08,
+                      124.56
+                    ]
+                  }
+                }
+              ],
+              "block_idx": 826
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "[ACQUIROR], By:"
+                },
+                {
+                  "cell_value": {
+                    "tag": "para",
+                    "page_idx": 78,
+                    "block_class": "cls_2",
+                    "sentences": [
+                      "By:"
+                    ],
+                    "block_idx": 845,
+                    "bbox": [
+                      324.0,
+                      176.17,
+                      342.03,
+                      188.17
+                    ]
+                  }
+                }
+              ],
+              "block_idx": 827
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "Name:"
+                },
+                {
+                  "cell_value": {
+                    "tag": "para",
+                    "page_idx": 78,
+                    "block_class": "cls_2",
+                    "sentences": [
+                      "Name:"
+                    ],
+                    "block_idx": 846,
+                    "bbox": [
+                      324.0,
+                      201.97,
+                      357.87,
+                      213.97
+                    ]
+                  }
+                }
+              ],
+              "block_idx": 828
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "Title:"
+                },
+                {
+                  "cell_value": "Title: Address: Telephone: Facsimile: E-mail address:"
+                }
+              ],
+              "block_idx": 829
+            },
+            {
+              "type": "full_row",
+              "col_span": 2,
+              "cell_value": "With respect to Section 2(b) only: Company [TARGET], INC.",
+              "block_idx": 830
+            },
+            {
+              "type": "full_row",
+              "col_span": 2,
+              "cell_value": "Shares Beneficially Owned by Stockholder:",
+              "block_idx": 831
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "By:"
+                },
+                {
+                  "cell_value": {
+                    "tag": "para",
+                    "page_idx": 78,
+                    "block_class": "cls_2",
+                    "sentences": [
+                      "shares of Company Common Stock"
+                    ],
+                    "block_idx": 851,
+                    "bbox": [
+                      342.0,
+                      441.36,
+                      522.58,
+                      453.36
+                    ]
+                  }
+                }
+              ],
+              "block_idx": 832
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "Name:"
+                },
+                {
+                  "cell_value": {
+                    "tag": "para",
+                    "page_idx": 78,
+                    "block_class": "cls_2",
+                    "sentences": [
+                      "shares of Company Preferred Stock"
+                    ],
+                    "block_idx": 852,
+                    "bbox": [
+                      342.0,
+                      467.17,
+                      525.22,
+                      479.17
+                    ]
+                  }
+                }
+              ],
+              "block_idx": 833
+            },
+            {
+              "type": "table_data_row",
+              "cells": [
+                {
+                  "cell_value": "Title:"
+                },
+                {
+                  "cell_value": {
+                    "tag": "para",
+                    "page_idx": 78,
+                    "block_class": "cls_2",
+                    "sentences": [
+                      "Options to acquire Company Common Stock"
+                    ],
+                    "block_idx": 853,
+                    "bbox": [
+                      342.0,
+                      492.97,
+                      420.9,
+                      518.77
+                    ]
+                  }
+                }
+              ],
+              "block_idx": 834
+            }
+          ],
+          "bbox": [
+            72.0,
+            112.56,
+            420.9,
+            138.35999999999996
+          ]
+        }
+      ]
+    }
+  }
+}

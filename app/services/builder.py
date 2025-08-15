@@ -144,11 +144,28 @@ class StoreBuilder:
                 # labels/titles/level (best-effort)
                 label, title, level = None, None, None
                 t_lower = (el.get("type") or "").lower()
+
+                # Prefer a provided structural level from metadata, if any
+                md_level_raw = md.get("level")
+
+                def _as_int(x):
+                    try:
+                        return int(x)
+                    except (TypeError, ValueError):
+                        return None
+
+                md_level = _as_int(md_level_raw)
+
+                # If the element looks like a header/title, parse with explicit level
                 if "title" in t_lower or "header" in t_lower:
-                    label, title, level = parse_label_title_level(text)
+                    label, title, level = parse_label_title_level(text, explicit_level=md_level)
+
+                # If still no label (or not a header), try parsing anyway from text, but keep explicit level if present
                 if not label:
-                    l2, t2, lvl2 = parse_label_title_level(text)
-                    label, title, level = label or l2, title or t2, level or lvl2
+                    l2, t2, lvl2 = parse_label_title_level(text, explicit_level=md_level)
+                    label = label or l2
+                    title = title or t2
+                    level = md_level if md_level is not None else lvl2
 
                 # pages & spans (support dict coordinates with polygon points)
                 pnum = md.get("page_number")
