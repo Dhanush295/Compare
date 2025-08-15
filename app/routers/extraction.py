@@ -1,18 +1,17 @@
-from fastapi import APIRouter, UploadFile, File, HTTPException, Query  
-from app.services import pdf_processor
-
-from fastapi.responses import JSONResponse
-from typing import Any, Dict, Optional
+from fastapi import APIRouter, UploadFile, File, HTTPException, Query
+from typing import Any, Dict
 import json
+
+from app.services import pdf_processor
 from app.services.loaders import load_any_shape
 from app.services.builder import StoreBuilder
 from app.schemas.json_schema import build_dynamic_schema
 from app.core.config import settings
-from app.models.store import StoreBundle
-
+# NEW:
+from app.services.kg import KGClient
 
 router = APIRouter(
-    prefix="/extract",
+    prefix="/api/extraction",
     tags=["PDF Extraction", "structure"],
 )
 
@@ -48,36 +47,16 @@ _SAMPLE_INPUT = [
     {"type": "NarrativeText", "text": "At the Effective Time, the Merger...", "metadata": {"page_number": 2}},
 ]
 
-@router.post(
-    "/structure",
-    response_model=StoreBundle,
-    summary="Normalize an uploaded JSON file to the M&A store format",
-    openapi_extra={
-        "requestBody": {
-            "content": {
-                "multipart/form-data": {
-                    "schema": {
-                        "type": "object",
-                        "properties": {
-                            "file": {"type": "string", "format": "binary"},
-                            "include_schema": {"type": "boolean", "default": True},
-                            "index_text": {"type": "boolean", "default": False},
-                            "snippet_chars": {"type": "integer", "default": 280},
-                        },
-                        "required": ["file"],
-                    }
-                }
-            }
-        }
-    },
-)
+
+
+
+@router.post("/structure", summary="Normalize an uploaded JSON file to the M&A store format")
 async def structure_file(
     file: UploadFile = File(...),
     include_schema: bool = True,
     index_text: bool = Query(False, description="Include full text in topology.section_index"),
-    snippet_chars: int = Query(
-        280, ge=0, le=10000, description="Chars for topology.section_index.text_snippet when index_text=false"
-    ),
+    snippet_chars: int = Query(280, ge=0, le=10000),
+    auto_load_to_kg: bool = Query(False, description="If true, load the structured store into Neo4j Aura"),
 ):
     try:
         contents = await file.read()
@@ -95,34 +74,27 @@ async def structure_file(
         resp: Dict[str, Any] = {"store": store}
         if include_schema:
             resp["schema"] = build_dynamic_schema(store)
+
+        if auto_load_to_kg:
+            if not settings.neo4j_enabled:
+                raise HTTPException(400, "auto_load_to_kg=True but Neo4j is not configured.")
+            kg = KGClient()
+            kg.ensure_constraints()
+            resp["kg_result"] = kg.import_store(store)
+            kg.close()
+
         return resp
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
 
-@router.post(
-    "/structure/rawjson",
-    response_model=StoreBundle,
-    summary="Normalize an inline JSON payload to the M&A store format",
-    openapi_extra={
-        "requestBody": {
-            "content": {
-                "application/json": {
-                    "examples": {
-                        "minimal": {"summary": "Minimal Unstructured-like array", "value": _SAMPLE_INPUT},
-                        "with-elements-key": {"summary": "Wrapped in {'elements': [...]}","value": {"elements": _SAMPLE_INPUT}},
-                    }
-                }
-            }
-        }
-    },
-)
+
+@router.post("/rawjson", summary="Normalize an inline JSON payload to the M&A store format")
 async def structure_rawjson(
     raw: Dict[str, Any],
     include_schema: bool = True,
     index_text: bool = Query(False, description="Include full text in topology.section_index"),
-    snippet_chars: int = Query(
-        280, ge=0, le=10000, description="Chars for topology.section_index.text_snippet when index_text=false"
-    ),
+    snippet_chars: int = Query(280, ge=0, le=10000),
+    auto_load_to_kg: bool = Query(False, description="If true, load the structured store into Neo4j Aura"),
 ):
     try:
         elements = load_any_shape(raw)
@@ -138,6 +110,15 @@ async def structure_rawjson(
         resp: Dict[str, Any] = {"store": store}
         if include_schema:
             resp["schema"] = build_dynamic_schema(store)
+
+        if auto_load_to_kg:
+            if not settings.neo4j_enabled:
+                raise HTTPException(400, "auto_load_to_kg=True but Neo4j is not configured.")
+            kg = KGClient()
+            kg.ensure_constraints()
+            resp["kg_result"] = kg.import_store(store)
+            kg.close()
+
         return resp
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))

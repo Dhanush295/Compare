@@ -1,6 +1,9 @@
 import uvicorn
 from fastapi import FastAPI
-from app.routers import extraction
+
+# import the router objects directly from their modules
+from app.routers.extraction import router as extractor_router
+from app.routers.kg import router as kg_router
 
 app = FastAPI(
     title="PDF Extraction Comparison API",
@@ -8,7 +11,9 @@ app = FastAPI(
     version="2.0.0",
 )
 
-app.include_router(extraction.router)
+# use the variables you imported above
+app.include_router(extractor_router)
+app.include_router(kg_router)
 
 @app.get("/health")
 def health():
@@ -16,7 +21,6 @@ def health():
 
 @app.get("/", tags=["Root"])
 async def read_root():
-    """A welcome message to confirm the server is running."""
     return {"message": "Welcome to the PDF Extraction API. Go to /docs to see the endpoints."}
 
 if __name__ == "__main__":
